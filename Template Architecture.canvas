@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"9789250544a9db4d","x":-117,"y":100,"width":400,"height":400,"color":"4","type":"file","file":"Catalog/Templates/MOC Atlas.canvas"},
+		{"id":"fa9b729c024f6c0b","x":-117,"y":621,"width":400,"height":400,"color":"1","type":"file","file":"Catalog/Templates/MOC Topic.canvas"},
+		{"id":"454ac7934a815d97","x":-117,"y":1137,"width":400,"height":400,"color":"3","type":"file","file":"Catalog/Templates/Concept.canvas"},
+		{"id":"32c5d295252bb66a","x":620,"y":100,"width":400,"height":400,"color":"4","type":"file","file":"Must-Do Projects.canvas"},
+		{"id":"f0657c7f9e407945","x":-851,"y":100,"width":400,"height":400,"color":"4","type":"file","file":"Passion Projects.canvas"},
+		{"id":"a66dfeb59bc7d372","x":-117,"y":1644,"width":400,"height":400,"color":"5","type":"file","file":"Insight.canvas"},
+		{"id":"a0ab43685783b9ad","x":-851,"y":621,"width":400,"height":400,"color":"1","type":"file","file":"Catalog/Templates/Project.canvas"},
+		{"id":"73eca48e099556cc","x":620,"y":1137,"width":400,"height":400,"color":"3","type":"file","file":"Intuition.canvas"},
+		{"id":"2c86c356d646bd03","x":-117,"y":-387,"width":400,"height":400,"color":"#ffffff","type":"file","file":"My Home.canvas"},
+		{"id":"5b9442a1857907c9","x":-520,"y":-314,"width":281,"height":254,"color":"#ffffff","type":"text","text":"## Colored Cards:\n🟩 = Broad MOC\n🟥 = Specific MOC\n🟨 = Concept MOC\n\t🟦 = Insights\n🟪 = Solution(s)/Application(s)\n🟧 = Challenge(s)"}
+	],
+	"edges":[
+		{"id":"c60ba6bfd05f914b","fromNode":"9789250544a9db4d","fromSide":"bottom","toNode":"fa9b729c024f6c0b","toSide":"top"},
+		{"id":"d352ea1aab24253e","fromNode":"fa9b729c024f6c0b","fromSide":"bottom","toNode":"454ac7934a815d97","toSide":"top"},
+		{"id":"f47ae59aa8ff257c","fromNode":"fa9b729c024f6c0b","fromSide":"left","toNode":"a0ab43685783b9ad","toSide":"right","label":"Projects"},
+		{"id":"e92fa355ebdc2c57","fromNode":"454ac7934a815d97","fromSide":"bottom","toNode":"a66dfeb59bc7d372","toSide":"top"},
+		{"id":"e522a1eb339f38d7","fromNode":"9789250544a9db4d","fromSide":"left","toNode":"f0657c7f9e407945","toSide":"right","label":"Passion Projects"},
+		{"id":"75fad0f975462897","fromNode":"9789250544a9db4d","fromSide":"right","toNode":"32c5d295252bb66a","toSide":"left","label":"Must-Do Projects"},
+		{"id":"2ab13c9969b0a052","fromNode":"454ac7934a815d97","fromSide":"right","toNode":"73eca48e099556cc","toSide":"left","label":"Intuition"},
+		{"id":"59f1d8bdb7d3dca0","fromNode":"2c86c356d646bd03","fromSide":"left","toNode":"5b9442a1857907c9","toSide":"right"},
+		{"id":"8d8f6e907550cbc5","fromNode":"2c86c356d646bd03","fromSide":"bottom","toNode":"9789250544a9db4d","toSide":"top"}
+	]
+}

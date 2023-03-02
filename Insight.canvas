@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8697a7f034b5baed","x":126,"y":-390,"width":368,"height":243,"color":"5","type":"text","text":"## [[Concept.canvas|USE Category]]\n\"Is the information I'm receiving: \n- **U**nimportant, \n- **S**elf-Explanatory, \n- **E**asy Enough to Memorize?\"\nSimply *feel* if you need to write it down."},
+		{"id":"ebc060e7c7895b91","x":126,"y":-89,"width":449,"height":143,"color":"5","type":"text","text":"## [[Concept.canvas|Variables]]\nTake out the concept of an amount you're looking up."},
+		{"id":"e7f6bb2b2f289bdb","x":126,"y":145,"width":408,"height":298,"color":"5","type":"text","text":"## [[Concept.canvas|Concept Vs. Applications]]\nApplications are demonstrations of a concept.\n\n1. Reframing the problem. \"Are we solving an application or a concept?\"\n2. Separate the main concept away from an application (they are used as shortcuts)"},
+		{"id":"c644940cb07c7a5a","x":-555,"y":-330,"width":475,"height":625,"color":"5","type":"text","text":"# [[Concept.canvas|Insight]]\nInsights are the unique steps out of concepts that have been previously observed. They reduce the risk of tripping over future problems that use said concept in a certain way while also giving you a much deeper understanding of a concept.\nThey help create ***new solutions and original connections*** to problems through reasoning.\nThey can come out of any application, solution, or problem from multifaceted subjects, methods, etc.\nThey are random, deep, reflective, often unconscious thoughts.\nThey can be generated out of any application, solution, or problems from multifaceted subjects, methods, etc.\nThe best way to pick out insights is by capturing it through the first concept we recall on the spot.\nInsights makes [[Concept.canvas|concepts]] stronger by their abundance. The more of them there are, the easier it is to reason behind using a concept.\nInsights are put inside of it's related Concept MOC as a card until you come across enough details to convert into its markdown file."},
+		{"id":"6f3b82ab4ef6d264","x":-1411,"y":-195,"width":763,"height":355,"color":"5","type":"text","text":"# [[Insight|Intuitive Facts]]\n![[intuitive-facts.png]]"}
+	],
+	"edges":[
+		{"id":"c29606461edfdb18","fromNode":"c644940cb07c7a5a","fromSide":"right","toNode":"8697a7f034b5baed","toSide":"left"},
+		{"id":"3d53499664327756","fromNode":"c644940cb07c7a5a","fromSide":"right","toNode":"ebc060e7c7895b91","toSide":"left"},
+		{"id":"1dc74d4983fb37e9","fromNode":"c644940cb07c7a5a","fromSide":"right","toNode":"e7f6bb2b2f289bdb","toSide":"left"},
+		{"id":"eeb920ee7eaf26cd","fromNode":"c644940cb07c7a5a","fromSide":"left","toNode":"6f3b82ab4ef6d264","toSide":"right"}
+	]
+}

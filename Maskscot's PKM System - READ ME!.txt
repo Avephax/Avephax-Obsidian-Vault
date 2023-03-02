@@ -1,0 +1,28 @@
+Maskscot's PKM System of Systems and Practices - Version 4.5
+Combines the likes of: Sketch-notes + Markdown Linking + Hash Trees
+
+Uses: 60% Obsidian Canvas - 30% AmpleNote - 10% Markdown Notes
+
+Theme Used: Primary by Cecilia May (https://github.com/ceciliamay/obsidianmd-theme-primary)
+Plugin Used: Omnisearch By Simon Cambier (Omnisearch By Simon Cambier)
+
+Folders Included:
+
+Catalog: The things you encounter everywhere online and offline; your set of resources :3
+Should include: Anime, Animations, Movies, Articles, Manga, Video Links, Research, Interviews, Talks/Podcast, Templates, Frameworks
+
+Media: Supporting Materials through media files
+Change the folder location for attachments by doing: Options -> Files & Links -> Default location for new attachments -> In the Folder specified below -> Attachment folder path  
+Should include: Attachments, Graphics, Images, Videos, Audio Recordings
+
+How to use it:
+1. Make a note (Ctrl + N)
+2. Connect it to it's own MOC (Alt + C)
+3. Make a card to add more categorization within the Concept's MOC.
+4. Convert it to their own note (Right-Click)
+5. Repeat step 2 and Copy the Concept MOC template. (Alt + C > Go Back > Ctrl + L)
+6. Connect the concept MOC from its applications to outer Topic MOCs (Ctrl + L)
+
+Enjoy!
+
+~෴

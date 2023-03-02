@@ -1,0 +1,9 @@
+{
+  "accentColor": "#f5c414",
+  "cssTheme": "primary",
+  "enabledCssSnippets": [
+    "snippet — colored-folders",
+    "snippet — custom-list-styles__adding-decimals"
+  ],
+  "theme": "obsidian"
+}

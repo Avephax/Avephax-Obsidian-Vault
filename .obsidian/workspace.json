@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "b54dc86d9a718578",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dc1fed1bc1fc1bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe41371b68599425",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54cae5083db58954",
+    "type": "split",
+    "children": [
+      {
+        "id": "01234cec8dc83ea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "458bc07a6625e04f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3dc5c04a090f5f8e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7f60c61e79aca53a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a038a71844be2659",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17fe96d1d5d3c072",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Template Architecture.canvas",
+                "viewState": {
+                  "x": 15.023685318993126,
+                  "y": 807.8449628022113,
+                  "zoom": -2.3102486597737375
+                }
+              }
+            }
+          },
+          {
+            "id": "30332c4eac336018",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Here's the Plan.canvas",
+                "viewState": {
+                  "x": -383.45548999749553,
+                  "y": 2419.2705650058806,
+                  "zoom": -2.227050623409495
+                }
+              }
+            }
+          },
+          {
+            "id": "8077fda2073089cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdfcec34bb3900c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "fe41371b68599425",
+  "lastOpenFiles": [
+    "Associative Learning.canvas",
+    "Intuition.canvas",
+    "Template Architecture.canvas",
+    "Passion Projects.canvas",
+    "Catalog/Templates/MOC Atlas.canvas",
+    "My Home.canvas",
+    "Catalog/Templates/Concept.canvas",
+    "Diminishing Returns.canvas",
+    "Insight.canvas",
+    "Here's the Plan.canvas",
+    "Catalog/Templates/Project.canvas"
+  ]
+}

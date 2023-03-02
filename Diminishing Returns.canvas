@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"08e1594684a16d24","x":457,"y":-128,"width":462,"height":172,"color":"5","type":"text","text":"## Shed Maximization\n- Choose your activities wisely\n- Sacrifice some things to an extent to work on the aspirations you really want to achieve."},
+		{"id":"a6067d95b97e87c3","x":457,"y":-313,"width":447,"height":170,"color":"5","type":"text","text":"## Optimizing your learning\n***Achieve 80% of the insight(s)*** you can build off of ***first*** *(making progress)*, and add other insights when justified **(being thorough)**."},
+		{"id":"05b5d043289ecfa3","x":457,"y":74,"width":503,"height":179,"color":"5","type":"text","text":"## Optimize your Optimization\n- Don't strive to perfect your activity.\n- If time allows it, add in some thoroughness on a finished product for extra flare.\n\n"},
+		{"id":"8b5692a4f795a583","x":-196,"y":-466,"width":385,"height":250,"color":"5","type":"text","text":"## Difficulty = High Value\n- What am I missing out on by doing this activity instead?\n- Avoid comfort in anything you're learning.\n"},
+		{"id":"ff47a763a93386f1","x":-269,"y":204,"width":530,"height":328,"color":"5","type":"text","text":"# Reminders\nUse Amplenote to constantly track down your progress each month, week and day to track your progress.\nJot down answers to these following questions.\n1.  What concepts you've discovered\n2.  How often each concept receives a new insight\n3.  Which topics you're looking to further uncover concepts from?"},
+		{"id":"79a29527521d4ccb","x":-269,"y":-167,"width":531,"height":250,"color":"3","type":"text","text":"# Diminishing Returns\nThe return of [[Subconscious Mind.canvas|value]] an activity starts decreasing the more you do it.\nThe goal is to always operate on the [[Associative Learning.canvas|steep curve]] of ***progress***.\nThis way you'll be pulling in [[Associative Learning.canvas|high returns]] in the least amount of time.\nOnce your returns start to diminish, refocus onto something else."}
+	],
+	"edges":[
+		{"id":"1eff4a0b7c805208","fromNode":"79a29527521d4ccb","fromSide":"right","toNode":"05b5d043289ecfa3","toSide":"left"},
+		{"id":"2bcb121e24e51a02","fromNode":"79a29527521d4ccb","fromSide":"right","toNode":"a6067d95b97e87c3","toSide":"left"},
+		{"id":"ca1d09bf0a1b2c07","fromNode":"79a29527521d4ccb","fromSide":"bottom","toNode":"ff47a763a93386f1","toSide":"top"},
+		{"id":"43bf05f69a6b7af2","fromNode":"79a29527521d4ccb","fromSide":"top","toNode":"8b5692a4f795a583","toSide":"bottom"},
+		{"id":"a6e75ea2aff88b42","fromNode":"79a29527521d4ccb","fromSide":"right","toNode":"08e1594684a16d24","toSide":"left"}
+	]
+}

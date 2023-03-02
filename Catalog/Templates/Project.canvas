@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"04d17114f80d7b90","x":-77,"y":-247,"width":200,"height":200,"color":"3","type":"file","file":"Catalog/Templates/Concept.canvas"},
+		{"id":"c6ce469827f9cdb8","x":-413,"y":-543,"width":200,"height":246,"color":"4","type":"file","file":"Catalog/Templates/MOC Atlas.canvas"},
+		{"id":"c2cb700184dfe1a1","x":259,"y":-520,"width":200,"height":200,"color":"1","type":"file","file":"Catalog/Templates/MOC Topic.canvas"},
+		{"id":"07c546ee7f8c80c8","x":-77,"y":224,"width":200,"height":200,"color":"3","type":"file","file":"Catalog/Templates/Concept.canvas"},
+		{"id":"00fdd0f3caf25074","x":-413,"y":424,"width":200,"height":246,"color":"4","type":"file","file":"Catalog/Templates/MOC Atlas.canvas"},
+		{"id":"0b8301a445892766","x":259,"y":447,"width":200,"height":200,"color":"1","type":"file","file":"Catalog/Templates/MOC Topic.canvas"},
+		{"id":"9b661c8bed769cad","x":-113,"y":64,"width":273,"height":60,"color":"1","type":"text","text":"## Project Name"},
+		{"id":"323d7d40a7edc9e0","x":-555,"y":-76,"width":342,"height":341,"color":"5","type":"text","text":"## Support Notes\n- Add a Project's to-do list from AmpleNote here\n-   Details of a problem(s) that may need to be solved\n-   Holds any other MOCs, notes, topics, work notes, insights; Literally anything and everything down to this scope of this thing you want to flesh out."}
+	],
+	"edges":[
+		{"id":"5e87e27926e27865","fromNode":"04d17114f80d7b90","fromSide":"left","toNode":"c6ce469827f9cdb8","toSide":"right","label":"Go broadly"},
+		{"id":"a30c9cd95def1897","fromNode":"04d17114f80d7b90","fromSide":"right","toNode":"c2cb700184dfe1a1","toSide":"left","label":"Go for more specific"},
+		{"id":"123a889a52729d56","fromNode":"9b661c8bed769cad","fromSide":"top","toNode":"04d17114f80d7b90","toSide":"bottom"},
+		{"id":"fb5ae826f3fbb597","fromNode":"07c546ee7f8c80c8","fromSide":"left","toNode":"00fdd0f3caf25074","toSide":"right","label":"Go broadly"},
+		{"id":"9ff3a82a847301f9","fromNode":"07c546ee7f8c80c8","fromSide":"right","toNode":"0b8301a445892766","toSide":"left","label":"Go for more specific"},
+		{"id":"9845e091401bc339","fromNode":"9b661c8bed769cad","fromSide":"bottom","toNode":"07c546ee7f8c80c8","toSide":"top"},
+		{"id":"b0658e07375270a0","fromNode":"9b661c8bed769cad","fromSide":"left","toNode":"323d7d40a7edc9e0","toSide":"right"}
+	]
+}
