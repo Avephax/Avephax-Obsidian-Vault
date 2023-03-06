@@ -11,11 +11,34 @@
             "id": "fe41371b68599425",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Catalog/Templates/Concept.canvas",
+                "viewState": {
+                  "x": -1931.8134584136626,
+                  "y": 51.62011795641911,
+                  "zoom": -1.6723986234710295
+                }
+              }
+            }
+          },
+          {
+            "id": "08ebdb177199c762",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Insight.canvas",
+                "viewState": {
+                  "x": -289.535889951479,
+                  "y": 1061.2424267144445,
+                  "zoom": -1.1542780375015107
+                }
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Insight.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Insight.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,17 +160,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fe41371b68599425",
+  "active": "08ebdb177199c762",
   "lastOpenFiles": [
+    "Catalog/Templates/Concept.canvas",
+    "Insight.canvas",
     "Associative Learning.canvas",
     "Intuition.canvas",
     "Template Architecture.canvas",
     "Passion Projects.canvas",
     "Catalog/Templates/MOC Atlas.canvas",
     "My Home.canvas",
-    "Catalog/Templates/Concept.canvas",
     "Diminishing Returns.canvas",
-    "Insight.canvas",
     "Here's the Plan.canvas",
     "Catalog/Templates/Project.canvas"
   ]

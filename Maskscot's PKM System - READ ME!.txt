@@ -1,7 +1,7 @@
-Maskscot's PKM System of Systems and Practices - Version 4.5
+Maskscot's PKM System of Systems and Practices - Version 5.0
 Combines the likes of: Sketch-notes + Markdown Linking + Hash Trees
 
-Uses: 60% Obsidian Canvas - 30% AmpleNote - 10% Markdown Notes
+Uses: 80% Obsidian Canvas - 10% AmpleNote - 10% Markdown Notes
 
 Theme Used: Primary by Cecilia May (https://github.com/ceciliamay/obsidianmd-theme-primary)
 Plugin Used: Omnisearch By Simon Cambier (Omnisearch By Simon Cambier)
