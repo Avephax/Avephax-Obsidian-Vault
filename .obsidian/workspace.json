@@ -4,41 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "79250c3166d9c440",
+        "id": "8e987ed33bd5dd78",
         "type": "tabs",
         "children": [
           {
-            "id": "3f50eb006216863c",
+            "id": "3adcc19e3a17b105",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Catalog/Templates/Concept.canvas",
-                "viewState": {
-                  "x": -2323.856784082223,
-                  "y": -537.8189620858376,
-                  "zoom": -0.7676606045353108
-                }
-              }
-            }
-          },
-          {
-            "id": "db26ed670b2044a8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Catalog/Templates/Concept.canvas",
-                "viewState": {
-                  "x": -2045.6520373250391,
-                  "y": 434,
-                  "zoom": -1.9937039393302716
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,27 +76,11 @@
             }
           },
           {
-            "id": "30332c4eac336018",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Here's the Plan.canvas",
-                "viewState": {
-                  "x": -383.45548999749553,
-                  "y": 2419.2705650058806,
-                  "zoom": -2.227050623409495
-                }
-              }
-            }
-          },
-          {
             "id": "8077fda2073089cc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catalog/Templates/Concept.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,14 +97,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catalog/Templates/Concept.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,18 +119,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "db26ed670b2044a8",
+  "active": "3adcc19e3a17b105",
   "lastOpenFiles": [
-    "Template Architecture.canvas",
-    "Catalog/Templates/Concept.canvas",
-    "Insight.canvas",
-    "My Home.canvas",
     "Associative Learning.canvas",
+    "Creative Problem-Solving.canvas",
+    "Insight.canvas",
     "Intuition.canvas",
-    "Passion Projects.canvas",
-    "Catalog/Templates/MOC Atlas.canvas",
-    "Diminishing Returns.canvas",
+    "Template Architecture.canvas",
+    "Catalog/Templates/MOC Topic.canvas",
+    "Catalog/Templates/Project.canvas",
+    "Catalog/Templates/Concept.canvas",
     "Here's the Plan.canvas",
-    "Catalog/Templates/Project.canvas"
+    "Habits.canvas",
+    "My Home.canvas"
   ]
 }

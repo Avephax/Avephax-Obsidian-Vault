@@ -1,20 +1,17 @@
 {
 	"nodes":[
-		{"id":"00c181c7816b2318","x":-249,"y":348,"width":430,"height":66,"color":"1","type":"text","text":"# [[MOC Atlas.canvas|MOC Topic Directory]]"},
-		{"id":"e47527bc678095a9","x":-159,"y":-158,"width":250,"height":231,"color":"2","type":"text","text":"## Application:\n\n- [ ] Detail 1\n- [ ] Detail 2\n- [ ] Detail 3\n- [ ] Detail 4"},
-		{"id":"f5f087db53c37cfa","x":797,"y":356,"width":250,"height":50,"color":"3","type":"text","text":"[[Concept.canvas|Entirely new Concept that works!]]"},
-		{"id":"f32f09a77f0af948","x":299,"y":633,"width":250,"height":60,"color":"3","type":"text","text":"[[Concept]]"},
-		{"id":"0a2f27dadc809393","x":-159,"y":738,"width":250,"height":60,"color":"3","type":"text","text":"[[Concept]]"},
-		{"id":"17bb06982fcbc32f","x":-1172,"y":768,"width":324,"height":55,"color":"3","type":"text","text":"[[Concept.canvas|Concept & its new insight(s)]]"},
-		{"id":"21dbc016ec6178b4","x":-714,"y":650,"width":275,"height":291,"color":"2","type":"text","text":"# [[Solution.canvas|Problem]]\n\n## Application:\n\n- [ ] Detail 1\n- [ ] Detail 2\n- [ ] *Detail 3* ***<- Pattern Notice!!!***\n- [ ] Detail 4"},
-		{"id":"7b758ed6f257463a","x":-1468,"y":1108,"width":458,"height":760,"color":"6","type":"text","text":"# Solution\n## What insights does this offer for the rest of the concept?\n### \"Insight Name\"\n- Step 1\n- Step 2\n- etc.\n## How this fits into the big picture?\n- Detail\n\t- Aspect\n\t- Aspect\n\t- etc.\n- ETC.\n## What inspired that solution?\n- Detail\n\t- Aspect\n\t- Aspect\n\t- etc.\n- Detail\n\t- Aspect\n\t- Aspect\n\t- etc.\n- ETC.\n### This will then go into its related [[MOC Topic.canvas|Topic]] as an Application."}
+		{"type":"text","text":"# [[MOC Atlas.canvas|MOC Topic Directory]]","id":"00c181c7816b2318","x":-249,"y":348,"width":430,"height":66,"color":"1"},
+		{"type":"text","text":"## Application:\n\n- [ ] Detail 1\n- [ ] Detail 2\n- [ ] Detail 3\n- [ ] Detail 4","id":"e47527bc678095a9","x":-159,"y":-158,"width":250,"height":231,"color":"2"},
+		{"type":"text","text":"[[Concept]]","id":"f32f09a77f0af948","x":299,"y":633,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"[[Concept]]","id":"0a2f27dadc809393","x":-159,"y":738,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"# [[Solution.canvas|Problem]]\n\n## Application:\n\n- [ ] Detail 1\n- [ ] Detail 2\n- [ ] *Detail 3* ***<- Pattern Notice!!!***\n- [ ] Detail 4","id":"21dbc016ec6178b4","x":-714,"y":650,"width":275,"height":291,"color":"2"},
+		{"type":"text","text":"[[Concept.canvas|Concept & its new insight(s)]]","id":"17bb06982fcbc32f","x":-196,"y":-560,"width":324,"height":50,"color":"3"},
+		{"type":"text","text":"# Solution\n## What insights does this offer for the rest of the concept?\n### \"Insight Name\"\n- Step 1\n- Step 2\n- etc.\n## How this fits into the big picture?\n- Detail\n\t- Aspect\n\t- Aspect\n\t- etc.\n- ETC.\n## What inspired that solution?\n- Detail\n\t- Aspect\n\t- Aspect\n\t- etc.\n- Detail\n\t- Aspect\n\t- Aspect\n\t- etc.\n- ETC.\n### This will then go into its related [[MOC Topic.canvas|Topic]] as an Application.","id":"7b758ed6f257463a","x":-805,"y":1200,"width":458,"height":1132,"color":"6"}
 	],
 	"edges":[
 		{"id":"cd8fde3cfc68ebbb","fromNode":"00c181c7816b2318","fromSide":"top","toNode":"e47527bc678095a9","toSide":"bottom","label":"Applications can be used alone \nto get a quick task done"},
-		{"id":"47c15e5f61ea3d7e","fromNode":"e47527bc678095a9","fromSide":"left","toNode":"17bb06982fcbc32f","toSide":"top","label":"Its unique step then gets to a concept \nas a insight once dug into"},
-		{"id":"99fdf6248092afc6","fromNode":"17bb06982fcbc32f","fromSide":"bottom","toNode":"7b758ed6f257463a","toSide":"top","label":"Can then be used to brew up a solution"},
-		{"id":"06b8bd6710631345","fromNode":"00c181c7816b2318","fromSide":"right","toNode":"f5f087db53c37cfa","toSide":"left","label":"You can bring in a Concept \nthat isn't on this MOC"},
-		{"id":"27f26b28fe8c32b2","fromNode":"21dbc016ec6178b4","fromSide":"left","toNode":"17bb06982fcbc32f","toSide":"right"},
+		{"id":"47c15e5f61ea3d7e","fromNode":"e47527bc678095a9","fromSide":"top","toNode":"17bb06982fcbc32f","toSide":"bottom","label":"Its unique step then gets to a concept \nas a insight once dug into"},
+		{"id":"99fdf6248092afc6","fromNode":"21dbc016ec6178b4","fromSide":"bottom","toNode":"7b758ed6f257463a","toSide":"top","label":"Can then be used to brew up a solution"},
 		{"id":"1da0ef3700cf8324","fromNode":"00c181c7816b2318","fromSide":"bottom","toNode":"21dbc016ec6178b4","toSide":"top","label":"Identify the Problem"},
 		{"id":"50b8450968f3cab1","fromNode":"00c181c7816b2318","fromSide":"bottom","toNode":"f32f09a77f0af948","toSide":"top"},
 		{"id":"63154afe114a209f","fromNode":"00c181c7816b2318","fromSide":"bottom","toNode":"0a2f27dadc809393","toSide":"top"}
