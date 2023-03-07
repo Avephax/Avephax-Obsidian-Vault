@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7dc1fed1bc1fc1bc",
+        "id": "79250c3166d9c440",
         "type": "tabs",
         "children": [
           {
-            "id": "fe41371b68599425",
+            "id": "3f50eb006216863c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Catalog/Templates/Concept.canvas",
                 "viewState": {
-                  "x": -1931.8134584136626,
-                  "y": 51.62011795641911,
-                  "zoom": -1.6723986234710295
+                  "x": -2323.856784082223,
+                  "y": -537.8189620858376,
+                  "zoom": -0.7676606045353108
                 }
               }
             }
           },
           {
-            "id": "08ebdb177199c762",
+            "id": "db26ed670b2044a8",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Insight.canvas",
+                "file": "Catalog/Templates/Concept.canvas",
                 "viewState": {
-                  "x": -289.535889951479,
-                  "y": 1061.2424267144445,
-                  "zoom": -1.1542780375015107
+                  "x": -2045.6520373250391,
+                  "y": 434,
+                  "zoom": -1.9937039393302716
                 }
               }
             }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insight.canvas",
+                "file": "Catalog/Templates/Concept.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Insight.canvas",
+                "file": "Catalog/Templates/Concept.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,16 +160,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "08ebdb177199c762",
+  "active": "db26ed670b2044a8",
   "lastOpenFiles": [
+    "Template Architecture.canvas",
     "Catalog/Templates/Concept.canvas",
     "Insight.canvas",
+    "My Home.canvas",
     "Associative Learning.canvas",
     "Intuition.canvas",
-    "Template Architecture.canvas",
     "Passion Projects.canvas",
     "Catalog/Templates/MOC Atlas.canvas",
-    "My Home.canvas",
     "Diminishing Returns.canvas",
     "Here's the Plan.canvas",
     "Catalog/Templates/Project.canvas"
