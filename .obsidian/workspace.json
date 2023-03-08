@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e987ed33bd5dd78",
+        "id": "48d19cfeccac0918",
         "type": "tabs",
         "children": [
           {
-            "id": "3adcc19e3a17b105",
+            "id": "58dd26459b3abe9c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -119,8 +119,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3adcc19e3a17b105",
+  "active": "58dd26459b3abe9c",
   "lastOpenFiles": [
+    "Catalog/Templates/Concept.canvas",
     "Associative Learning.canvas",
     "Creative Problem-Solving.canvas",
     "Insight.canvas",
@@ -128,7 +129,6 @@
     "Template Architecture.canvas",
     "Catalog/Templates/MOC Topic.canvas",
     "Catalog/Templates/Project.canvas",
-    "Catalog/Templates/Concept.canvas",
     "Here's the Plan.canvas",
     "Habits.canvas",
     "My Home.canvas"
