@@ -1,21 +1,15 @@
 {
 	"nodes":[
-		{"type":"text","text":"In the context of Obsidian Canvas, Put insights inside of its related Concept MOC as a card until you come across enough details to break it down into smaller cards.","id":"07c7a1cd0847321a","x":126,"y":939,"width":345,"height":146,"color":"3"},
-		{"type":"text","text":"You can always convert them into a markdown file by compiling all of the information into a generalized order.","id":"2dc16aec6f2c7881","x":606,"y":963,"width":323,"height":99,"color":"3"},
-		{"type":"text","text":"# Insight\nInsights are the secret maneuvers from unique steps out of concepts that have been previously observed and/or discovered. They reduce the risk of tripping over future problems that use said concept in a certain way while also giving you a much deeper understanding of a concept.\nInsights makes [[Concept.canvas|concepts]] stronger by their abundance. The more of them there are, the easier it is to reason behind using a concept.\nThey can be generated out of any application, solution, or problems from multifaceted subjects, methods, (un)conscious thoughts, etc.\n","id":"1c6090e727362aea","x":-554,"y":794,"width":475,"height":437,"color":"5"},
-		{"type":"text","text":"![[Creative Problem-Solving.canvas]]","id":"fec74033390978f1","x":-316,"y":1500,"width":534,"height":320,"color":"3"},
-		{"type":"file","file":"Intuition.canvas","id":"8b84dee141e45ab1","x":-800,"y":1500,"width":400,"height":400,"color":"3"},
-		{"type":"text","text":"### [[Concept.canvas|Variables]]\nTake out the concept of an amount you're looking up.","id":"c90d003c0eabf71a","x":-490,"y":560,"width":348,"height":132,"color":"5"},
-		{"type":"text","text":"The best way to pick out insights is by capturing it through the first concept we recall on the spot.","id":"d906b85301619ce4","x":-1288,"y":794,"width":305,"height":88,"color":"5"},
-		{"type":"text","text":"They help create ***new solutions and original connections*** to problems through [[reasoning]].","id":"4db6999fb4286aa7","x":-1300,"y":963,"width":317,"height":98,"color":"5"}
+		{"type":"text","text":"# Insight\nInsights are the secret maneuvers from unique steps out of concepts that have been previously observed and/or discovered. They reduce the risk of tripping over future problems that use said concept in a certain way while also giving you a much deeper understanding of a concept.\nInsights makes [[Concept.canvas|concepts]] stronger by their abundance. The more of them there are, the easier it is to reason behind using a concept.\nThey can be generated out of any application, solution, or problems from multifaceted subjects, methods, (un)conscious thoughts, etc.\n","id":"f1285db9fc96508c","x":-682,"y":959,"width":475,"height":561,"color":"5"},
+		{"type":"text","text":"The best way to pick out insights is by capturing it through the first concept we recall on the spot.","id":"5dd0ddf4556b7d86","x":-1495,"y":920,"width":384,"height":127,"color":"5"},
+		{"type":"text","text":"They help create ***new solutions and original connections*** to problems through reasoning.","id":"116fc8e2324f9f7e","x":-1428,"y":1128,"width":317,"height":98,"color":"5"},
+		{"type":"text","text":"In the context of Obsidian Canvas, Put insights inside of its related Concept MOC as a card until you come across enough details to break it down into smaller cards.","id":"45b2e2cbdca6fe4e","x":-2,"y":1060,"width":345,"height":236,"color":"3"},
+		{"type":"text","text":"You can always convert them into a markdown file by compiling all of the information into a generalized order.","id":"89e335bb2d778c58","x":485,"y":1082,"width":347,"height":192,"color":"5"}
 	],
 	"edges":[
-		{"id":"e29b8b35bb905809","fromNode":"1c6090e727362aea","fromSide":"left","toNode":"4db6999fb4286aa7","toSide":"right"},
-		{"id":"298ea6b1a9e137de","fromNode":"1c6090e727362aea","fromSide":"top","toNode":"c90d003c0eabf71a","toSide":"bottom"},
-		{"id":"c42e6d3d1f78835c","fromNode":"1c6090e727362aea","fromSide":"right","toNode":"07c7a1cd0847321a","toSide":"left"},
-		{"id":"42bbbe8ceb73b07e","fromNode":"07c7a1cd0847321a","fromSide":"right","toNode":"2dc16aec6f2c7881","toSide":"left"},
-		{"id":"2c87c8534485915a","fromNode":"1c6090e727362aea","fromSide":"bottom","toNode":"fec74033390978f1","toSide":"top"},
-		{"id":"2a207a696d5dc0cc","fromNode":"1c6090e727362aea","fromSide":"bottom","toNode":"8b84dee141e45ab1","toSide":"top"},
-		{"id":"e2d7e002189af950","fromNode":"1c6090e727362aea","fromSide":"left","toNode":"d906b85301619ce4","toSide":"right"}
+		{"id":"3e0b45b82572b7ef","fromNode":"f1285db9fc96508c","fromSide":"left","toNode":"116fc8e2324f9f7e","toSide":"right"},
+		{"id":"4db24de4b089f4c7","fromNode":"f1285db9fc96508c","fromSide":"left","toNode":"5dd0ddf4556b7d86","toSide":"right"},
+		{"id":"f502dd9726238c59","fromNode":"45b2e2cbdca6fe4e","fromSide":"right","toNode":"89e335bb2d778c58","toSide":"left"},
+		{"id":"649a80c5ded77cb5","fromNode":"45b2e2cbdca6fe4e","fromSide":"left","toNode":"f1285db9fc96508c","toSide":"right"}
 	]
 }

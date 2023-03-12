@@ -11,8 +11,15 @@
             "id": "58dd26459b3abe9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Insight.canvas",
+                "viewState": {
+                  "x": -740.6053533371035,
+                  "y": 1198.3361445352925,
+                  "zoom": -0.5791820214814103
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Insight.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Insight.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
