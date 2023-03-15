@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "48d19cfeccac0918",
+        "id": "433c526d390b9b46",
         "type": "tabs",
         "children": [
           {
-            "id": "58dd26459b3abe9c",
+            "id": "979b67a46c3a3c8c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Insight.canvas",
                 "viewState": {
-                  "x": -740.6053533371035,
-                  "y": 1198.3361445352925,
-                  "zoom": -0.5791820214814103
+                  "x": -350.200991337008,
+                  "y": 116.9272507812178,
+                  "zoom": -1.3699999999999997
                 }
               }
             }
@@ -128,12 +128,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "58dd26459b3abe9c",
+  "active": "979b67a46c3a3c8c",
   "lastOpenFiles": [
+    "Insight.canvas",
     "Catalog/Templates/Concept.canvas",
     "Associative Learning.canvas",
     "Creative Problem-Solving.canvas",
-    "Insight.canvas",
     "Intuition.canvas",
     "Template Architecture.canvas",
     "Catalog/Templates/MOC Topic.canvas",
