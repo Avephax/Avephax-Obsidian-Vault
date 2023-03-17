@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "433c526d390b9b46",
+        "id": "65897bf04231af71",
         "type": "tabs",
         "children": [
           {
-            "id": "979b67a46c3a3c8c",
+            "id": "4ca293aa1447c76c",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Catalog/Templates"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,7 +136,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "979b67a46c3a3c8c",
+  "active": "4ca293aa1447c76c",
   "lastOpenFiles": [
     "Insight.canvas",
     "Context",
