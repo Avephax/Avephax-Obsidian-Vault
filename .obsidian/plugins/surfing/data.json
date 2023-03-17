@@ -1,0 +1,47 @@
+{
+  "defaultSearchEngine": "google",
+  "customSearchEngine": [
+    {
+      "name": "duckduckgo",
+      "url": "https://duckduckgo.com/?q="
+    }
+  ],
+  "ignoreList": [
+    "notion",
+    "craft"
+  ],
+  "alwaysShowCustomSearch": false,
+  "showOtherSearchEngines": true,
+  "showSearchBarInPage": false,
+  "markdownPath": "/",
+  "customHighlightFormat": false,
+  "highlightFormat": "[{CONTENT}]({URL})",
+  "highlightInSameTab": false,
+  "openInSameTab": false,
+  "showRefreshButton": true,
+  "openInObsidianWeb": true,
+  "useCustomIcons": false,
+  "useWebview": true,
+  "useIconList": true,
+  "darkMode": false,
+  "bookmarkManager": {
+    "openBookMark": true,
+    "saveBookMark": true,
+    "sendToReadWise": false,
+    "pagination": "12",
+    "category": "\n",
+    "defaultCategory": "ROOT",
+    "defaultColumnList": [
+      "name",
+      "description",
+      "url",
+      "category",
+      "tags",
+      "created",
+      "modified",
+      "action"
+    ],
+    "defaultFilterType": "menu"
+  },
+  "treeData": []
+}

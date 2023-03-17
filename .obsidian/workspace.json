@@ -11,14 +11,9 @@
             "id": "979b67a46c3a3c8c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "make-folder-view",
               "state": {
-                "file": "Insight.canvas",
-                "viewState": {
-                  "x": -350.200991337008,
-                  "y": 116.9272507812178,
-                  "zoom": -1.3699999999999997
-                }
+                "contextPath": "Catalog/Templates"
               }
             }
           }
@@ -52,12 +47,29 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "98ab4356c5129e22",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8caea7fdf26024c",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 321.5
   },
   "right": {
     "id": "7f60c61e79aca53a",
@@ -88,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insight.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Insight.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,6 +141,7 @@
   "active": "979b67a46c3a3c8c",
   "lastOpenFiles": [
     "Insight.canvas",
+    "Context",
     "Catalog/Templates/Concept.canvas",
     "Associative Learning.canvas",
     "Creative Problem-Solving.canvas",
@@ -139,7 +150,6 @@
     "Catalog/Templates/MOC Topic.canvas",
     "Catalog/Templates/Project.canvas",
     "Here's the Plan.canvas",
-    "Habits.canvas",
-    "My Home.canvas"
+    "Habits.canvas"
   ]
 }

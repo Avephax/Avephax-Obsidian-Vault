@@ -1,0 +1,69 @@
+{
+  "defaultInitialization": false,
+  "filePreviewOnHover": false,
+  "markSans": false,
+  "makeMenuPlaceholder": true,
+  "mobileMakeBar": true,
+  "inlineStyler": true,
+  "makerMode": true,
+  "inlineStylerColors": false,
+  "editorFlow": true,
+  "internalLinkClickFlow": true,
+  "contextEnabled": true,
+  "saveAllContextToFrontmatter": true,
+  "editorFlowStyle": "seamless",
+  "autoOpenFileContext": false,
+  "activeView": "root",
+  "hideFrontmatter": true,
+  "activeSpace": "",
+  "spacesCompactMode": false,
+  "defaultDateFormat": "MMM dd yyyy",
+  "spacesEnabled": true,
+  "spacesPerformance": false,
+  "collapsedTags": [],
+  "enableFolderNote": true,
+  "folderIndentationLines": true,
+  "revealActiveFile": false,
+  "spacesStickers": true,
+  "spaceRowHeight": 29,
+  "spacesDisablePatch": false,
+  "folderNoteInsideFolder": true,
+  "sidebarTabs": true,
+  "showRibbon": true,
+  "deleteFileOption": "trash",
+  "expandedFolders": {},
+  "expandedSpaces": [
+    "/",
+    null
+  ],
+  "folderRank": {
+    "node": "root",
+    "children": [],
+    "isFolder": true
+  },
+  "openFolders": [],
+  "fileIcons": [],
+  "spaces": [],
+  "pinnedSpaces": [],
+  "menuTriggerChar": "/",
+  "emojiTriggerChar": ":",
+  "folderContextFile": "context",
+  "tagContextFolder": "Context",
+  "hiddenFiles": [
+    "Context"
+  ],
+  "lineNumbers": false,
+  "hiddenExtensions": [
+    "mdb"
+  ],
+  "vaultSort": [
+    "rank",
+    true
+  ],
+  "inlineBacklinks": true,
+  "inlineContext": true,
+  "inlineBacklinksExpanded": false,
+  "inlineContextExpanded": true,
+  "dataviewInlineContext": false,
+  "inlineContextNameLayout": "vertical"
+}
