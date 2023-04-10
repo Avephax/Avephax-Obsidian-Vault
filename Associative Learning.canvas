@@ -1,29 +1,29 @@
 {
 	"nodes":[
-		{"type":"text","text":"# Associative Learning\nI create new habits, learn new things and form decisions by linking different events to anticipated reactions.\n\n### Conditions\nCreate direct associations between the task to your outcomes.\n***Be careful, however***, the more conditions you put in front of an activity required in order to receive pleasure, the less likely you are to take part in it again. \nThis is vital for determining [[Diminishing Returns.canvas|diminished returns]].\n\n### Anticipation\nThere will be an initial release of dopamine when we hype up something that we want.\nVisualize your outcomes to further accentuate our drive.\nOnce we achieve what we wished, there's another sharp release that marks its success.","id":"a37793442f0991b7","x":80,"y":-1122,"width":504,"height":574,"color":"3"},
-		{"type":"text","text":"# Subconscious Mind\nYour subconscious mind is a powerful part of your brain that controls 99.9% of your mental processes in the background.\nFrom [[Intuition.canvas|intuition]], to [[Insight.canvas|insight]] all the way to creativity, it acts as the ultimate computer for your mind towards your conscious mind that acts as a keyboard, which tells it what to do.","id":"b1d19a5490dcf22d","x":-690,"y":-964,"width":504,"height":257,"color":"5"},
+		{"type":"file","file":"Associative Learning.md","id":"b284e6cd5285be34","x":80,"y":-1122,"width":504,"height":574},
 		{"type":"text","text":"# Key Motivators\nThese motivators are reasonings that your unconscious mind recognizes.\n- Ideal - You ***love*** what you do, therefore your motivator's right next to you. (This is how I get there. -> This is what I want.)\n- Realist - Your motivators are layered upon stacks of reasoning; a myriad of 'because's.","id":"575b52cf9aba96cc","x":-1360,"y":-981,"width":534,"height":292,"color":"5"},
 		{"type":"text","text":"# Primal Emotions\nA subject must bring you happiness by default or make you feel transfixed to it.\nHappiness or Survival urges help further your pursuits for anything in life.","id":"af6ab4c572fafd88","x":-1935,"y":-979,"width":365,"height":288,"color":"5"},
-		{"type":"text","text":"# Reinforcement\nIf *positive reinforcement* is returned, the action grows stronger with a positive stimuli. \nIf *negative reinforcement* is returned, the action grows stronger in pursuit of dampening the negative stimuli.\n\n","id":"2d9c6eb1cfe57872","x":-2000,"y":-601,"width":496,"height":239,"color":"3"},
+		{"type":"text","text":"# Reinforcement\nIf *positive reinforcement* is returned, the action grows stronger with a positive stimuli. \nIf *negative reinforcement* is returned, the action grows stronger in pursuit of dampening the negative stimuli.\n\n","id":"2d9c6eb1cfe57872","x":-2000,"y":-601,"width":496,"height":296,"color":"3"},
 		{"type":"text","text":"# Chain of \"Why\"?\nConnect the task directly to your ideal motivator by skipping the realist motivator (the endless sea of \"becauses\".\nDrill into your reasoning behind anything you're doing to bring forth the primal emotions.\n- Also ask how this task is bringing out your primal emotions (key motivators)\n","id":"e0a4023d11507e9c","x":-1341,"y":-601,"width":496,"height":296,"color":"3"},
 		{"type":"text","text":"# Dopamine Releases\n\nTwo types of dopamine releases: *Tonic* and *Phasic*\nTonic - baseline level of dopamine we make all the time.\nPhasic - The peak releases that go above the baseline.\nConsistently vary the conditions of any activity you get so that your your dopamine rewards varies every time.\n- Try to have a dopamine hit that has a slight chance of happening, sometimes at a large rate or at a smaller rate.\n\n\n\n\n\n","id":"508f3916d3493b4f","x":-186,"y":-1840,"width":443,"height":427,"color":"5"},
 		{"type":"text","text":"## Dopamine Rewards = Doing the Effort\nAccess rewards out of [[Insight.canvas|process]] on top of outcome!","id":"3b8d1efc92986864","x":414,"y":-1586,"width":448,"height":173,"color":"5"},
-		{"type":"text","text":"# Shaping\nThe key to building a habit is by watching initial behavior and build on top of what's already there. ","id":"9af65e7b7a41f69b","x":-317,"y":-227,"width":315,"height":204,"color":"3"},
-		{"type":"text","text":"# Modeling\nLearn additional associations with every new experience.\nSources newer ways of thinking and acting through others\n","id":"ee2c6bb7b4e1ab1c","x":-80,"y":72,"width":285,"height":234,"color":"3"},
-		{"type":"text","text":"# Classical Conditioning\nAll habits are founded under stimuli that aren't associated with any behavior getting linked with a natural reaction: Neutral Stimuli + Natural Stimuli = Newfound behaviour/habit","id":"c133e6606ee5cff1","x":720,"y":-240,"width":344,"height":312,"color":"3"},
-		{"type":"text","text":"# Operant Conditioning\nLearn to repeat behaviors that are rewarding and to refrain from behaviors that lead to negative consequences.","id":"d4484b6f05d0a84d","x":332,"y":72,"width":355,"height":276,"color":"3"}
+		{"type":"text","text":"# Shaping\nThe key to building a habit is by watching initial behavior and build on top of what's already there. ","id":"9af65e7b7a41f69b","x":-317,"y":-227,"width":315,"height":267,"color":"3"},
+		{"type":"text","text":"# Modeling\nLearn additional associations with every new experience.\nSources newer ways of thinking and acting through others\n","id":"ee2c6bb7b4e1ab1c","x":-80,"y":72,"width":285,"height":328,"color":"3"},
+		{"type":"text","text":"# Classical Conditioning\nAll habits are founded under stimuli that aren't associated with any behavior getting linked with a natural reaction: Neutral Stimuli + Natural Stimuli = Newfound behaviour/habit","id":"c133e6606ee5cff1","x":720,"y":-240,"width":344,"height":360,"color":"3"},
+		{"type":"text","text":"# Operant Conditioning\nLearn to repeat behaviors that are rewarding and to refrain from behaviors that lead to negative consequences.","id":"d4484b6f05d0a84d","x":332,"y":72,"width":355,"height":328,"color":"3"},
+		{"type":"text","text":"# Subconscious Mind\nYour subconscious mind is a powerful part of your brain that controls 99.9% of your mental processes in the background.\nFrom [[Intuition.canvas|intuition]], to [[Insight.canvas|insight]] all the way to creativity, it acts as the ultimate computer for your mind towards your conscious mind that acts as a keyboard, which tells it what to do.","id":"b1d19a5490dcf22d","x":-663,"y":-997,"width":504,"height":324,"color":"5"}
 	],
 	"edges":[
-		{"id":"9c880efa8bf9a075","fromNode":"a37793442f0991b7","fromSide":"bottom","toNode":"9af65e7b7a41f69b","toSide":"top"},
-		{"id":"380372ad95612470","fromNode":"a37793442f0991b7","fromSide":"bottom","toNode":"c133e6606ee5cff1","toSide":"top"},
-		{"id":"658d502b5b5eef8f","fromNode":"a37793442f0991b7","fromSide":"bottom","toNode":"ee2c6bb7b4e1ab1c","toSide":"top"},
-		{"id":"23c7386c53aadc0a","fromNode":"a37793442f0991b7","fromSide":"bottom","toNode":"d4484b6f05d0a84d","toSide":"top"},
-		{"id":"559710e6c6227635","fromNode":"a37793442f0991b7","fromSide":"left","toNode":"b1d19a5490dcf22d","toSide":"right"},
+		{"id":"9c880efa8bf9a075","fromNode":"b284e6cd5285be34","fromSide":"bottom","toNode":"9af65e7b7a41f69b","toSide":"top"},
+		{"id":"380372ad95612470","fromNode":"b284e6cd5285be34","fromSide":"bottom","toNode":"c133e6606ee5cff1","toSide":"top"},
+		{"id":"658d502b5b5eef8f","fromNode":"b284e6cd5285be34","fromSide":"bottom","toNode":"ee2c6bb7b4e1ab1c","toSide":"top"},
+		{"id":"23c7386c53aadc0a","fromNode":"b284e6cd5285be34","fromSide":"bottom","toNode":"d4484b6f05d0a84d","toSide":"top"},
+		{"id":"559710e6c6227635","fromNode":"b284e6cd5285be34","fromSide":"left","toNode":"b1d19a5490dcf22d","toSide":"right"},
 		{"id":"ba5044120884c1e5","fromNode":"af6ab4c572fafd88","fromSide":"bottom","toNode":"2d9c6eb1cfe57872","toSide":"top"},
 		{"id":"c1b145cd2cf62a48","fromNode":"b1d19a5490dcf22d","fromSide":"left","toNode":"575b52cf9aba96cc","toSide":"right"},
 		{"id":"398af970e3185ad4","fromNode":"575b52cf9aba96cc","fromSide":"left","toNode":"af6ab4c572fafd88","toSide":"right"},
 		{"id":"3d70df59e6322eba","fromNode":"575b52cf9aba96cc","fromSide":"bottom","toNode":"e0a4023d11507e9c","toSide":"top"},
-		{"id":"bb5c345f75e158a4","fromNode":"a37793442f0991b7","fromSide":"top","toNode":"508f3916d3493b4f","toSide":"bottom"},
-		{"id":"f8983d94652e00c5","fromNode":"a37793442f0991b7","fromSide":"top","toNode":"3b8d1efc92986864","toSide":"bottom"}
+		{"id":"bb5c345f75e158a4","fromNode":"b284e6cd5285be34","fromSide":"top","toNode":"508f3916d3493b4f","toSide":"bottom"},
+		{"id":"f8983d94652e00c5","fromNode":"b284e6cd5285be34","fromSide":"top","toNode":"3b8d1efc92986864","toSide":"bottom"}
 	]
 }

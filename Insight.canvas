@@ -1,26 +1,22 @@
 {
 	"nodes":[
 		{"type":"group","id":"d1cecda499eabcd8","x":-1480,"y":-640,"width":2241,"height":1400,"color":"5","label":"Learning and Solving"},
-		{"type":"text","text":"# Insight\nInsights are the secret maneuvers from unique steps out of concepts that have been previously observed and/or discovered. They reduce the risk of tripping over future problems that use said concept in a certain way while also giving you a much deeper understanding of a concept.\nInsights makes [[Concept.canvas|concepts]] stronger by their abundance. The more of them there are, the easier it is to reason behind using a concept.\nThey can be generated out of any application, solution, or problems from multifaceted subjects, methods, (un)conscious thoughts, etc.\n","id":"f1285db9fc96508c","x":-682,"y":959,"width":475,"height":561,"color":"5"},
-		{"type":"text","text":"The best way to pick out insights is by capturing it through the first concept we recall on the spot.","id":"5dd0ddf4556b7d86","x":-1495,"y":920,"width":384,"height":127,"color":"5"},
-		{"type":"text","text":"In the context of Obsidian Canvas, Put insights inside of its related Concept MOC as a card until you come across enough details to break it down into smaller cards.","id":"45b2e2cbdca6fe4e","x":-2,"y":1060,"width":345,"height":236,"color":"3"},
-		{"type":"text","text":"You can always convert them into a markdown file by compiling all of the information into a generalized order.","id":"89e335bb2d778c58","x":485,"y":1082,"width":347,"height":192,"color":"5"},
 		{"type":"text","text":"## Insight\n- *\\[\\[Detail\\]\\]*","id":"706f6d9f7b8bbb3b","x":-476,"y":-600,"width":250,"height":188},
 		{"type":"text","text":"## Insight\n- *\\[\\[Detail\\]\\]*","id":"f09dc56b1cff17cc","x":-165,"y":-379,"width":250,"height":188},
-		{"type":"text","text":"## Find ☑\n- Found a pattern → *\\[\\[New Insight\\]\\]*\n","id":"37247dfff72ea836","x":-667,"y":227,"width":358,"height":188},
 		{"type":"text","text":"## Concept\n- *\\[\\[Insight\\]\\]*'s Detail must be ☑","id":"71e29e95cf706a8e","x":-625,"y":-224,"width":274,"height":171},
 		{"type":"text","text":"# 🧠\n## Statement\n#### or\n## Claim","id":"6ac1be9f618a96e4","x":-1460,"y":-125,"width":280,"height":333},
-		{"type":"text","text":"They help create ***new solutions and original connections*** to problems through reasoning.","id":"116fc8e2324f9f7e","x":-1428,"y":1128,"width":317,"height":98,"color":"5"},
 		{"type":"text","text":"## Find ☑\n- Found a pattern → *\\[\\[New Insight\\]\\]*\n","id":"d6016812dd477d71","x":-93,"y":-53,"width":358,"height":188},
+		{"type":"text","text":"## Concept\n- *\\[\\[Insight\\]\\]*","id":"9ea667ff02482e69","x":-39,"y":527,"width":250,"height":188},
+		{"type":"text","text":"## Find ☑\n- Found a pattern → *\\[\\[New Insight\\]\\]*\n","id":"37247dfff72ea836","x":-667,"y":227,"width":358,"height":188},
 		{"type":"text","text":"## New Idea\n- *\\[\\[Previous Insight\\]\\]* must be ☑\n- *\\[\\[New Insight\\]\\]* must be ☑","id":"3052f6a699e61293","x":-64,"y":227,"width":300,"height":188},
 		{"type":"text","text":"## New Insight\n- *\\[\\[Previous Detail\\]\\]*\n- *\\[\\[New Detail\\]\\]*","id":"97102b09c38120e1","x":491,"y":227,"width":250,"height":188},
-		{"type":"text","text":"## Concept\n- *\\[\\[Insight\\]\\]*","id":"9ea667ff02482e69","x":-39,"y":527,"width":250,"height":188}
+		{"type":"file","file":"Insight.md","id":"f4067ce7dc76f9ad","x":-546,"y":920,"width":475,"height":561,"color":"3"},
+		{"type":"text","text":"The best way to pick out insights is by capturing it through the first concept we recall on the spot.","id":"5dd0ddf4556b7d86","x":-1104,"y":1012,"width":317,"height":127,"color":"5"},
+		{"type":"text","text":"They help create ***new solutions and original connections*** to problems through reasoning.","id":"116fc8e2324f9f7e","x":-1104,"y":1281,"width":317,"height":120,"color":"5"}
 	],
 	"edges":[
-		{"id":"3e0b45b82572b7ef","fromNode":"f1285db9fc96508c","fromSide":"left","toNode":"116fc8e2324f9f7e","toSide":"right"},
-		{"id":"4db24de4b089f4c7","fromNode":"f1285db9fc96508c","fromSide":"left","toNode":"5dd0ddf4556b7d86","toSide":"right"},
-		{"id":"f502dd9726238c59","fromNode":"45b2e2cbdca6fe4e","fromSide":"right","toNode":"89e335bb2d778c58","toSide":"left"},
-		{"id":"649a80c5ded77cb5","fromNode":"45b2e2cbdca6fe4e","fromSide":"left","toNode":"f1285db9fc96508c","toSide":"right"},
+		{"id":"3e0b45b82572b7ef","fromNode":"f4067ce7dc76f9ad","fromSide":"left","toNode":"116fc8e2324f9f7e","toSide":"right"},
+		{"id":"4db24de4b089f4c7","fromNode":"f4067ce7dc76f9ad","fromSide":"left","toNode":"5dd0ddf4556b7d86","toSide":"right"},
 		{"id":"30844ca869bde413","fromNode":"6ac1be9f618a96e4","fromSide":"right","toNode":"71e29e95cf706a8e","toSide":"left","label":"How?\n☑"},
 		{"id":"13aadd61d5d5d0f3","fromNode":"6ac1be9f618a96e4","fromSide":"right","toNode":"37247dfff72ea836","toSide":"left","label":"Why?❌"},
 		{"id":"09f7403dd233a245","fromNode":"37247dfff72ea836","fromSide":"right","toNode":"3052f6a699e61293","toSide":"left","label":"☑"},

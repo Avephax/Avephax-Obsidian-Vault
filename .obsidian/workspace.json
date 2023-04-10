@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "65897bf04231af71",
+        "id": "2ecbf9815dfad2a8",
         "type": "tabs",
         "children": [
           {
-            "id": "4ca293aa1447c76c",
+            "id": "9d13d6e2bd8998fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Catalog/Templates/Project.canvas",
+                "viewState": {
+                  "x": 1149.7504733205224,
+                  "y": -245.86064169834364,
+                  "zoom": -0.47441180235117664
+                }
+              }
             }
           }
         ]
@@ -47,23 +54,22 @@
             }
           },
           {
-            "id": "98ab4356c5129e22",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
-          },
-          {
             "id": "a8caea7fdf26024c",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
               "state": {}
             }
+          },
+          {
+            "id": "743f710f012a1165",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,26 +134,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "surfing:surfing-bookmark-manager": false,
       "audio-recorder:Start/stop recording": false,
       "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "templates:Insert template": false
     }
   },
-  "active": "4ca293aa1447c76c",
+  "active": "458bc07a6625e04f",
   "lastOpenFiles": [
-    "Insight.canvas",
-    "Context",
-    "Catalog/Templates/Concept.canvas",
+    "Catalog/Templates/Dynamic Concept Note.md",
+    "Project.md",
+    "Project.canvas",
+    "Catalog/Templates/Solution.md",
+    "Associative Learning.md",
     "Associative Learning.canvas",
+    "Intuition.md",
+    "Insight.canvas",
+    "Insight.md",
+    "Diminishing Returns.canvas",
+    "Catalog/Templates/Project.canvas",
+    "Catalog/Templates/MOC Topic.canvas",
     "Creative Problem-Solving.canvas",
     "Intuition.canvas",
-    "Template Architecture.canvas",
-    "Catalog/Templates/MOC Topic.canvas",
-    "Catalog/Templates/Project.canvas",
-    "Here's the Plan.canvas",
-    "Habits.canvas"
+    "Untitled",
+    "Media/Inserting a problem.png",
+    "Media/insight-creative-problem-solving.png",
+    "Media/intuition-flowchart.png",
+    "Media/intuitive-facts.png",
+    "Keyword.md",
+    "Catalog/Templates/Concept.canvas",
+    "Context",
+    "Template Architecture.canvas"
   ]
 }

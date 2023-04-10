@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"type":"text","text":"# Creative Problem-Solving","id":"45c2b74955bbedaf","x":-240,"y":-54,"width":570,"height":110,"color":"3"},
-		{"type":"text","text":"Combine concepts that have a similar or a juxtaposed pattern.\n\n***What does this reminds me of?***\n- Insert [[Concept.canvas|Related Concept(s)]] here\n***This is Because:***\n- [[MOC Topic.canvas|Insight from (Insert Topic here)]]\n- [[MOC Topic.canvas|Insight from (Insert Topic here)]]\n\n***What is this different from?***\n- Insert similar and different [[Concept.canvas|concept(s)]] here.\n***This is because:***\n- [[MOC Topic.canvas|Insight from (Insert Topic here)]]\n- [[MOC Topic.canvas|Insight from (Insert Topic here)]]","id":"7ea2820404a5550c","x":-1562,"y":-234,"width":400,"height":470,"color":"5"},
-		{"type":"text","text":"#### 2 - Combining your ideas (Convergent)\n- Improve this with [[Insight.canvas|pattern recognition]], finding common [[Concept.canvas|keywords]], relating [[Insight.canvas|similar problems]].","id":"3458ae07e53ac5fa","x":-979,"y":-84,"width":428,"height":170,"color":"5"},
-		{"type":"text","text":"![[Intuition.canvas]]","id":"194f407d79afbcea","x":720,"y":-277,"width":554,"height":517,"color":"3"},
-		{"type":"text","text":"#### 1 - [[Insight]]\nGenerate as much of them as you can for the problem.\n- Improve it with hard problems.\n","id":"d3e1feb412935ba1","x":-894,"y":-480,"width":259,"height":201,"color":"5"},
-		{"type":"text","text":"#### 3 - Generating Ideas (Divergent)\nTake a problem and generate as many ideas as you can.","id":"8564725463826b48","x":-1001,"y":431,"width":473,"height":110,"color":"5"},
-		{"type":"text","text":"Improve this by polishing up your Generator.\n![[insight-creative-problem-solving.png]]","id":"35b5c09439f36a27","x":-1550,"y":300,"width":366,"height":373,"color":"5"}
+		{"type":"text","text":"# Creative Problem-Solving","id":"45c2b74955bbedaf","x":-240,"y":-120,"width":570,"height":176,"color":"3"},
+		{"type":"text","text":"Combine concepts that have a similar or a juxtaposed pattern.\n\n***What does this reminds me of?***\n- Insert [[Concept.canvas|Related Concept(s)]] here\n***This is Because:***\n- [[MOC Topic.canvas|Insight from (Insert Topic here)]]\n- [[MOC Topic.canvas|Insight from (Insert Topic here)]]\n\n***What is this different from?***\n- Insert similar and different [[Concept.canvas|concept(s)]] here.\n***This is because:***\n- [[MOC Topic.canvas|Insight from (Insert Topic here)]]\n- [[MOC Topic.canvas|Insight from (Insert Topic here)]]","id":"7ea2820404a5550c","x":-1562,"y":-320,"width":400,"height":556,"color":"5"},
+		{"type":"text","text":"Improve this by polishing up your Generator.\n![[insight-creative-problem-solving.png]]","id":"35b5c09439f36a27","x":-1550,"y":300,"width":366,"height":373,"color":"5"},
+		{"type":"text","text":"#### 2 - Combining your ideas (Convergent)\n- Improve this with [[Insight.canvas|pattern recognition]], finding common [[Concept.canvas|keywords]], relating [[Insight.canvas|similar problems]].","id":"3458ae07e53ac5fa","x":-978,"y":-164,"width":428,"height":244,"color":"5"},
+		{"type":"text","text":"#### 3 - Generating Ideas (Divergent)\nTake a problem and generate as many ideas as you can.","id":"8564725463826b48","x":-1023,"y":366,"width":473,"height":241,"color":"5"},
+		{"type":"text","text":"#### 1 - [[Insight]]\nGenerate as much of them as you can for the problem.\n- Improve it with hard problems.\n","id":"d3e1feb412935ba1","x":-893,"y":-640,"width":259,"height":320,"color":"5"},
+		{"type":"text","text":"![[Intuition.canvas]]","id":"194f407d79afbcea","x":640,"y":-290,"width":554,"height":517,"color":"3"}
 	],
 	"edges":[
 		{"id":"001877c7c16ec51d","fromNode":"45c2b74955bbedaf","fromSide":"left","toNode":"3458ae07e53ac5fa","toSide":"right"},

@@ -1,19 +1,17 @@
 {
 	"nodes":[
-		{"type":"text","text":"# Intuition\n\nUtilizes ***old solutions*** that have similar traits to newer problems.\nYour way of thinking is derived by two parts of your brain: *Fast Side* and **Slow Side**.\n\n*Fast Side* - Pattern-based thinking, unconscious\n- It uses: Past Knowledge and knowledge of the problem/situation at hand. \n\n**[[Insight.canvas|Slow Side]]** - Efforts, processing, reasoning, conscious\n\nWhen given a problem - it asks: [[Insight.canvas|what has worked before? Will it work here?]]\nAlways seek to ***[[Insight.canvas|improve your past knowledge]]*** and you're gucci!\n\n### The Three Horsemen of Creativity\n\n#### The Generator\nThe [[Concept.canvas|idea]] powerhouse that automatically generates [[Concept.canvas|ideas]] of various quality and gives it to your mind.\n\n#### The Explorer\nTakes [[Concept.canvas|ideas]] from The Generator and looks deeper into them in order to pull out the [[Insight.canvas|fine details]] of the idea.\n\n#### The Filter\nIn-between The Generator and The Explorer, takes out the irrelevant ideas from The Generator to brings forth the more relevant ideas to The Explorer.\nIt also controls which side of the brain is more active. *Fast Side* vs. **Slow Side**\nNeed an idea? Goes towards The Generator. Already have a good idea? Works with The Explorer.","id":"5adff2f7f3134b0d","x":-302,"y":-60,"width":605,"height":900,"color":"3"},
-		{"type":"text","text":"![[Creative Problem-Solving.canvas]]","id":"543119a9f8fe461d","x":-266,"y":1000,"width":534,"height":390,"color":"3"},
-		{"type":"text","text":"## Upgrading your Generator\nAlways come up with relevant and useful [[Concept|ideas]] and [[Concept|patterns]].\n- Draw Inspiration from [[Insight|details]] that exist out of problems, solutions, examples, variations, and random stuff.","id":"761e48340d0826d1","x":-1377,"y":-187,"width":375,"height":335,"color":"5"},
-		{"type":"text","text":"## Improving The Filter and The Explorer\nTweaking past [[Concept|Information]] and gaining more raw [[Insight|experience]] can better your filter.\n- Get faster at picking more relevant and useful details.\n- Expand your Filter to bring in more ideas if you feel stuck.","id":"9fb81a97afa21af2","x":-1400,"y":222,"width":422,"height":336,"color":"5"},
-		{"type":"text","text":"# Logic\nInvolves a series of statements, each of which must be true if the statement before it is true.","id":"95b80424981be282","x":620,"y":299,"width":495,"height":181,"color":"5"},
+		{"type":"file","file":"Intuition.md","id":"e402a90caad38710","x":-302,"y":-120,"width":605,"height":960},
 		{"type":"file","file":"Media/Inserting a problem.png","id":"e1a7a283e55b20cd","x":-1440,"y":650,"width":462,"height":260},
-		{"type":"file","file":"Media/intuition-flowchart.png","id":"0ea1d4bfe4894dca","x":-1438,"y":1000,"width":457,"height":257,"color":"3"}
+		{"type":"file","file":"Media/intuition-flowchart.png","id":"0ea1d4bfe4894dca","x":-1438,"y":1000,"width":457,"height":257,"color":"3"},
+		{"type":"text","text":"# Logic\nInvolves a series of statements, each of which must be true if the statement before it is true.","id":"95b80424981be282","x":600,"y":270,"width":495,"height":181,"color":"5"},
+		{"type":"text","text":"## Improving The Filter and The Explorer\nTweaking past [[Dynamic Concept Note|Information]] and gaining more raw [[Insight|experience]] can better your filter.\n- Get faster at picking more relevant and useful details.\n- Expand your Filter to bring in more ideas if you feel stuck.","id":"9fb81a97afa21af2","x":-1440,"y":192,"width":462,"height":336,"color":"5"},
+		{"type":"text","text":"## Upgrading your Generator\nAlways come up with relevant and useful [[Dynamic Concept Note|ideas]] and [[Dynamic Concept Note|patterns]].\n- Draw Inspiration from [[Insight|details]] that exist out of problems, solutions, examples, variations, and random stuff.","id":"761e48340d0826d1","x":-1440,"y":-187,"width":462,"height":335,"color":"5"}
 	],
 	"edges":[
-		{"id":"a0b6aa8d1aff3fe3","fromNode":"5adff2f7f3134b0d","fromSide":"right","toNode":"95b80424981be282","toSide":"left"},
-		{"id":"09e01783eac31a0e","fromNode":"5adff2f7f3134b0d","fromSide":"bottom","toNode":"543119a9f8fe461d","toSide":"top"},
-		{"id":"b364cdfc37da2d12","fromNode":"5adff2f7f3134b0d","fromSide":"left","toNode":"9fb81a97afa21af2","toSide":"right"},
-		{"id":"443764ace6283da8","fromNode":"5adff2f7f3134b0d","fromSide":"left","toNode":"761e48340d0826d1","toSide":"right"},
-		{"id":"de0a660d3869eb63","fromNode":"5adff2f7f3134b0d","fromSide":"left","toNode":"e1a7a283e55b20cd","toSide":"right"},
+		{"id":"a0b6aa8d1aff3fe3","fromNode":"e402a90caad38710","fromSide":"right","toNode":"95b80424981be282","toSide":"left"},
+		{"id":"b364cdfc37da2d12","fromNode":"e402a90caad38710","fromSide":"left","toNode":"9fb81a97afa21af2","toSide":"right"},
+		{"id":"443764ace6283da8","fromNode":"e402a90caad38710","fromSide":"left","toNode":"761e48340d0826d1","toSide":"right"},
+		{"id":"de0a660d3869eb63","fromNode":"e402a90caad38710","fromSide":"left","toNode":"e1a7a283e55b20cd","toSide":"right"},
 		{"id":"c22dafc17fd6a62a","fromNode":"e1a7a283e55b20cd","fromSide":"bottom","toNode":"0ea1d4bfe4894dca","toSide":"top"}
 	]
 }
