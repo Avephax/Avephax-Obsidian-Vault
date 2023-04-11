@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2ecbf9815dfad2a8",
+        "id": "42f23c3357658ab6",
         "type": "tabs",
         "children": [
           {
-            "id": "9d13d6e2bd8998fa",
+            "id": "21b8b9ade5024f2b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Catalog/Templates/Project.canvas",
-                "viewState": {
-                  "x": 1149.7504733205224,
-                  "y": -245.86064169834364,
-                  "zoom": -0.47441180235117664
-                }
+                "file": "Concept.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -60,14 +57,6 @@
               "type": "surfing-tab-tree",
               "state": {}
             }
-          },
-          {
-            "id": "743f710f012a1165",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -83,21 +72,6 @@
         "id": "a038a71844be2659",
         "type": "tabs",
         "children": [
-          {
-            "id": "17fe96d1d5d3c072",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Template Architecture.canvas",
-                "viewState": {
-                  "x": 15.023685318993126,
-                  "y": 807.8449628022113,
-                  "zoom": -2.3102486597737375
-                }
-              }
-            }
-          },
           {
             "id": "8077fda2073089cc",
             "type": "leaf",
@@ -146,28 +120,38 @@
   },
   "active": "458bc07a6625e04f",
   "lastOpenFiles": [
-    "Catalog/Templates/Dynamic Concept Note.md",
-    "Project.md",
-    "Project.canvas",
-    "Catalog/Templates/Solution.md",
     "Associative Learning.md",
-    "Associative Learning.canvas",
+    "Concept.md",
     "Intuition.md",
-    "Insight.canvas",
+    "Instructions.md",
+    "Creative Problem-Solving.md",
+    "Creative Problem-Solving.canvas",
     "Insight.md",
+    "Diminishing Returns.md",
+    "Catalog/Templates/The Reminder.md",
+    "Associative Learning.canvas",
+    "Catalog/Templates/Project.md",
+    "Title.md",
+    "Catalog/Templates/Plant.md",
+    "My Home.canvas",
+    "Catalog/Templates/The Opinionator.md",
+    "Catalog/Templates/The Juxtaposition.md",
+    "Template Architecture.canvas",
     "Diminishing Returns.canvas",
+    "Concept.canvas",
+    "Catalog/Templates/Dynamic Concept Note.md",
     "Catalog/Templates/Project.canvas",
     "Catalog/Templates/MOC Topic.canvas",
-    "Creative Problem-Solving.canvas",
-    "Intuition.canvas",
+    "Catalog/Templates/Solution.md",
+    "Project.md",
+    "Project.canvas",
+    "Insight.canvas",
     "Untitled",
     "Media/Inserting a problem.png",
     "Media/insight-creative-problem-solving.png",
     "Media/intuition-flowchart.png",
     "Media/intuitive-facts.png",
     "Keyword.md",
-    "Catalog/Templates/Concept.canvas",
-    "Context",
-    "Template Architecture.canvas"
+    "Context"
   ]
 }

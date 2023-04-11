@@ -1,5 +1,8 @@
 # Associative Learning
 ## Keywords
+- [[Diminishing Returns]]
+- [[Intuition]]
+- [[Creative Problem-Solving]]
 
 !![[Associative Learning.canvas]]
 I create new habits, learn new things and form decisions by linking different events to anticipated reactions.

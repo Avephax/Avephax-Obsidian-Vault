@@ -1,10 +1,13 @@
 {
-  "accentColor": "#f5c414",
-  "cssTheme": "primary",
+  "accentColor": "#f9c50b",
+  "cssTheme": "Aura",
   "enabledCssSnippets": [
     "snippet — colored-folders",
     "snippet — custom-list-styles__adding-decimals"
   ],
   "theme": "obsidian",
-  "baseFontSize": 20
+  "baseFontSize": 19,
+  "translucency": true,
+  "nativeMenus": false,
+  "showViewHeader": true
 }

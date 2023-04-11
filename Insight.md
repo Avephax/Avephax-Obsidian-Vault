@@ -1,6 +1,6 @@
 # Insight
 
-## Keywords
+## What is similar to this concept?
 - [[Concept.canvas|Concepts]]
 
 !![[Insight.canvas]]

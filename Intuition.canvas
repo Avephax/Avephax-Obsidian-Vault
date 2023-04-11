@@ -1,11 +1,11 @@
 {
 	"nodes":[
 		{"type":"file","file":"Intuition.md","id":"e402a90caad38710","x":-302,"y":-120,"width":605,"height":960},
-		{"type":"file","file":"Media/Inserting a problem.png","id":"e1a7a283e55b20cd","x":-1440,"y":650,"width":462,"height":260},
-		{"type":"file","file":"Media/intuition-flowchart.png","id":"0ea1d4bfe4894dca","x":-1438,"y":1000,"width":457,"height":257,"color":"3"},
 		{"type":"text","text":"# Logic\nInvolves a series of statements, each of which must be true if the statement before it is true.","id":"95b80424981be282","x":600,"y":270,"width":495,"height":181,"color":"5"},
-		{"type":"text","text":"## Improving The Filter and The Explorer\nTweaking past [[Dynamic Concept Note|Information]] and gaining more raw [[Insight|experience]] can better your filter.\n- Get faster at picking more relevant and useful details.\n- Expand your Filter to bring in more ideas if you feel stuck.","id":"9fb81a97afa21af2","x":-1440,"y":192,"width":462,"height":336,"color":"5"},
-		{"type":"text","text":"## Upgrading your Generator\nAlways come up with relevant and useful [[Dynamic Concept Note|ideas]] and [[Dynamic Concept Note|patterns]].\n- Draw Inspiration from [[Insight|details]] that exist out of problems, solutions, examples, variations, and random stuff.","id":"761e48340d0826d1","x":-1440,"y":-187,"width":462,"height":335,"color":"5"}
+		{"type":"text","text":"## Improving The Filter and The Explorer\nTweaking past [[Dynamic Concept Note|Information]] and gaining more raw [[Insight|experience]] can better your filter.\n- Get faster at picking more relevant and useful details.\n- Expand your Filter to bring in more ideas if you feel stuck.","id":"9fb81a97afa21af2","x":-1760,"y":192,"width":782,"height":336,"color":"5"},
+		{"type":"text","text":"## Upgrading your Generator\nAlways come up with relevant and useful [[Dynamic Concept Note|ideas]] and [[Dynamic Concept Note|patterns]].\n- Draw Inspiration from [[Insight|details]] that exist out of problems, solutions, examples, variations, and random stuff.","id":"761e48340d0826d1","x":-1760,"y":-187,"width":782,"height":335,"color":"5"},
+		{"type":"file","file":"Media/Inserting a problem.png","id":"e1a7a283e55b20cd","x":-1753,"y":640,"width":769,"height":433},
+		{"type":"file","file":"Media/intuition-flowchart.png","id":"0ea1d4bfe4894dca","x":-1749,"y":1223,"width":760,"height":427,"color":"3"}
 	],
 	"edges":[
 		{"id":"a0b6aa8d1aff3fe3","fromNode":"e402a90caad38710","fromSide":"right","toNode":"95b80424981be282","toSide":"left"},

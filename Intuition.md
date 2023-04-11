@@ -1,5 +1,8 @@
 # Intuition
-- [[Creative Problem-Solving.canvas|Solution]]
+
+## What is similar to this concept?
+- [[Creative Problem-Solving]]
+- [[Insight]]
 !![[Intuition.canvas]]
 Utilizes ***old solutions*** that have similar traits to newer problems.
 Your way of thinking is derived by two parts of your brain: *Fast Side* and **Slow Side**.
