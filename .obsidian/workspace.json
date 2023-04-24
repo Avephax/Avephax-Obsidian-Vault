@@ -11,8 +11,12 @@
             "id": "91e6bfd544b839c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Catalog/Templates/Critical Linking.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Catalog/Templates/Critical Linking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Catalog/Templates/Critical Linking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,17 +122,22 @@
   },
   "active": "91e6bfd544b839c1",
   "lastOpenFiles": [
-    "Associative Learning.md",
-    "Intuition.canvas",
-    "Concept.md",
-    "Intuition.md",
     "Instructions.md",
-    "Creative Problem-Solving.md",
-    "Creative Problem-Solving.canvas",
+    "Catalog/Templates/Critical Linking.md",
+    "Abstracting and Actualizing.pdf",
+    "Associative Learning.md",
+    "Factoring.pdf",
     "Insight.md",
+    "Insight.canvas",
     "Diminishing Returns.md",
-    "Catalog/Templates/The Reminder.md",
+    "Diminishing Returns.canvas",
+    "Creative Problem-Solving.canvas",
     "Associative Learning.canvas",
+    "Concept.md",
+    "Intuition.canvas",
+    "Intuition.md",
+    "Creative Problem-Solving.md",
+    "Catalog/Templates/The Reminder.md",
     "Catalog/Templates/Project.md",
     "Title.md",
     "Catalog/Templates/Plant.md",
@@ -134,14 +145,12 @@
     "Catalog/Templates/The Opinionator.md",
     "Catalog/Templates/The Juxtaposition.md",
     "Template Architecture.canvas",
-    "Diminishing Returns.canvas",
     "Concept.canvas",
     "Catalog/Templates/Dynamic Concept Note.md",
     "Catalog/Templates/Project.canvas",
     "Catalog/Templates/MOC Topic.canvas",
     "Catalog/Templates/Solution.md",
     "Project.md",
-    "Project.canvas",
     "Untitled",
     "Media/Inserting a problem.png",
     "Media/insight-creative-problem-solving.png",

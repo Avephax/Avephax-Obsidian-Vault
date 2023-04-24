@@ -1,4 +1,4 @@
-Maskscot's PKM System of Systems and Practices - Version 7.0
+Maskscot's PKM System of Systems and Practices - Version 8.0
 Combines the likes of: Concept Maps + Markdown Linking
 
 Uses: 80% Obsidian Canvas (.canvas) - 20% Markdown Notes (.md)

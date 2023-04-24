@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"type":"text","text":"## Shed Maximization\n- Choose your activities wisely\n- Sacrifice some things to an extent to work on the aspirations you really want to achieve.","id":"08e1594684a16d24","x":609,"y":39,"width":643,"height":305,"color":"5"},
-		{"id":"5d0248e952e513b0","x":-363,"y":-108,"width":722,"height":600,"type":"file","file":"Diminishing Returns.md"},
-		{"type":"text","text":"# Reminders\nUse Amplenote to constantly track down your progress each month, week and day to track your progress.\nJot down answers to these following questions.\n1.  What concepts you've discovered\n2.  How often each concept receives a new insight\n3.  Which topics you're looking to further uncover concepts from?","id":"ff47a763a93386f1","x":-314,"y":680,"width":625,"height":638,"color":"5"},
-		{"type":"text","text":"## Difficulty = High Value\n- What am I missing out on by doing this activity instead?\n- Avoid comfort in anything you're learning.\n","id":"8b5692a4f795a583","x":-318,"y":-600,"width":633,"height":320,"color":"5"},
+		{"type":"text","text":"## Shed Maximization\n- Choose your activities wisely\n- Sacrifice some things to an extent to work on the aspirations you really want to achieve.","id":"08e1594684a16d24","x":609,"y":39,"width":700,"height":305,"color":"5"},
+		{"type":"file","file":"Diminishing Returns.md","id":"5d0248e952e513b0","x":-363,"y":-108,"width":722,"height":600},
+		{"type":"text","text":"# Reminders\nUse Amplenote to constantly track down your progress each month, week and day to track your progress.\nJot down answers to these following questions.\n1.  What concepts you've discovered\n2.  How often each concept receives a new insight\n3.  Which topics you're looking to further uncover concepts from?","id":"ff47a763a93386f1","x":-314,"y":680,"width":625,"height":480,"color":"5"},
+		{"type":"text","text":"## Difficulty = High Value\n- What am I missing out on by doing this activity instead?\n- Avoid comfort in anything you're learning.\n","id":"8b5692a4f795a583","x":-318,"y":-560,"width":633,"height":280,"color":"5"},
 		{"type":"text","text":"## Optimize your Optimization\n- Don't strive to perfect your activity.\n- If time allows it, add in some thoroughness on a finished product for extra flare.\n\n","id":"05b5d043289ecfa3","x":609,"y":400,"width":700,"height":360,"color":"5"},
-		{"type":"text","text":"## Optimizing your learning\n***Achieve 80% of the insight(s)*** you can build off of ***first*** *(making progress)*, and add other insights when justified **(being thorough)**.","id":"a6067d95b97e87c3","x":609,"y":-280,"width":672,"height":223,"color":"5"}
+		{"type":"text","text":"## Optimizing your learning\n***Achieve 80% of the insight(s)*** you can build off of ***first*** *(making progress)*, and add other insights when justified **(being thorough)**.","id":"a6067d95b97e87c3","x":609,"y":-360,"width":700,"height":303,"color":"5"}
 	],
 	"edges":[
 		{"id":"7c8af4f38d3a7525","fromNode":"5d0248e952e513b0","fromSide":"right","toNode":"08e1594684a16d24","toSide":"left"},
