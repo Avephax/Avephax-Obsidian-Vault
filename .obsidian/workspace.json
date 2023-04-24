@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catalog/Templates/Critical Linking.md",
+                "file": "Insight.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catalog/Templates/Critical Linking.md",
+                "file": "Insight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catalog/Templates/Critical Linking.md",
+                "file": "Insight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,13 +122,13 @@
   },
   "active": "91e6bfd544b839c1",
   "lastOpenFiles": [
-    "Catalog/Templates/Project.md",
-    "Catalog/Templates/Plant.md",
+    "Catalog/Factoring.pdf",
+    "Catalog/Abstracting and Actualizing.pdf",
     "Catalog/Templates/Critical Linking.md",
+    "Catalog/Templates/Plant.md",
+    "Catalog/Templates/Project.md",
     "Instructions.md",
-    "Abstracting and Actualizing.pdf",
     "Associative Learning.md",
-    "Factoring.pdf",
     "Insight.md",
     "Insight.canvas",
     "Diminishing Returns.md",
