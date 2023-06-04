@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bf436ab859baba38",
+        "id": "5b80be5baa275956",
         "type": "tabs",
         "children": [
           {
-            "id": "91e6bfd544b839c1",
+            "id": "6a3f0a6d3ac501ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Insight.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -43,18 +39,18 @@
             }
           },
           {
-            "id": "3dc5c04a090f5f8e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "a8caea7fdf26024c",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "3979c8262950d7a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Insight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,28 +111,47 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "obsidian-rich-links:Rich Links": false,
+      "obisidian-note-linker:Note Linker": false,
+      "auto-moc:AutoMOC": false
     }
   },
-  "active": "91e6bfd544b839c1",
+  "active": "458bc07a6625e04f",
   "lastOpenFiles": [
-    "Catalog/Factoring.pdf",
-    "Catalog/Abstracting and Actualizing.pdf",
-    "Catalog/Templates/Critical Linking.md",
-    "Catalog/Templates/Plant.md",
-    "Catalog/Templates/Project.md",
-    "Instructions.md",
+    "First Principles Thinking.md",
+    "Factoring.md",
     "Associative Learning.md",
-    "Insight.md",
-    "Insight.canvas",
     "Diminishing Returns.md",
+    "First Principles Thinking.canvas",
+    "Media/linking-tip-02.png",
+    "Media/linking-tip-01.png",
+    "Solution Mental Mapping.md",
     "Diminishing Returns.canvas",
-    "Creative Problem-Solving.canvas",
     "Associative Learning.canvas",
-    "Concept.md",
+    "Catalog/Templates/Media Linking.md",
+    "Catalog/Templates/Critical Linking.md",
+    "Untitled 2.md",
+    "Untitled.md",
+    "Abstracting and Actualizing.md",
+    "Insight.md",
+    "Media/linking-tip.png",
+    "Media/solution-mental-mapping-1.png",
+    "Media/solution-mental-mapping-2.png",
+    "Media/never-assume-first-principles.png",
+    "Media/First Principles Thinking Systemic Model.png",
+    "Media/abstract-actualize.png",
+    "Media/Pasted image 20230504182134.png",
+    "Media/abstracting-actualizing-mindset-strategy.png",
     "Intuition.canvas",
     "Intuition.md",
-    "Creative Problem-Solving.md",
+    "Insight.canvas",
+    "Instructions.md",
+    "Catalog/Abstracting and Actualizing.pdf",
+    "Catalog/Templates/Plant.md",
+    "Catalog/Factoring.pdf",
+    "Catalog/Templates/Project.md",
+    "Concept.md",
     "Catalog/Templates/The Reminder.md",
     "Title.md",
     "My Home.canvas",
@@ -152,10 +165,6 @@
     "Catalog/Templates/Solution.md",
     "Project.md",
     "Untitled",
-    "Media/Inserting a problem.png",
-    "Media/insight-creative-problem-solving.png",
-    "Media/intuition-flowchart.png",
-    "Media/intuitive-facts.png",
     "Keyword.md",
     "Context"
   ]

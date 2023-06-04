@@ -1,11 +1,11 @@
-Maskscot's PKM System of Systems and Practices - Version 8.0
+Maskscot's PKM System of Systems and Practices - Version 10.0
 Combines the likes of: Concept Maps + Markdown Linking
 
-Uses: 80% Obsidian Canvas (.canvas) - 20% Markdown Notes (.md)
+Uses: 80% Markdown Syntax - 20% Obsidian Canvas (.canvas) (or .md if you'd like)
 
 Folders Included:
 
-Catalog: The things you encounter everywhere online and offline; your set of resources :3
+Catalog: The things you encounter anywhere online and offline; your set of resources
 Can include: Anime, Animations, Movies, Articles, Manga, Video Links, Research, Interviews, Talks/Podcast, Templates, Frameworks
 
 Media: Supporting Materials through media files
@@ -13,13 +13,11 @@ Change the folder location for attachments by doing: Options -> Files & Links ->
 Should include: Attachments, Graphics, Images, Videos, Audio Recordings
 
 How to use it:
-1. Make a .md Note
-2. Use a flow block !![[]]
-3. Make a Canvas file
-- Attach images, web pages, videos, etc.
-- Attach .md Note
-4. Link other .md Notes through Keywords + [[]]
-5. Go back and forth (Ctrl + Alt + Left/Right Arrow)
+1. Search line:() or section:() for a note
+2. Start linking from Ctrl + L to copy paste the link towards another note or within the note.
+	- Bulletpoint any new information you pick out or copy-paste.
+	- Make another bulletpoint under the information ( Ctrl + } )
+3. Repeat Ctrl + L until you copy-paste the link back to the initial note's bullet point.
 
 Enjoy!
 

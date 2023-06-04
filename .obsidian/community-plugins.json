@@ -3,5 +3,14 @@
   "make-md",
   "surfing",
   "media-extended",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-carry-forward",
+  "find-unlinked-files",
+  "obsidian-rich-links",
+  "obisidian-note-linker",
+  "persistent-links",
+  "mrj-jump-to-link",
+  "obsidian-file-link",
+  "find-and-replace-in-selection",
+  "auto-moc"
 ]
