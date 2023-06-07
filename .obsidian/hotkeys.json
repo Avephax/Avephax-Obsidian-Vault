@@ -49,10 +49,9 @@
   "markdown:toggle-preview": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "E"
+      "key": "R"
     }
   ],
   "canvas:export-as-image": [
@@ -98,22 +97,6 @@
   ],
   "file-explorer:new-file-in-new-pane": [],
   "make-md:mk-open-flow": [],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "E"
-    }
-  ],
-  "note-composer:split-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "obsidian-timestamper:obsidian-fast-datestamp": [
     {
       "modifiers": [
@@ -124,7 +107,6 @@
   ],
   "obsidian-timestamper:obsidian-fast-timestamp": [],
   "obsidian-stille:toggleStille": [],
-  "editor:toggle-bullet-list": [],
   "note-refactor-obsidian:app:extract-selection-first-line": [],
   "obsidian-carry-forward:carry-line-forward-link-only": [
     {
@@ -193,7 +175,15 @@
       "key": "L"
     }
   ],
-  "links:editor-edit-link-destination": [
+  "obsidian-file-link:add-file-link": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "links:editor-delete-link": [
     {
       "modifiers": [
         "Alt",
@@ -202,12 +192,82 @@
       "key": "L"
     }
   ],
-  "obsidian-file-link:add-file-link": [
+  "obsidian-file-path-to-uri:paste-file-path-as-file-uri": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "E"
+    }
+  ],
+  "obsidian-file-path-to-uri:toggle-file-path-to-uri": [],
+  "quick-explorer:browse-current": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "quick-explorer:go-prev": [],
+  "quick-explorer:browse-vault": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "obsidian-hover-editor:dock-active-popover-to-workspace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "oz-clear-unused-images:clear-images-obsidian": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "oz-clear-unused-images:clear-unused-attachments": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
     }
   ]
 }

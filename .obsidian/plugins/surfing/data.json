@@ -1,18 +1,13 @@
 {
   "defaultSearchEngine": "google",
-  "customSearchEngine": [
-    {
-      "name": "duckduckgo",
-      "url": "https://duckduckgo.com/?q="
-    }
-  ],
+  "customSearchEngine": [],
   "ignoreList": [
     "notion",
     "craft"
   ],
-  "alwaysShowCustomSearch": false,
-  "showOtherSearchEngines": true,
-  "showSearchBarInPage": false,
+  "alwaysShowCustomSearch": true,
+  "showOtherSearchEngines": false,
+  "showSearchBarInPage": true,
   "markdownPath": "/",
   "customHighlightFormat": false,
   "highlightFormat": "[{CONTENT}]({URL})",
@@ -26,20 +21,16 @@
   "darkMode": false,
   "bookmarkManager": {
     "openBookMark": true,
-    "saveBookMark": true,
+    "saveBookMark": false,
     "sendToReadWise": false,
     "pagination": "12",
-    "category": "\n",
+    "category": "ROOT",
     "defaultCategory": "ROOT",
     "defaultColumnList": [
       "name",
-      "description",
       "url",
       "category",
-      "tags",
-      "created",
-      "modified",
-      "action"
+      "created"
     ],
     "defaultFilterType": "menu"
   },

@@ -1,0 +1,10 @@
+{
+  "showVaultName": true,
+  "showCurrentFileName": false,
+  "showPopups": true,
+  "customVaultName": "Learning and Wandering",
+  "showFileExtension": false,
+  "useLoadedTime": true,
+  "connectOnStart": true,
+  "autoHideStatusBar": true
+}
