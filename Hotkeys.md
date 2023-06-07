@@ -21,6 +21,7 @@
 - Ctrl + Alt + B - Toggle Bullet Points
 - Ctrl + Shift + C - Send bullet point to its own file
 - Ctrl + ↕ = Move a bullet point's position
+- Ctrl + Alt + C = Turn Page into Hover Tab (Hover Editor)
 **Make and go through links**
 - Ctrl + L - Carry Link to another Note (Carry-Forward)
 - Alt + L - Link Info from a Source  (Carry-Forward)

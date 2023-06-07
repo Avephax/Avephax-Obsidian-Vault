@@ -78,15 +78,6 @@
       "key": "S"
     }
   ],
-  "editor:insert-callout": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
   "ytranscript:fetch-transcript": [
     {
       "modifiers": [
@@ -268,6 +259,15 @@
         "Shift"
       ],
       "key": "L"
+    }
+  ],
+  "obsidian-hover-editor:convert-active-pane-to-popover": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
     }
   ]
 }
