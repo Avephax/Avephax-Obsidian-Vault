@@ -125,7 +125,14 @@
       "key": "B"
     }
   ],
-  "editor:toggle-bold": [],
+  "editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
   "editor:cycle-list-checklist": [
     {
       "modifiers": [
@@ -252,7 +259,34 @@
       "key": "E"
     }
   ],
-  "insert-template": [
+  "obsidian-hover-editor:convert-active-pane-to-popover": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll-zen": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "persistent-links:persistent-links:repair-links-in-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-content-only": [
     {
       "modifiers": [
         "Mod",
@@ -261,13 +295,22 @@
       "key": "L"
     }
   ],
-  "obsidian-hover-editor:convert-active-pane-to-popover": [
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:toggle-highlight": [
     {
       "modifiers": [
         "Alt",
         "Mod"
       ],
-      "key": "C"
+      "key": "V"
     }
   ]
 }

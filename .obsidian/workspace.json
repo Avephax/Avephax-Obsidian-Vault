@@ -110,11 +110,7 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
-      "templates:Insert template": false,
-      "obsidian-rich-links:Rich Links": false,
-      "obisidian-note-linker:Note Linker": false,
-      "auto-moc:AutoMOC": false
+      "templates:Insert template": false
     }
   },
   "active": "458bc07a6625e04f",

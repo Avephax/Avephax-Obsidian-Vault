@@ -54,8 +54,9 @@ var LinkData = class extends TextPart {
 };
 function findLink(text, startPos, endPos, linkType = 65535 /* All */) {
   const wikiLinkRegEx = /\[\[([^\[\]|]+)(\|([^\[\]]*))?\]\]/g;
-  const mdLinkRegEx = /\[([^\]]*)\]\(([^)]*)\)/gmi;
+  const mdLinkRegEx = /\[([^\]\[]*)\]\(([^)(]*)\)/gmi;
   const htmlLinkRegEx = /<a\s+[^>]*href\s*=\s*['"]([^'"]*)['"][^>]*>(.*?)<\/a>/gi;
+  const angleBracket = /<([a-z]+:\/\/[^>]+)>/gmi;
   let match;
   if (linkType & 2 /* Wiki */) {
     while (match = wikiLinkRegEx.exec(text)) {
@@ -103,6 +104,19 @@ function findLink(text, startPos, endPos, linkType = 65535 /* All */) {
         if (text2) {
           const textIdx = raw.indexOf(text2, linkData.link ? linkData.link.position.end : raw.indexOf(">") + 1);
           linkData.text = new TextPart(text2, new Position(textIdx, textIdx + text2.length));
+        }
+        return linkData;
+      }
+    }
+  }
+  if (linkType & 8 /* AngleBracket */) {
+    while (match = angleBracket.exec(text)) {
+      if (startPos >= match.index && endPos <= angleBracket.lastIndex) {
+        const [raw, url] = match;
+        const linkData = new LinkData(8 /* AngleBracket */, raw, new Position(match.index, angleBracket.lastIndex));
+        if (url) {
+          const linkIdx = raw.indexOf(url);
+          linkData.link = new TextPart(url, new Position(linkIdx, linkIdx + url.length));
         }
         return linkData;
       }
@@ -2112,7 +2126,10 @@ var ReplaceLinkModal = class extends import_obsidian3.Modal {
 var DEFAULT_SETTINGS = {
   linkReplacements: [],
   titleSeparator: " \u2022 ",
-  featureFlagReplaceLink: false
+  showPerformanceNotification: false,
+  //feature flags
+  ffReplaceLink: false,
+  ffAnglebracketURLSupport: false
 };
 var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
   constructor(app2, manifest) {
@@ -2142,6 +2159,14 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
         this.titles = [];
       }
     };
+  }
+  measurePerformance(func) {
+    const start2 = (0, import_obsidian4.moment)();
+    try {
+      func();
+    } finally {
+      return (0, import_obsidian4.moment)().diff(start2);
+    }
   }
   async onload() {
     await this.loadSettings();
@@ -2201,7 +2226,7 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
       icon: "text-cursor-input",
       editorCheckCallback: (checking, editor, ctx) => this.editLinkDestinationUnderCursorHandler(editor, checking)
     });
-    if (this.settings.featureFlagReplaceLink) {
+    if (this.settings.ffReplaceLink) {
       this.addCommand({
         id: "editor-replace-external-link-with-internal",
         name: "Replace link",
@@ -2221,7 +2246,7 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
       icon: "link",
       editorCheckCallback: (checking, editor, ctx) => this.createLinkFromClipboardHandler(editor, checking)
     });
-    if (this.settings.featureFlagReplaceLink) {
+    if (this.settings.ffReplaceLink) {
       this.registerEvent(
         this.app.workspace.on("file-open", (file) => this.replaceMarkdownTargetsInNote())
       );
@@ -2236,7 +2261,7 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
       );
       this.addCommand({
         id: "editor-replace-markdown-targets-in-note",
-        name: "#delete Replace markdown link in notes",
+        name: "#Replace markdown link in notes",
         editorCallback: (editor, view) => this.replaceMarkdownTargetsInNote()
       });
     }
@@ -2299,7 +2324,7 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
                 this.convertLinkToWikiLink(linkData, editor);
               });
             });
-            if (this.settings.featureFlagReplaceLink) {
+            if (this.settings.ffReplaceLink) {
               menu.addItem((item) => {
                 item.setTitle("Replace link").setIcon("pencil").onClick(async () => {
                   this.replaceExternalLink(linkData, editor);
@@ -2349,9 +2374,10 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
     this.linkTextSuggestContext.titleSeparator = this.settings.titleSeparator;
   }
   getLink(editor) {
+    console.log(`getLink: ${65535 /* All */ & ~8 /* AngleBracket */}`);
     const text = editor.getValue();
     const cursorOffset = editor.posToOffset(editor.getCursor("from"));
-    return findLink(text, cursorOffset, cursorOffset);
+    return this.settings.ffAnglebracketURLSupport ? findLink(text, cursorOffset, cursorOffset) : findLink(text, cursorOffset, cursorOffset, 65535 /* All */ & ~8 /* AngleBracket */);
   }
   unlinkLinkOrSelectionHandler(editor, checking) {
     const selection = editor.getSelection();
@@ -2363,7 +2389,7 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
     } else {
       const text = editor.getValue();
       const cursorOffset = editor.posToOffset(editor.getCursor("from"));
-      const linkData = findLink(text, cursorOffset, cursorOffset);
+      const linkData = findLink(text, cursorOffset, cursorOffset, 2 /* Wiki */ | 4 /* Html */ | 1 /* Markdown */);
       if (checking) {
         return !!linkData;
       }
@@ -2390,7 +2416,7 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
   deleteLinkUnderCursorHandler(editor, checking) {
     const text = editor.getValue();
     const cursorOffset = editor.posToOffset(editor.getCursor("from"));
-    const linkData = findLink(text, cursorOffset, cursorOffset);
+    const linkData = findLink(text, cursorOffset, cursorOffset, 2 /* Wiki */ | 1 /* Markdown */ | 4 /* Html */);
     if (checking) {
       return !!linkData;
     }
@@ -2408,7 +2434,7 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
   convertLinkUnderCursorToMarkdownLinkHandler(editor, checking) {
     const text = editor.getValue();
     const cursorOffset = editor.posToOffset(editor.getCursor("from"));
-    const linkData = findLink(text, cursorOffset, cursorOffset, 2 /* Wiki */ | 4 /* Html */);
+    const linkData = this.settings.ffAnglebracketURLSupport ? findLink(text, cursorOffset, cursorOffset, 2 /* Wiki */ | 4 /* Html */ | 8 /* AngleBracket */) : findLink(text, cursorOffset, cursorOffset, 2 /* Wiki */ | 4 /* Html */);
     if (checking) {
       return !!linkData;
     }
@@ -2416,17 +2442,34 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
       this.convertLinkToMarkdownLink(linkData, editor);
     }
   }
-  convertLinkToMarkdownLink(linkData, editor) {
+  async convertLinkToMarkdownLink(linkData, editor) {
     let text = linkData.text ? linkData.text.content : "";
     const link = linkData.link ? linkData.link.content : "";
     if (linkData.type === 2 /* Wiki */ && !text) {
       text = link;
     }
+    const urlRegEx = /^(http|https):\/\/[^ "]+$/i;
+    if (linkData.type === 8 /* AngleBracket */ && linkData.link && urlRegEx.test(linkData.link.content)) {
+      const notice = new import_obsidian4.Notice("Getting title ...", 0);
+      try {
+        text = await getPageTitle(new URL(linkData.link.content), this.getPageText);
+      } catch (error) {
+        new import_obsidian4.Notice(error);
+      } finally {
+        notice.hide();
+      }
+    }
+    const rawLinkText = `[${text}](${link ? encodeURI(link) : ""})`;
     editor.replaceRange(
-      `[${text}](${link ? encodeURI(link) : ""})`,
+      rawLinkText,
       editor.offsetToPos(linkData.position.start),
       editor.offsetToPos(linkData.position.end)
     );
+    if (text) {
+      editor.setCursor(editor.offsetToPos(linkData.position.start + rawLinkText.length));
+    } else {
+      editor.setCursor(editor.offsetToPos(linkData.position.start + 1));
+    }
   }
   convertLinkUnderCursorToWikilinkHandler(editor, checking) {
     const text = editor.getValue();
@@ -2451,7 +2494,7 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
   copyLinkUnderCursorToClipboardHandler(editor, checking) {
     const text = editor.getValue();
     const cursorOffset = editor.posToOffset(editor.getCursor("from"));
-    const linkData = findLink(text, cursorOffset, cursorOffset);
+    const linkData = findLink(text, cursorOffset, cursorOffset, 2 /* Wiki */ | 1 /* Markdown */ | 4 /* Html */);
     if (checking) {
       return !!linkData && !!linkData.link;
     }
@@ -2620,14 +2663,19 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
     return str.replace(/[/\-\\^$*+?.()|[\]{}]/g, "\\$&");
   }
   replaceMarkdownTargetsInNote() {
-    const mdView = this.app.workspace.getActiveViewOfType(import_obsidian4.MarkdownView);
-    if (mdView && mdView.getViewData()) {
-      const text = mdView.getViewData();
-      const [result, count] = this.replaceLinksInText(text);
-      if (count) {
-        mdView.setViewData(result, false);
-        new import_obsidian4.Notice(`Links: ${count} items replaced.`);
+    const e = this.measurePerformance(() => {
+      const mdView = this.app.workspace.getActiveViewOfType(import_obsidian4.MarkdownView);
+      if (mdView && mdView.getViewData()) {
+        const text = mdView.getViewData();
+        const [result, count] = this.replaceLinksInText(text);
+        if (count) {
+          mdView.setViewData(result, false);
+          new import_obsidian4.Notice(`Links: ${count} items replaced.`);
+        }
       }
+    });
+    if (this.settings.showPerformanceNotification) {
+      new import_obsidian4.Notice(`${e} ms`);
     }
   }
   replaceLinksInText(text) {
@@ -2769,5 +2817,23 @@ var ObsidianLinksSettingTab = class extends import_obsidian4.PluginSettingTab {
     insiderDescription.createEl("span", {
       text: " and influence the direction of development."
     });
+    new import_obsidian4.Setting(containerEl).setName("Angle bracket URL support").setDesc("Adds ability to work with URLs like <http://example.com>.").setClass("setting-item--insider-feature1").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.ffAnglebracketURLSupport).onChange(async (value) => {
+        this.plugin.settings.ffAnglebracketURLSupport = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    const feature1SettingDesc = containerEl.querySelector(".setting-item--insider-feature1 .setting-item-description");
+    console.log(feature1SettingDesc);
+    if (feature1SettingDesc) {
+      feature1SettingDesc.appendText(" see ");
+      feature1SettingDesc.appendChild(
+        createEl("a", {
+          href: "https://github.com/mii-key/obsidian-links/blob/master/docs/insider/angle-bracket-url-support.md",
+          text: "docs"
+        })
+      );
+      feature1SettingDesc.appendText(".");
+    }
   }
 };
