@@ -1,0 +1,18 @@
+- [x] **Dynamic (action) verbs** **describe** **functions** that **we** **mentally and physically do**; they **also show** what **happens** with what we **input**. They **allow** your **conscious and unconscious mind** **to now cooperate** **seamlessly**. ^qeuts
+    - [[Action Verbs#^f1utp]]
+- **Action Verbs + Adverbs + Noun** **bring together** **Insight(s)** ^f1utp
+    - [[Action Verbs#^e3ubl]]
+- **Action Verbs** **that end** with **-s, -es or ambiguously** will **show** the **function**. **Find and spot** **to, -s or -es endings** **and accept** the **info** as **fact**. ^e3ubl
+    - [[Action Verbs#^r9wgq]]
+- **Action Verbs** which **end** in **-ing and -ed** **show** **progression** (an **action** that **continues**) **and** the **past** (an **action** we **record and archive**), **respectively**. ^r9wgq
+    - [[Action Verbs#^f1utp]]
+- **Action Verbs alone** **explains and generalizes** itself in **info**, while **Action Verbs** next to a **noun** **specifies and targets** **info** through a **subject**.
+- **Adverbs** **dynamically modify and enhance** **Action Verbs**, while **Nouns** **anchor** **Action Verbs**.
+- **Choose** your **acts** **to change** what you **feel**.
+- **Stative Verbs** **never end** with **-ing**. **Tweak** any **verbs** by **adding** **-ing** **to see** if it **works**. If not, **then disregard** it.
+- **Copular verbs** **link** a **noun** **to** an **adjective**. **Disregard** those as well. ^7sqqo
+- **Start** **sentences** with "**do**," "**does**," or "**did**." **to ask** **questions**.
+- **Observe and/or Put** "**do not**," "**did not**," or "**does not**" **before** the **action verb** **to negate and prevent** an **action**.
+- **Use** **-ize, -ify, -en, or -ate** **to turn** **nouns** into **action verbs**.
+- **Act out** the **action verb** **to apply** what you’ve **learned**.
+- ![[action-verb-guide.png]]

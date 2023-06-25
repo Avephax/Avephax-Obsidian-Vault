@@ -312,5 +312,14 @@
       ],
       "key": "V"
     }
+  ],
+  "workspace:copy-url": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "L"
+    }
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "id": "obsidian42-strange-new-worlds",
+  "name": "Obsidian42 - Strange New Worlds (SNW)",
+  "version": "1.2.2",
+  "minAppVersion": "1.2.0",
+  "description": "Revealing networked thought and the strange new worlds created by your vault",
+  "author": "TfTHacker",
+  "authorUrl": "https://twitter.com/TfTHacker",
+  "isDesktopOnly": false,
+  "fundingUrl": {
+    "Buy Me a Coffee": "https://bit.ly/o42-kofi",
+    "Medium membership": "https://bit.ly/o42-medium"
+  } 
+}

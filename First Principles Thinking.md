@@ -1,19 +1,29 @@
 # First Principles Thinking
-- [[Associative Learning]]
-- [[Diminishing Returns]]
-
-- Finding the <mark style='background:#0fb9b1'>logic</mark> of <mark style='background:#f7b731'>concepts</mark> <mark style='background:#0fb9b1'>led by chosen factors</mark> which are <mark style='background:#eb3b5a'>used within any instance</mark>.
-![[First Principles Thinking Systemic Model.png]]
-#### Factors
-- The <mark style='background:#0fb9b1'>leading causes, prompts, parameters and/or insights</mark> <mark style='background:#f7b731'>that form a concept</mark>.
-- For any <mark style='background:#f7b731'>concept</mark> brought up, think about <mark style='background:#0fb9b1'>the relationship between its factor(s) by their causes</mark>.
-
-#### Concepts
-- An abstract <mark style='background:#f7b731'>idea arranged in an evergrowing pattern</mark> <mark style='background:#0fb9b1'>by the relationship of its leading factors</mark>.
-- For every <mark style='background:#eb3b5a'>instance</mark> brought up, think about the <mark style='background:#f7b731'>concept(s) <mark style='background:#0fb9b1'>attributed</mark> to them</mark>.
-
-#### Instance
-- The <mark style='background:#eb3b5a'>example(s)</mark> of <mark style='background:#f7b731'>one or more concept(s)</mark>.
-- For any <mark style='background:#fa8231'>topic</mark> brought up, think about the <mark style='background:#f7b731'>concept(s) <mark style='background:#0fb9b1'>attributed</mark> to it</mark>.
-
-![[never-assume-first-principles.png|1230]]
+- ![[First Principles Thinking Systemic Model.png]]
+	**Identify** a statement > **Ask** a yes or no question >
+	If **answering** yes, **ask** questions about the action verbs > **Utilize** answers as new statements > **Repeatedly ask** questions until you **get** a basic principle to apply.
+	If/when **answering** "no", **accept** the principle(s) as a fact > **Solve** your problem ^11kml
+	- [[Higher Self Vs. Lower Self#^v3pjf]]
+- ![[Pasted image 20230512003247.png|500]]
+	**What?** - **Identifies and categorizes** action verb(s). What it **does**?
+	**Why?** - The cause behind any verb(s). It **symbolizes** "what" factors together.
+	**How?** - The process of any verb(s). How it **works**?
+	**Where?** - **Contextualize** any verb(s).
+	**When?** - Cues any verb(s) depending on context.
+	**Who?** - An entity **involved** in any verb(s).
+	**Which?** - **Prioritizing** any verb(s) by "what".
+	**Whose?** - Any verb(s) of "what" **possessed** by "who". ^2w9f5
+	- [[First Principles Thinking#^w40ye]]
+	- [[Action Verbs#^qeuts]]
+	- [[Middle-Out Thinking#^w31xw]]
+	- [[Higher Self Vs. Lower Self#^v3pjf]]
+- ![[never-assume-first-principles.png]]
+	**Point out and define** assumptions. **Analyze** everything **critically**. **Instead** of "this is X", **ask** "why is it X?" ^w40ye
+	- [[First Principles Thinking#^reski]]
+- Are the action verb(s) I'm **finding**: 
+	Unimportant, 
+	Self-Explanatory, 
+	Easy Enough to Memorize? ^reski
+	- [[First Principles Thinking#^11kml]]
+	- [[Action Verbs#^qeuts]]
+	- [[Copular Verbs#^25cra]]
