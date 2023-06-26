@@ -1,0 +1,14 @@
+{
+  "confirmPassword": true,
+  "rememberPassword": true,
+  "rememberPasswordTimeout": 30,
+  "rememberPasswordLevel": "fullPath",
+  "featureWholeNoteEncrypt": {
+    "addRibbonIconToCreateNote": true,
+    "defaultView": "Reading"
+  },
+  "featureInplaceEncrypt": {
+    "expandToWholeLines": false,
+    "showMarkerWhenReadingDefault": true
+  }
+}

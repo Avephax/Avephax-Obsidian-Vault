@@ -1,4 +1,4 @@
-# Action Verbs^connections added 🧭
+## Action Verbs^connections added 🧭
 - **Pull out** a note, **highlight or tweak** the action verb(s), **act** it.
 - **Search** line:() or section:() for any action words you **just found**.
 - **Link** from Ctrl + L **to copy paste** the link towards another note or within the note.
@@ -6,6 +6,7 @@
 - **Hit** Ctrl + L on a bullet point **and **then** jump** into a link **to paste** the link there and in reverse.
 
 ## Hotkeys 🧭
+
 **Find and go through Notes**
 - line:() - **Search** a Hotkey 
 - section:() - **Search** a Section through a Hotkey
@@ -17,7 +18,6 @@
 - Ctrl + R - **Toggle** Reading Mode
 - **Highlight** Text + Ctrl + S - **Search** for Canvases/Files
 - Ctrl + T - **Open** Link in New Tab
-- Alt + Shift + L - Copy Obsidian URL
 
 **Making a Note**
 - Ctrl + B - **Make** Bullet Point or Checkbox
@@ -34,8 +34,10 @@
 - Alt + L - **Link** Info from a Source  (Carry-Forward)
 - Ctrl + Alt + L - **Delete** Link
 - Ctrl + K - **Link** to an external link []\()
+- Alt + Shift + L - Copy Obsidian URL
 - Ctrl + Shift + L = **Link** Media
 - Ctrl + Alt + Shift + L = **Fix** a Link
+
 **Media**
 - Ctrl + Click = **Click** on an Image in Hover Editor
 - Ctrl + Drag = **Drop** Media outside your vault with a link
@@ -43,5 +45,9 @@
 - Alt + E = **Clear** Unused Attachments
 - Attach Media - **Drag & Drop** / Copy-Paste
 
-**Miscellaneous**
+**Timestamp**
 - Alt + T - **Timestamp** a Note/Card
+
+Encrypt (Lock) Notes:
+- Ctrl + Alt + N - Create Encrypted Note
+- Ctrl + Alt + K - Lock and Unlock Encrypted Text
