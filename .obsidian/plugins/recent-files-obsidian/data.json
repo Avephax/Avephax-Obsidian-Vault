@@ -2,199 +2,39 @@
   "recentFiles": [
     {
       "basename": "Hotkeys",
-      "path": "Catalog/Hotkeys.md"
+      "path": "Hotkeys.md"
     },
     {
       "basename": "Feedback Loops",
       "path": "Feedback Loops.md"
     },
     {
-      "basename": "Marking",
-      "path": "Marking.md"
+      "basename": "Reward or Resist",
+      "path": "Reward or Resist.md"
     },
     {
-      "basename": "Social Reception",
-      "path": "Social Reception.md"
+      "basename": "Middle-Out Thinking",
+      "path": "Middle-Out Thinking.md"
     },
     {
       "basename": "Inputs and Outputs",
       "path": "Inputs and Outputs.md"
     },
     {
-      "basename": "Force Shapes",
-      "path": "Force Shapes.md"
+      "basename": "Higher Self Vs. Lower Self",
+      "path": "Higher Self Vs. Lower Self.md"
     },
     {
-      "basename": "Marking Force",
-      "path": "Marking Force.md"
+      "basename": "First Principles Thinking",
+      "path": "First Principles Thinking.md"
     },
     {
-      "basename": "Marking Surface Lines + Turning Edge",
-      "path": "Marking Surface Lines + Turning Edge.md"
+      "basename": "First Principles Mental Mapping",
+      "path": "First Principles Mental Mapping.md"
     },
     {
-      "basename": "Negative Shapes",
-      "path": "Negative Shapes.md"
-    },
-    {
-      "basename": "Reward or Resist",
-      "path": "Reward or Resist.md"
-    },
-    {
-      "basename": "Marking Contraction",
-      "path": "Marking Contraction.md"
-    },
-    {
-      "basename": "Marking Ground Plane",
-      "path": "Marking Ground Plane.md"
-    },
-    {
-      "basename": "Marking Natural Center",
-      "path": "Marking Natural Center.md"
-    },
-    {
-      "basename": "Marking Overlap",
-      "path": "Marking Overlap.md"
-    },
-    {
-      "basename": "Marking Force Surface Lines + Leading Edge",
-      "path": "Marking Force Surface Lines + Leading Edge.md"
-    },
-    {
-      "basename": "Marking Tangents",
-      "path": "Marking Tangents.md"
-    },
-    {
-      "basename": "Marking Curved Turning Edge",
-      "path": "Marking Curved Turning Edge.md"
-    },
-    {
-      "basename": "Marking Angles",
-      "path": "Marking Angles.md"
-    },
-    {
-      "basename": "Marking Gravity",
-      "path": "Marking Gravity.md"
-    },
-    {
-      "basename": "Marking Functional Rhythms",
-      "path": "Marking Functional Rhythms.md"
-    },
-    {
-      "basename": "Marking Surface Planes",
-      "path": "Marking Surface Planes.md"
-    },
-    {
-      "basename": "Hard and Soft Edges",
-      "path": "Hard and Soft Edges.md"
-    },
-    {
-      "basename": "Pasted image 20230706165118",
-      "path": "Seeds/Pasted image 20230706165118.png"
-    },
-    {
-      "basename": "Pixel Backgrounds",
-      "path": "Pixel Backgrounds.md"
-    },
-    {
-      "basename": "Pixel",
-      "path": "Pixel.md"
-    },
-    {
-      "basename": "CSS Syntaxes",
-      "path": "CSS Syntaxes.md"
-    },
-    {
-      "basename": "Dominating Rhythm",
-      "path": "Dominating Rhythm.md"
-    },
-    {
-      "basename": "Layer Masking",
-      "path": "Layer Masking.md"
-    },
-    {
-      "basename": "HTML Elements",
-      "path": "HTML Elements.md"
-    },
-    {
-      "basename": "Indexed Colors",
-      "path": "Indexed Colors.md"
-    },
-    {
-      "basename": "Grids",
-      "path": "Grids.md"
-    },
-    {
-      "basename": "FIRE Number",
-      "path": "FIRE Number.md"
-    },
-    {
-      "basename": "Audio Dynamic Range",
-      "path": "Audio Dynamic Range.md"
-    },
-    {
-      "basename": "Accenting Frames",
-      "path": "Accenting Frames.md"
-    },
-    {
-      "basename": "Tension & Release",
-      "path": "Tension & Release.md"
-    },
-    {
-      "basename": "Interpolation",
-      "path": "Interpolation.md"
-    },
-    {
-      "basename": "Energy Tension",
-      "path": "Energy Tension.md"
-    },
-    {
-      "basename": "Snowflake Writing Method",
-      "path": "Snowflake Writing Method.md"
-    },
-    {
-      "basename": "Audio Resampling",
-      "path": "Audio Resampling.md"
-    },
-    {
-      "basename": "Motion Sketch Tool",
-      "path": "Motion Sketch Tool.md"
-    },
-    {
-      "basename": "ChatGPT Prompts",
-      "path": "ChatGPT Prompts.md"
-    },
-    {
-      "basename": "Audio Frequency Mask",
-      "path": "Audio Frequency Mask.md"
-    },
-    {
-      "basename": "Distorting Audio",
-      "path": "Distorting Audio.md"
-    },
-    {
-      "basename": "Audio Clips",
-      "path": "Audio Clips.md"
-    },
-    {
-      "basename": "Audio Frequencies",
-      "path": "Audio Frequencies.md"
-    },
-    {
-      "basename": "Range of Colors",
-      "path": "Range of Colors.md"
-    },
-    {
-      "basename": "Layer Value Control",
-      "path": "Layer Value Control.md"
-    },
-    {
-      "basename": "Value Grouping",
-      "path": "Value Grouping.md"
-    },
-    {
-      "basename": "Coloring Wheels",
-      "path": "Coloring Wheels.md"
+      "basename": "Diminishing Returns",
+      "path": "Diminishing Returns.md"
     }
   ],
   "omittedPaths": [],

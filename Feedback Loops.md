@@ -1,0 +1,9 @@
+- You can almost always control the situation you are in. If you can't, then you choose how you view the situation. Attitudes show what you will feel in any situation. ^taoaj
+    - [[Feedback Loops#^k6s9r]]
+    - [[Inputs and Outputs#^kgw9n]]
+        - [[Higher Self Vs. Lower Self#^v3pjf]]
+- Any cycles in your life **affect** each other through the actions you choose to connect together. We can't control the outcome with absolute certainty beforehand. ^k6s9r
+    - [[Feedback Loops#^t0-4d]]
+    - [[Reward or Resist#^2y3be]]
+- Cause and effect are largely disconnected, meaning the effect from a cause happens but in the far future. ^t0-4d
+	- [[Feedback Loops#^taoaj]]

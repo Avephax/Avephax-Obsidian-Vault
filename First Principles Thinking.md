@@ -1,6 +1,6 @@
 ### Find the Function!
 -  **See** into **the function** of a solution, and **ignore** **the form** of the solution.
-- ![[First Principles Thinking Systemic Model.png|500]]
+	![[First Principles Thinking Systemic Model.png|500]]
 	**Identify** a statement’s action verb(s), **Ask** a yes or no question,
 	If **answering** yes, **ask** questions about any other action verb(s), **Utilize** answers as new statements, **Repeatedly ask** questions until you **get** a basic function to apply.
 	If/when **answering** "no", **accept** the function as a fact > **Solve** your problem ^11kml

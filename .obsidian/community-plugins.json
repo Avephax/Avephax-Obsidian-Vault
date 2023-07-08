@@ -12,5 +12,21 @@
   "mrj-jump-to-link",
   "obsidian-file-link",
   "find-and-replace-in-selection",
-  "auto-moc"
+  "auto-moc",
+  "better-reading-mode",
+  "obsidian-file-path-to-uri",
+  "obsidian-discordrpc",
+  "consistent-attachments-and-links",
+  "oz-clear-unused-images",
+  "obsidian-checkbox3states-plugin",
+  "highlightr-plugin",
+  "obsidian-hover-editor",
+  "links",
+  "meld-encrypt",
+  "note-refactor-obsidian",
+  "obsidian-wordnet-plugin",
+  "obsidian-smart-typography",
+  "recent-files-obsidian",
+  "obsidian-timestamper",
+  "obsidian-wordy"
 ]

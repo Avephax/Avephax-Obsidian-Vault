@@ -1,7 +1,7 @@
-Maskscot's PKM System of Systems and Practices - Version 10.0
-Combines the likes of: Concept Maps + Markdown Linking
+Maskscot's PKM System of Systems and Practices - Version 12.0
+Combines the likes of: Markdown Linking with any Obsidian file.
 
-Uses: 80% Markdown Syntax - 20% Obsidian Canvas (.canvas) (or .md if you'd like)
+Uses: 80% Markdown Syntax - 20% Obsidian Community Plugins
 
 Folders Included:
 
@@ -12,13 +12,8 @@ Media: Supporting Materials through media files
 Change the folder location for attachments by doing: Options -> Files & Links -> Default location for new attachments -> In the Folder specified below -> Attachment folder path  
 Should include: Attachments, Graphics, Images, Videos, Audio Recordings
 
-How to use it:
-1. Search line:() or section:() for a note
-2. Start linking from Ctrl + L to copy paste the link towards another note or within the note.
-	- Bulletpoint any new information you pick out or copy-paste.
-	- Make another bulletpoint under the information ( Ctrl + } )
-3. Repeat Ctrl + L until you copy-paste the link back to the initial note's bullet point.
-
 Enjoy!
+
+And remember: Love The Process!
 
 ~Maskscot

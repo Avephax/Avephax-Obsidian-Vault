@@ -1,5 +1,6 @@
 [
   "file-explorer",
+  "global-search",
   "switcher",
   "graph",
   "backlink",
@@ -13,5 +14,6 @@
   "bookmarks",
   "word-count",
   "audio-recorder",
+  "workspaces",
   "file-recovery"
 ]
