@@ -1,13 +1,5 @@
 {
   "editor:toggle-checklist-status": [],
-  "workspace:close": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "W"
-    }
-  ],
   "workspace:close-window": [
     {
       "modifiers": [
@@ -98,7 +90,14 @@
   ],
   "obsidian-timestamper:obsidian-fast-timestamp": [],
   "obsidian-stille:toggleStille": [],
-  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "note-refactor-obsidian:app:extract-selection-first-line": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Tab"
+    }
+  ],
   "obsidian-carry-forward:carry-line-forward-link-only": [
     {
       "modifiers": [
@@ -168,7 +167,8 @@
   "obsidian-carry-forward:carry-line-forward-separate-lines": [
     {
       "modifiers": [
-        "Alt"
+        "Mod",
+        "Shift"
       ],
       "key": "L"
     }
@@ -190,14 +190,7 @@
       "key": "L"
     }
   ],
-  "obsidian-file-path-to-uri:paste-file-path-as-file-uri": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
+  "obsidian-file-path-to-uri:paste-file-path-as-file-uri": [],
   "obsidian-file-path-to-uri:toggle-file-path-to-uri": [],
   "quick-explorer:browse-current": [
     {
@@ -279,22 +272,12 @@
   "persistent-links:persistent-links:repair-links-in-file": [
     {
       "modifiers": [
-        "Alt",
-        "Mod",
-        "Shift"
+        "Alt"
       ],
       "key": "L"
     }
   ],
-  "note-refactor-obsidian:app:extract-selection-content-only": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "L"
-    }
-  ],
+  "note-refactor-obsidian:app:extract-selection-content-only": [],
   "insert-template": [
     {
       "modifiers": [
@@ -320,6 +303,115 @@
         "Shift"
       ],
       "key": "L"
+    }
+  ],
+  "meld-encrypt:meld-encrypt-create-new-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "meld-encrypt:meld-encrypt-in-place": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-file-path-to-uri:paste-file-path-as-file-uri-link-name-only": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-expand-bullet:transform-bullet-into-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "highlightr-plugin:unhighlight": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "highlightr-plugin:highlighter-plugin-menu": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:open-search-replace": [],
+  "obsidian-wordnet-plugin:open-wordnet-suggestor": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "obsidian-wordy:wordy-syn": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
     }
   ]
 }

@@ -1,26 +1,9 @@
-## Higher Self Vs. Lower Self
-- Since our subconscious can **always take, apply and switch** inputs, our Higher Self **compells** us **to pursue** our absolute highest potential. ^yt77p
-	- [[Action Verbs#^qeuts]]
-	- [[Higher Self Vs. Lower Self#^kvwd4]]
-	- [[Higher Self Vs. Lower Self#^cuefj]]
-- You **only observe** your thoughts, do not **embody** your thoughts. ^kvwd4
-	- [[Higher Self Vs. Lower Self#^v3pjf|Observe your thoughts]]
-- **Observe** the chain of action verbs **before you act** > **Ask** questions to your thoughts **and identify** action verbs > **Choose to separate and let go** of the thought. ^v3pjf
-	- [[Higher Self Vs. Lower Self#^cuefj]]
-	- [[First Principles Thinking#^2w9f5]]
-	- [[Inputs and Outputs#^t563d]]
-	- [[Identity War#^n8ad6]]
-	- [[Identity War#^6ylhu]]
-- Your Lower Self **knows** just what **to say to make you fold, give in, suffer, relapse**, **and make** you mad. It **just wants** instant comfort and pleasure. **Starve** it of attention **and withdraw profusely** the chain of action verbs. ^cuefj
-	- [[Higher Self Vs. Lower Self#^yt77p]]
-	- [[Higher Self Vs. Lower Self#^az9ho]]
-- It's okay if you don't conquer the Lower Self every time, even if it is your choice. The purpose is **to win** against them as much as possible. Failure is not a bad thing here, **it helps** you **learn** your way to mastery. ^az9ho
-	- [[Higher Self Vs. Lower Self#^ls98l]]
-## Cognitive Reappraisal
-- **Internally change and construct** the narrative around those physical feelings. Some emotional reactions are cognitive, **so control** them. ^7sxiv
-	- [[Inputs and Outputs#^qmqr3]]
-	- [[Higher Self Vs. Lower Self#^v3pjf]]
-- Having nerves and feelings is fine, but to identify with everything and anything your mind tells you is wrong. You are fleeting, ever-so-changing, but most importantly, protean. ^ls98l
-	- [[Higher Self Vs. Lower Self#^v3pjf]]
-	- [[Higher Self Vs. Lower Self#^kvwd4]]
-	- [[Higher Self Vs. Lower Self#^cuefj]]
+- **Observe** the craving **before you act**, **Identify** each suggested action through **action verbs** and **choose to let go** of the thought. ^v3pjf
+    - [[Higher Self Vs. Lower Self#^cuefj]]
+    - [[Reward or Resist#^2y3be]]
+    - [[First Principles Thinking#^2w9f5]]
+        - [[Inputs and Outputs#^t563d]]
+        - [[Self-Compassion#^7smwz]]
+- Your Lower Self’s thoughts **will make you crave and give into a chain of actions.** ^cuefj
+    - [[Higher Self Vs. Lower Self#^7sxiv]]
+    - [[Reward or Resist#^2y3be]]

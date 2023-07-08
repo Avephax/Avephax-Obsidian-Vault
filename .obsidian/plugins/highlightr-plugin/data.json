@@ -1,0 +1,10 @@
+{
+  "highlighterStyle": "realistic",
+  "highlighterMethods": "css-classes",
+  "highlighters": {
+    "Action-Verbs": "#AEAEAECC"
+  },
+  "highlighterOrder": [
+    "Action-Verbs"
+  ]
+}

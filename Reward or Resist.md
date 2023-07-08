@@ -1,0 +1,35 @@
+## The Crux of Associative Learning
+- <mark class="hltr-action-verbs">Thank yourself</mark> when <mark class="hltr-action-verbs">**attaching**</mark> an action towards a positive action <mark class="hltr-action-verbs">or **resist/let go**</mark> from <mark class="hltr-action-verbs">**attaching**</mark> an action towards a negative action. ^2y3be
+    - [[Reward or Resist#^tzjid]]
+        - [[Reward or Resist#^qeuts]]
+    - [[Inputs and Outputs#^qmqr3]]
+        - [[Implicit Learning#^gam55]]
+            - [[Personal Conflict#^yc-r1]]
+        - [[Higher Self Vs. Lower Self#^v3pjf]]
+        - [[Feedback Loops#^k6s9r]]
+            - [[Validation = Parking#^feb673]]
+            - [[The True Social Fear#^vecvp]]
+                - [[Empathy#^df-tt]]
+            - [[Emotions#^c7318b]]
+                - [[Shame#^bw5-r]]
+                    - [[Self-Love#^dhcl2]]
+                    - [[Self-Compassion#^pmj03]]
+- Visually pick something that doesn't faze you and attach or reattach to another thing that does faze you. ^tzjid
+    - [[Reward or Resist#^rwpmr]]
+    - [[Implicit Learning#^gam55]]
+- **Thank** yourself when you pair an action to a different one when things seem hard. ^rwpmr
+	- [[Reward or Resist#^l894n]]
+	- [[Inputs and Outputs#^kgw9n|Consistent Action]]
+- **Repeatedly ask** "why" you want an output **and directly thank yourself** for each input acted. ^l894n
+    - [[Reward or Resist#^qeuts]]
+    - [[Inputs and Outputs#^qmqr3]]
+        - [[First Principles Thinking#^11kml]]
+        - [[Diminishing Returns#^7mhoh]]
+- **Actions** are verbs **that end** with **-s, -es, -ing, -ed or ambiguously** to **show** the **function(s)** that **we** **mentally and physically do**. ^qeuts
+    - [[Reward or Resist#^nqlp4]]
+        - [[Reward or Resist#^2y3be]]
+    - [[Inputs and Outputs#^t563d]]
+- **Actions** which **end** in **-ing (ongoing) and -ed (archived)** **turns** an action into a noun (gerund). ^nqlp4
+    - [[Reward or Resist#^u7mhd]]
+- **Adverbs** **dynamically modify and enhance** **Action Verbs**, while **Nouns** **specifies and names** **Action Verbs**. ^u7mhd
+    - [[Reward or Resist#^2y3be]]

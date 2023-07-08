@@ -1,4 +1,3 @@
-# Middle-Out Thinking
 - **Use** The Black Box method **to learn** the inputs **and** outputs of a concept without knowing its internal working. An action verb **makes us do** something, **and** we see what it does, but not how it does it. **Then, build** a feedback loop with that information you've **learned**. ^w31xw
 	- [[Inputs and Outputs#^t563d]]
 	- [[First Principles Thinking#^11kml]]

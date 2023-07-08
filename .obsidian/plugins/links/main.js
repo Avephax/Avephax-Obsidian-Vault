@@ -56,7 +56,8 @@ function findLink(text, startPos, endPos, linkType = 65535 /* All */) {
   const wikiLinkRegEx = /\[\[([^\[\]|]+)(\|([^\[\]]*))?\]\]/g;
   const mdLinkRegEx = /\[([^\]\[]*)\]\(([^)(]*)\)/gmi;
   const htmlLinkRegEx = /<a\s+[^>]*href\s*=\s*['"]([^'"]*)['"][^>]*>(.*?)<\/a>/gi;
-  const angleBracket = /<([a-z]+:\/\/[^>]+)>/gmi;
+  const autolinkRegEx1 = /<([a-z]+:\/\/[^>]+)>/gmi;
+  const autolinkRegEx = /(<([a-zA-Z]{2,32}:[^>]+)>)|(<([a-zA-Z0-9.!#$%&'*+\/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*)>)/gmi;
   let match;
   if (linkType & 2 /* Wiki */) {
     while (match = wikiLinkRegEx.exec(text)) {
@@ -86,7 +87,8 @@ function findLink(text, startPos, endPos, linkType = 65535 /* All */) {
         }
         if (url) {
           const linkIdx = raw.indexOf(url, linkData.text ? linkData.text.position.end : raw.lastIndexOf("(") + 1);
-          linkData.link = new TextPart(url, new Position(linkIdx, linkIdx + url.length));
+          const wrappedInAngleBrackets = url[0] === "<" && url[url.length - 1] === ">";
+          linkData.link = wrappedInAngleBrackets ? new TextPart(url.substring(1, url.length - 1), new Position(linkIdx + 1, linkIdx + url.length - 1)) : new TextPart(url, new Position(linkIdx, linkIdx + url.length));
         }
         return linkData;
       }
@@ -109,14 +111,17 @@ function findLink(text, startPos, endPos, linkType = 65535 /* All */) {
       }
     }
   }
-  if (linkType & 8 /* AngleBracket */) {
-    while (match = angleBracket.exec(text)) {
-      if (startPos >= match.index && endPos <= angleBracket.lastIndex) {
-        const [raw, url] = match;
-        const linkData = new LinkData(8 /* AngleBracket */, raw, new Position(match.index, angleBracket.lastIndex));
-        if (url) {
-          const linkIdx = raw.indexOf(url);
-          linkData.link = new TextPart(url, new Position(linkIdx, linkIdx + url.length));
+  if (linkType & 8 /* Autolink */) {
+    while (match = autolinkRegEx.exec(text)) {
+      if (startPos >= match.index && endPos <= autolinkRegEx.lastIndex) {
+        const [raw, urlAutolink, urlDestination, mailAutolink, mailDestination] = match;
+        const linkData = new LinkData(8 /* Autolink */, raw, new Position(match.index, autolinkRegEx.lastIndex));
+        if (urlDestination) {
+          const linkIdx = raw.indexOf(urlDestination);
+          linkData.link = new TextPart(urlDestination, new Position(linkIdx, linkIdx + urlDestination.length));
+        } else if (mailDestination) {
+          const linkIdx = raw.indexOf(mailDestination);
+          linkData.link = new TextPart(mailDestination, new Position(linkIdx, linkIdx + mailDestination.length));
         }
         return linkData;
       }
@@ -172,7 +177,7 @@ async function getPageTitle(url, getPageText) {
   const match = text.match(titleRegEx);
   if (match) {
     const [, title] = match;
-    return title;
+    return decodeHtmlEntities(title);
   }
   throw new Error("Page has no title.");
 }
@@ -208,6 +213,17 @@ function replaceMarkdownTarget(text, target, newTarget) {
     count++;
     return `[${text2}](${encodeURI(newTarget)})`;
   }), count];
+}
+function decodeHtmlEntities(text) {
+  const regexpHe = /&([a-zA-Z\d]+);/gm;
+  const charByHe = /* @__PURE__ */ new Map();
+  charByHe.set("amp", "&");
+  charByHe.set("nbsp", " ");
+  charByHe.set("quot", '"');
+  return text.replace(regexpHe, (match, he) => {
+    const entry = charByHe.get(he);
+    return entry != null ? entry : match;
+  });
 }
 
 // suggesters/LinkTextSuggest.ts
@@ -2122,6 +2138,11 @@ var ReplaceLinkModal = class extends import_obsidian3.Modal {
   }
 };
 
+// RegExPatterns.ts
+var RegExPatterns = class {
+};
+RegExPatterns.Email = /([a-zA-Z0-9.!#$%&'*+\/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*)/i;
+
 // main.ts
 var DEFAULT_SETTINGS = {
   linkReplacements: [],
@@ -2282,14 +2303,14 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
                 this.editLinkText(linkData, editor);
               });
             });
-          } else if (linkData.link) {
+          } else if (linkData.link && (linkData.type & (2 /* Wiki */ | 1 /* Markdown */)) != 0) {
             menu.addItem((item) => {
               item.setTitle("Add link text").setIcon("text-cursor-input").onClick(async () => {
                 this.addLinkText(linkData, editor);
               });
             });
           }
-          if (linkData.link) {
+          if ((linkData.type & (2 /* Wiki */ | 1 /* Markdown */)) != 0 && linkData.link) {
             menu.addItem((item) => {
               item.setTitle("Edit link destination").setIcon("text-cursor-input").onClick(async () => {
                 this.editLinkDestination(linkData, editor);
@@ -2304,7 +2325,7 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
             });
           }
         }
-        if (linkData || selection && HasLinks(selection)) {
+        if (linkData && (linkData.type & 8 /* Autolink */) == 0 || selection && HasLinks(selection)) {
           addTopSeparator();
           menu.addItem((item) => {
             item.setTitle("Unlink").setIcon("unlink").onClick(() => {
@@ -2319,11 +2340,13 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
         if (linkData) {
           addTopSeparator();
           if (linkData.type == 1 /* Markdown */) {
-            menu.addItem((item) => {
-              item.setTitle("Convert to wikilink").setIcon("rotate-cw").onClick(async () => {
-                this.convertLinkToWikiLink(linkData, editor);
+            if (this.convertLinkUnderCursorToWikilinkHandler(editor, true)) {
+              menu.addItem((item) => {
+                item.setTitle("Convert to wikilink").setIcon("rotate-cw").onClick(async () => {
+                  this.convertLinkToWikiLink(linkData, editor);
+                });
               });
-            });
+            }
             if (this.settings.ffReplaceLink) {
               menu.addItem((item) => {
                 item.setTitle("Replace link").setIcon("pencil").onClick(async () => {
@@ -2374,10 +2397,9 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
     this.linkTextSuggestContext.titleSeparator = this.settings.titleSeparator;
   }
   getLink(editor) {
-    console.log(`getLink: ${65535 /* All */ & ~8 /* AngleBracket */}`);
     const text = editor.getValue();
     const cursorOffset = editor.posToOffset(editor.getCursor("from"));
-    return this.settings.ffAnglebracketURLSupport ? findLink(text, cursorOffset, cursorOffset) : findLink(text, cursorOffset, cursorOffset, 65535 /* All */ & ~8 /* AngleBracket */);
+    return this.settings.ffAnglebracketURLSupport ? findLink(text, cursorOffset, cursorOffset) : findLink(text, cursorOffset, cursorOffset, 65535 /* All */ & ~8 /* Autolink */);
   }
   unlinkLinkOrSelectionHandler(editor, checking) {
     const selection = editor.getSelection();
@@ -2434,7 +2456,7 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
   convertLinkUnderCursorToMarkdownLinkHandler(editor, checking) {
     const text = editor.getValue();
     const cursorOffset = editor.posToOffset(editor.getCursor("from"));
-    const linkData = this.settings.ffAnglebracketURLSupport ? findLink(text, cursorOffset, cursorOffset, 2 /* Wiki */ | 4 /* Html */ | 8 /* AngleBracket */) : findLink(text, cursorOffset, cursorOffset, 2 /* Wiki */ | 4 /* Html */);
+    const linkData = this.settings.ffAnglebracketURLSupport ? findLink(text, cursorOffset, cursorOffset, 2 /* Wiki */ | 4 /* Html */ | 8 /* Autolink */) : findLink(text, cursorOffset, cursorOffset, 2 /* Wiki */ | 4 /* Html */);
     if (checking) {
       return !!linkData;
     }
@@ -2448,8 +2470,9 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
     if (linkData.type === 2 /* Wiki */ && !text) {
       text = link;
     }
+    let destination = "";
     const urlRegEx = /^(http|https):\/\/[^ "]+$/i;
-    if (linkData.type === 8 /* AngleBracket */ && linkData.link && urlRegEx.test(linkData.link.content)) {
+    if (linkData.type === 8 /* Autolink */ && linkData.link && urlRegEx.test(linkData.link.content)) {
       const notice = new import_obsidian4.Notice("Getting title ...", 0);
       try {
         text = await getPageTitle(new URL(linkData.link.content), this.getPageText);
@@ -2459,7 +2482,16 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
         notice.hide();
       }
     }
-    const rawLinkText = `[${text}](${link ? encodeURI(link) : ""})`;
+    let rawLinkText = "";
+    if (linkData.type === 8 /* Autolink */ && linkData.link && RegExPatterns.Email.test(linkData.link.content)) {
+      rawLinkText = `[${text}](mailto:${linkData.link.content})`;
+    } else {
+      destination = encodeURI(link);
+      if (destination && linkData.type === 2 /* Wiki */ && destination.indexOf("%20") > 0) {
+        destination = `<${destination.replace(/%20/g, " ")}>`;
+      }
+      rawLinkText = `[${text}](${destination})`;
+    }
     editor.replaceRange(
       rawLinkText,
       editor.offsetToPos(linkData.position.start),
@@ -2476,7 +2508,7 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
     const cursorOffset = editor.posToOffset(editor.getCursor("from"));
     const linkData = findLink(text, cursorOffset, cursorOffset, 1 /* Markdown */ | 4 /* Html */);
     if (checking) {
-      return !!linkData;
+      return !!linkData && linkData.link && !linkData.link.content.trim().startsWith("mailto:");
     }
     if (linkData) {
       this.convertLinkToWikiLink(linkData, editor);
@@ -2550,7 +2582,7 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
   editLinkDestinationUnderCursorHandler(editor, checking) {
     const linkData = this.getLink(editor);
     if (checking) {
-      return !!linkData && !!linkData.link;
+      return !!linkData && (linkData.type & (2 /* Wiki */ | 1 /* Markdown */)) != 0 && !!linkData.link;
     }
     if (linkData) {
       setTimeout(() => {
@@ -2623,7 +2655,7 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
   addLinkTextUnderCursorHandler(editor, checking) {
     const linkData = this.getLink(editor);
     if (checking) {
-      return !!linkData && (!linkData.text || !(linkData == null ? void 0 : linkData.text.content));
+      return !!linkData && (linkData.type & (1 /* Markdown */ | 2 /* Wiki */)) != 0 && (!linkData.text || !(linkData == null ? void 0 : linkData.text.content));
     }
     if (linkData) {
       setTimeout(() => {
@@ -2817,19 +2849,18 @@ var ObsidianLinksSettingTab = class extends import_obsidian4.PluginSettingTab {
     insiderDescription.createEl("span", {
       text: " and influence the direction of development."
     });
-    new import_obsidian4.Setting(containerEl).setName("Angle bracket URL support").setDesc("Adds ability to work with URLs like <http://example.com>.").setClass("setting-item--insider-feature1").addToggle((toggle) => {
+    new import_obsidian4.Setting(containerEl).setName("Autolink support").setDesc("Adds ability to work with links like <http://example.com>.").setClass("setting-item--insider-feature1").addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.ffAnglebracketURLSupport).onChange(async (value) => {
         this.plugin.settings.ffAnglebracketURLSupport = value;
         await this.plugin.saveSettings();
       });
     });
     const feature1SettingDesc = containerEl.querySelector(".setting-item--insider-feature1 .setting-item-description");
-    console.log(feature1SettingDesc);
     if (feature1SettingDesc) {
       feature1SettingDesc.appendText(" see ");
       feature1SettingDesc.appendChild(
         createEl("a", {
-          href: "https://github.com/mii-key/obsidian-links/blob/master/docs/insider/angle-bracket-url-support.md",
+          href: "https://github.com/mii-key/obsidian-links/blob/master/docs/insider/autolink-support.md",
           text: "docs"
         })
       );

@@ -24,8 +24,8 @@
     "saveBookMark": false,
     "sendToReadWise": false,
     "pagination": "12",
-    "category": "ROOT",
-    "defaultCategory": "ROOT",
+    "category": "ROOT\nbookmarks",
+    "defaultCategory": "bookmarks",
     "defaultColumnList": [
       "name",
       "url",
