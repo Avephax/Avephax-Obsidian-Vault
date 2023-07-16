@@ -20,8 +20,29 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "bbed2eb4c6eab7f9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "82e25b5da358a727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem Solving.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,20 +164,26 @@
       "oz-clear-unused-images:Clear Unused Images": false,
       "meld-encrypt:Create new encrypted note": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "27205fef611396e5",
+  "active": "bbed2eb4c6eab7f9",
   "lastOpenFiles": [
+    "Problem Solving.md",
+    "Occam's Razor.md",
+    "First Principles Thinking.md",
+    "Middle-Out Thinking.md",
+    "Inputs and Outputs.md",
+    "Hotkeys.md",
+    "Hock Principle.md",
+    "Hindsight bias.md",
+    "Feedback Loops.md",
+    "Do or Stop.md",
     "Diminishing Returns.md",
     "First Principles Mental Mapping.md",
     "Higher Self Vs. Lower Self.md",
-    "First Principles Thinking.md",
-    "Hotkeys.md",
-    "Feedback Loops.md",
     "Reward or Resist.md",
-    "Middle-Out Thinking.md",
-    "Inputs and Outputs.md",
     "Media/inputs-and-outputs.png",
     "Media/solution-mental-mapping-1.png",
     "Media/Threshold-Of-Intolerance.png",
@@ -188,12 +213,7 @@
     "Catalog/Abstracting and Actualizing.pdf",
     "Catalog/Templates/Plant.md",
     "Catalog/Factoring.pdf",
-    "Catalog/Templates/Project.md",
-    "Concept.md",
-    "Catalog/Templates/The Reminder.md",
-    "Title.md",
     "My Home.canvas",
-    "Catalog/Templates/The Opinionator.md",
     "Template Architecture.canvas",
     "Concept.canvas",
     "Catalog/Templates/Project.canvas",

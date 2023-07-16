@@ -1,7 +1,6 @@
 ## The Crux of Associative Learning
 - **Thank yourself** when you **do** a positive chain of actions or when you **stop** a negative chain of actions. ^2y3be
     - [[Do or Stop#^tzjid]]
-        - [[How to read everything in my system#^qeuts]]
     - [[Inputs and Outputs#^qmqr3]]
         - [[Feedback Loops#^gam55]]
         - [[Occam's Razor#^t3ku2]]
@@ -19,7 +18,6 @@
 	- [[Inputs and Outputs#^kgw9n]]
 - **Repeatedly ask** "why" you want any outcome **and directly place that feeling** into the actions you need to take. ^l894n
     - [[Do or Stop#^c7318b]]
-    - [[How to read everything in my system#^qeuts]]
     - [[Inputs and Outputs#^qmqr3]]
         - [[First Principles Thinking#^11kml]]
             - [[Diminishing Returns#^7mhoh]]

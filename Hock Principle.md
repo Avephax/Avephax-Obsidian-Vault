@@ -2,4 +2,3 @@
     - [[Occam's Razor#^t3ku2]]
     - [[First Principles Thinking#^2w9f5]]
     - [[Problem Solving#^xwnzd]]
-    - [[Self-Compassion#^7smwz]]

@@ -3,7 +3,6 @@
     You **remember** **the process** through what you need to do.
     **Don’t look** for a **new output** from **the same action** **you take**. ^t563d
     - [[Inputs and Outputs#^qmqr3]]
-    - [[How to read everything in my system#^qeuts]]
         - [[Middle-Out Thinking#^w31xw]]
         - [[Do or Stop#^u34xd]]
         - [[Do or Stop#^v3pjf]]
@@ -13,7 +12,6 @@
 	- [[Inputs and Outputs#^kgw9n|Consistent action]]
 	- [[Inputs and Outputs#^rk53w|How Goals Work!]]
 - **Consistent Action** - Repeats and rewards the size of what you do. **Use and Switch** actions **consistently** for the desired output(s), so that the compounding effect **happens** in your favor. ^kgw9n
-    - [[How to read everything in my system#^9co45]]
     - [[Inputs and Outputs#^rk53w]]
     - [[Inputs and Outputs#^-c96l]]
     - [[Do or Stop#^v3pjf]]

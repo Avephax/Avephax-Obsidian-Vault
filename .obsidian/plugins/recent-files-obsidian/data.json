@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Problem Solving",
+      "path": "Problem Solving.md"
+    },
+    {
+      "basename": "Occam's Razor",
+      "path": "Occam's Razor.md"
+    },
+    {
+      "basename": "First Principles Thinking",
+      "path": "First Principles Thinking.md"
+    },
+    {
+      "basename": "Middle-Out Thinking",
+      "path": "Middle-Out Thinking.md"
+    },
+    {
+      "basename": "Inputs and Outputs",
+      "path": "Inputs and Outputs.md"
+    },
+    {
       "basename": "Hotkeys",
       "path": "Hotkeys.md"
+    },
+    {
+      "basename": "Hock Principle",
+      "path": "Hock Principle.md"
+    },
+    {
+      "basename": "Hindsight bias",
+      "path": "Hindsight bias.md"
+    },
+    {
+      "basename": "Feedback Loops",
+      "path": "Feedback Loops.md"
+    },
+    {
+      "basename": "Do or Stop",
+      "path": "Do or Stop.md"
     },
     {
       "basename": "Diminishing Returns",
@@ -17,24 +53,8 @@
       "path": "Higher Self Vs. Lower Self.md"
     },
     {
-      "basename": "First Principles Thinking",
-      "path": "First Principles Thinking.md"
-    },
-    {
-      "basename": "Feedback Loops",
-      "path": "Feedback Loops.md"
-    },
-    {
       "basename": "Reward or Resist",
       "path": "Reward or Resist.md"
-    },
-    {
-      "basename": "Middle-Out Thinking",
-      "path": "Middle-Out Thinking.md"
-    },
-    {
-      "basename": "Inputs and Outputs",
-      "path": "Inputs and Outputs.md"
     }
   ],
   "omittedPaths": [],

@@ -14,7 +14,6 @@
     - [[Hindsight bias#^k6s9r]]
     - [[Inputs and Outputs#^kgw9n]]
         - [[Do or Stop#^v3pjf]]
-    - [[Personal Conflict#^tk8zx]]
     - [[Do or Stop#^vtu4n]]
     - [[Occam's Razor#^t3ku2]]
 - Cause and effect are largely disconnected, meaning the effect from an action can happen, but in the far future. ^t0-4d

@@ -2,4 +2,3 @@
     - [[Inputs and Outputs#^t563d]]
     - [[First Principles Thinking#^11kml]]
     - [[First Principles Thinking#^2w9f5]]
-    - [[Concept#^fyd0s]]

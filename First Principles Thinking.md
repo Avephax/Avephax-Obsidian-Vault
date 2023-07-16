@@ -14,7 +14,6 @@
 	**Which?** - **Prioritizing** any action verb(s) by "what".
 	**Whose?** - Any action(s) of "what" **possessed** by "who". ^2w9f5
     - [[First Principles Thinking#^w40ye]]
-    - [[How to read everything in my system#^qeuts]]
         - [[Do or Stop#^v3pjf]]
         - [[Middle-Out Thinking#^w31xw]]
 - Look up synonyms, antonyms, and any specific connotations associated with any complex action verb’s function. ^w40ye
