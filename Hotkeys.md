@@ -1,7 +1,7 @@
 ## Action Verbs^connections added 🧭
 1. Use Alt + R once you open Obsidian to remind yourself of your notes.
 2. **Simplify** any action verbs you **find** with Alt/Ctrl + W and Search up with line:().
-3. Point an arrow from any Action Verbs to a noun or gerund (verb ending with -ing)
+3. Find any Action Verbs and then find the noun or gerund (verb ending with -ing) before it.
 4. Ctrl + L **to copy paste** the link towards another note and/or within the note.
 5. Alt + V to open any video file or Ctrl + T to open any video link you paste into a note and then Alt + B to Timestamp Video or Audio.
 
