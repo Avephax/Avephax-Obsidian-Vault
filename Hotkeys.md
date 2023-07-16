@@ -1,11 +1,8 @@
 ## Action Verbs^connections added 🧭
-1. Highlight Action Verbs & Gerunds and (over)simplify them (Alt/Ctrl + W).
-2. Make a bullet point/checkbox (Ctrl + B) and link it (Ctrl + L) to another bullet point inside or outside of a Note.
-3. Thank or Let go of any action until you choose links towards a bullet point’s checkbox. (Ctrl + Click).
-- **Search up** any action verbs you **just found** with line:() and/or Replace with Alt/Ctrl + W.
-- **Link** from Ctrl + L **to copy paste** the link towards another note or within the note.
-- **Repeat** **Ctrl + L** until you **copy-paste** the link back to the initial note's bullet point.
-- **Hit** Ctrl + L on a bullet point **and then jump** into a link **to also paste** the link there.
+1. **Simplify** any action verbs you **find** with Alt/Ctrl + W and Search up with line:().
+2. Point an arrow from any Action Verbs to a noun or gerund (verb ending with -ing)
+3. Ctrl + L **to copy paste** the link towards another note and/or within the note.
+4. Alt + V to open any video file or Ctrl + T to open any video link you paste into a note and then Alt + B to Timestamp Video or Audio.
 
 ## Hotkeys 🧭
 
@@ -20,21 +17,20 @@
 - Alt + ↔ - **Navigate** Tabs
 - Ctrl + R - **Toggle** Reading Mode
 - **Highlight** Text + Ctrl + S - **Search** for Canvases/Files
-- Ctrl + T - **Open** Link in New Tab
 - Alt + X - Close Current Tab
 
 **Making a Note**
 - Ctrl + B - **Make** Bullet Point or Checkbox
-- Ctrl + W - Replace complex action verb with Synonyms
-- Alt + W - Define Action Verb
-- Ctrl + W - Simplify Action Verb
-- Ctrl + H = Highlight Action Verb
-- Alt + V = **Bolden** an Action Verb
 - Ctrl + Alt + B - **Remove or Add** Bullet Points
+- Ctrl + W - Replace complex action verb with Synonyms
+- Alt + W - Define and Simplify Action Verb
+- Alt + V = **Bolden** an Action Verb
+- Alt + B - Timestamp Video or Audio
 - Ctrl + ↕ = **Move** a bullet point's position
 - Ctrl + Alt + C = **Turn** Page into Hover Tab (Hover Editor)
-- Alt + H = Remove Highlight
-- Ctrl + Shift + C = **Insert** Template Note
+- Ctrl + H = Highlight Action Verb
+    - Alt + H = Remove Highlight
+- Ctrl + Shift + C = **Insert** Media Linking Syntax
 - Ctrl + P = Command Palette
 
 **Make and go** through links
@@ -49,7 +45,8 @@
 
 **Media**
 - Ctrl + Click = **Click** on an Image in Hover Editor
-- Ctrl + Drag = **Drop** Media outside your vault with a link
+- Alt + V - Open Video File
+- Ctrl + T - Highlight and Open a Web Link
 - Ctrl + E = **Clear** Unused Images
 - Alt + E = **Clear** Unused Attachments
 - Attach Media - **Drag & Drop** / Copy-Paste

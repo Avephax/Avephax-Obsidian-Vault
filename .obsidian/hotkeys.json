@@ -124,28 +124,13 @@
       "key": "B"
     }
   ],
-  "editor:toggle-bold": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "V"
-    }
-  ],
+  "editor:toggle-bold": [],
   "editor:cycle-list-checklist": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "B"
-    }
-  ],
-  "editor:swap-line-up": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowUp"
     }
   ],
   "editor:swap-line-down": [
@@ -219,14 +204,6 @@
       "key": "B"
     }
   ],
-  "obsidian-hover-editor:dock-active-popover-to-workspace": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
   "workspace:new-tab": [
     {
       "modifiers": [
@@ -285,15 +262,6 @@
         "Shift"
       ],
       "key": "C"
-    }
-  ],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "V"
     }
   ],
   "workspace:copy-url": [
@@ -412,6 +380,47 @@
         "Alt"
       ],
       "key": "X"
+    }
+  ],
+  "obsidian-timestamp-notes:timestamp-insert": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ],
+  "workspace:undo-close-pane": [],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-timestamp-notes:open-sample-modal-complex": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "obsidian-local-images:download-images": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-timestamp-notes:trigger-player": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
     }
   ]
 }

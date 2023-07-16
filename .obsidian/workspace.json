@@ -20,14 +20,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "e2c3677d32e4db67",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
       }
@@ -156,17 +148,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "458bc07a6625e04f",
+  "active": "27205fef611396e5",
   "lastOpenFiles": [
+    "Diminishing Returns.md",
+    "First Principles Mental Mapping.md",
+    "Higher Self Vs. Lower Self.md",
+    "First Principles Thinking.md",
     "Hotkeys.md",
     "Feedback Loops.md",
     "Reward or Resist.md",
     "Middle-Out Thinking.md",
     "Inputs and Outputs.md",
-    "Higher Self Vs. Lower Self.md",
-    "First Principles Thinking.md",
-    "First Principles Mental Mapping.md",
-    "Diminishing Returns.md",
     "Media/inputs-and-outputs.png",
     "Media/solution-mental-mapping-1.png",
     "Media/Threshold-Of-Intolerance.png",

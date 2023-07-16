@@ -5,6 +5,22 @@
       "path": "Hotkeys.md"
     },
     {
+      "basename": "Diminishing Returns",
+      "path": "Diminishing Returns.md"
+    },
+    {
+      "basename": "First Principles Mental Mapping",
+      "path": "First Principles Mental Mapping.md"
+    },
+    {
+      "basename": "Higher Self Vs. Lower Self",
+      "path": "Higher Self Vs. Lower Self.md"
+    },
+    {
+      "basename": "First Principles Thinking",
+      "path": "First Principles Thinking.md"
+    },
+    {
       "basename": "Feedback Loops",
       "path": "Feedback Loops.md"
     },
@@ -19,22 +35,6 @@
     {
       "basename": "Inputs and Outputs",
       "path": "Inputs and Outputs.md"
-    },
-    {
-      "basename": "Higher Self Vs. Lower Self",
-      "path": "Higher Self Vs. Lower Self.md"
-    },
-    {
-      "basename": "First Principles Thinking",
-      "path": "First Principles Thinking.md"
-    },
-    {
-      "basename": "First Principles Mental Mapping",
-      "path": "First Principles Mental Mapping.md"
-    },
-    {
-      "basename": "Diminishing Returns",
-      "path": "Diminishing Returns.md"
     }
   ],
   "omittedPaths": [],
