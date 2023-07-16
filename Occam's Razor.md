@@ -1,0 +1,6 @@
+- When two competing actions give the same reaction, pick the simpler action. ^t3ku2
+    - [[Inputs and Outputs#^t563d]]
+    - [[Middle-Out Thinking#^fyd0s]]
+    - [[Hindsight bias#^k6s9r]]
+    - [[Problem Solving#^fo6kj]]
+    - [[Hock Principle#^ddubr]]

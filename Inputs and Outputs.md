@@ -1,32 +1,33 @@
-- Every **action** **applies** an **input**, which **brings** a **reaction**.
-    You **become** what you **choose to act** on.
-    You **love** **the process** by what you learn to do.
-    **Don’t expect** a **new output** from **the same input** **you apply**.
-     ![[inputs-and-outputs.png]] ^t563d
+- Every **action** (input) **brings** a **reaction** (output), good or bad.
+    You **learn** by what you **choose to act** on.
+    You **remember** **the process** through what you need to do.
+    **Don’t look** for a **new output** from **the same action** **you take**. ^t563d
     - [[Inputs and Outputs#^qmqr3]]
-    - [[Reward or Resist#^qeuts]]
+    - [[How to read everything in my system#^qeuts]]
         - [[Middle-Out Thinking#^w31xw]]
-        - [[Higher Self Vs. Lower Self#^v3pjf]]
+        - [[Do or Stop#^u34xd]]
+        - [[Do or Stop#^v3pjf]]
         - [[Diminishing Returns#^7mhoh]]
-- **Time** = Attention you spend based on consistent actions. ^xsh0i
+      - [[Hindsight bias#^no6s0]]
+- **Time** = Attention you spend on any chain of action. ^xsh0i
 	- [[Inputs and Outputs#^kgw9n|Consistent action]]
 	- [[Inputs and Outputs#^rk53w|How Goals Work!]]
-- **Consistent Action** - Repeats and reinforces the size of an input. **Use and Switch** the right inputs **consistently** for the desired output(s), so that the compounding effect **occur** in your favor. ^kgw9n
-	- [[Inputs and Outputs#^rk53w]]
-	- [[Inputs and Outputs#^-c96l|Criticism improves the loops]]
-	- [[Higher Self Vs. Lower Self#^v3pjf]]
+- **Consistent Action** - Repeats and rewards the size of what you do. **Use and Switch** actions **consistently** for the desired output(s), so that the compounding effect **happens** in your favor. ^kgw9n
+    - [[How to read everything in my system#^9co45]]
+    - [[Inputs and Outputs#^rk53w]]
+    - [[Inputs and Outputs#^-c96l]]
+    - [[Do or Stop#^v3pjf]]
 - Defined goals - **List off** the process of your goal(s) through action verbs.  ^rk53w
-	- [[Inputs and Outputs#^xsh0i|How time works]]
-#### Protean Identity
+	- [[Inputs and Outputs#^xsh0i]]
  - Character Traits: **Act** out positive character actions like you **already learned** them. You can **change, replace and develop** actions over time. ^j3k1s
 	- From: [[Inputs and Outputs#^el6og]]
 - **Combine** what you **do** on top of each other **to bring** more value. Consistently applying action verbs **is key to mastering** any skill. ^el6og
-	- From: [[Inputs and Outputs#^4kbly|Beliefs]]
-	- [[Reward or Resist#^tzjid]]
-- Beliefs: **Question and challenge** your existing beliefs **to align them** with practicality. Your beliefs **shape** your reality and **dictate** your actions. ^4kbly
+	- From: [[Inputs and Outputs#^4kbly]]
+	- [[Do or Stop#^tzjid]]
+- **Question and challenge** your existing actions **to match them** with actual use. Your beliefs **change** your reality and **sends** actions. ^4kbly
     - From: [[Inputs and Outputs#^qmqr3]]
     - [[First Principles Thinking#^2w9f5]]
-- Use criticism **to upgrade and replace** your process, **turn** that feedback (output) into new input(s). ^-c96l
+- Feedback will **change** your process, **hold** that feedback (output) and **take** new action(s). ^-c96l
     - [[Inputs and Outputs#^kgw9n|Consistent Action]]
-    - [[Reward or Resist#^rwpmr]]
+    - [[Do or Stop#^rwpmr]]
     - [[Inputs and Outputs#^9g-9m]]

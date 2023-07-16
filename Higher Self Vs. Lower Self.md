@@ -1,8 +1,0 @@
-- **Observe** the thought **before you act**, **Identify** each suggested thought through **action verbs** and **choose reward or let go of** the thought. ^v3pjf
-    - [[Higher Self Vs. Lower Self#^cuefj]]
-    - [[Reward or Resist#^2y3be]]
-    - [[First Principles Thinking#^2w9f5]]
-        - [[Inputs and Outputs#^t563d]]
-- Your Lower Self’s thoughts **will try to make you fold and indulge into a chain of actions.** ^cuefj
-    - [[Higher Self Vs. Lower Self#^7sxiv]]
-    - [[Reward or Resist#^2y3be]]
