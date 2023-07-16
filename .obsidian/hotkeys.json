@@ -422,5 +422,13 @@
       ],
       "key": "T"
     }
+  ],
+  "obsidian-statusbar-pomo:start-satusbar-pomo": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
   ]
 }

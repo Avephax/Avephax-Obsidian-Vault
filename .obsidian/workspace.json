@@ -20,29 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "bbed2eb4c6eab7f9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "82e25b5da358a727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problem Solving.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +149,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "bbed2eb4c6eab7f9",
+  "active": "27205fef611396e5",
   "lastOpenFiles": [
     "Problem Solving.md",
     "Occam's Razor.md",

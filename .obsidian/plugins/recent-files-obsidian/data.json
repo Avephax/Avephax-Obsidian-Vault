@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hotkeys",
+      "path": "Hotkeys.md"
+    },
+    {
       "basename": "Problem Solving",
       "path": "Problem Solving.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Inputs and Outputs",
       "path": "Inputs and Outputs.md"
-    },
-    {
-      "basename": "Hotkeys",
-      "path": "Hotkeys.md"
     },
     {
       "basename": "Hock Principle",
