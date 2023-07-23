@@ -43,6 +43,10 @@
 - Alt + Shift + L - Copy Obsidian URL
 - Ctrl + Shift + L = **Link** Media
 - Alt + L = **Fix** and Repair Link
+- Hypernym:: Main Function (Parent)
+- Hyponym:: Specific Function (Child)
+- Synonym:: Same Function (Sibling)
+- Antonym:: Different Function (Friend)
 
 **Media**
 - Ctrl + Click = **Click** on an Image in Hover Editor
