@@ -5,6 +5,10 @@
       "path": "Excalibrain.md"
     },
     {
+      "basename": "Action Verbs",
+      "path": "Action Verbs.md"
+    },
+    {
       "basename": "Hotkeys",
       "path": "Hotkeys.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "First Principles Thinking",
       "path": "First Principles Thinking.md"
-    },
-    {
-      "basename": "Action Verbs",
-      "path": "Action Verbs.md"
     },
     {
       "basename": "action-verbs",

@@ -1,9 +1,10 @@
 ## Action Verbs^connections added 🧭
 1. Open Excalibrain (Ctrl + E) and click on a note
 2. **Simplify** any action verbs you **find** with Alt/Ctrl + W.
-3. Use Ctrl + S with line:() for any Action Verbs tied to nouns or gerunds (verb ending with -ing) next to it.
-4. Ctrl + L **to copy paste** the link towards another note and/or within the note.
-5. Alt + V to open any video file or Ctrl + T to open any video link you paste into a note and then Alt + B to Timestamp Video or Audio.
+3. Use Ctrl + S with line:() and copy search results to any notes tied to the Action Verbs.
+4. Ctrl + L **to copy-paste** the link towards another note and/or within the note.
+5. Ctrl + Shift + C next to each link you make to categorize your links based on the action verbs.
+6. Alt + V to open any video file or Ctrl + T to open any video link you paste into a note and then Alt + B to Timestamp Video or Audio.
 
 ## Hotkeys 🧭
 **Find and go through Notes**
