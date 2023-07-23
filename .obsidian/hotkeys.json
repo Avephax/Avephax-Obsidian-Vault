@@ -213,22 +213,6 @@
       "key": "T"
     }
   ],
-  "oz-clear-unused-images:clear-images-obsidian": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
-  "oz-clear-unused-images:clear-unused-attachments": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "E"
-    }
-  ],
   "obsidian-hover-editor:convert-active-pane-to-popover": [
     {
       "modifiers": [
@@ -291,15 +275,7 @@
       "key": "K"
     }
   ],
-  "obsidian-file-path-to-uri:paste-file-path-as-file-uri-link-name-only": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "E"
-    }
-  ],
+  "obsidian-file-path-to-uri:paste-file-path-as-file-uri-link-name-only": [],
   "obsidian-expand-bullet:transform-bullet-into-note": [
     {
       "modifiers": [
@@ -427,6 +403,66 @@
     {
       "modifiers": [
         "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "link-exploder:link-exploder-canvas-builder": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "oz-clear-unused-images:clear-images-obsidian": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "oz-clear-unused-images:clear-unused-attachments": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "excalibrain:excalibrain-start": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "excalibrain:excalibrain-open-hover": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-rewarder:create-sample-rewards-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
       ],
       "key": "R"
     }

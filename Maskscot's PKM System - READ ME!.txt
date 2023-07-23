@@ -1,7 +1,7 @@
-Maskscot's PKM System of Systems and Practices - Version 12.0
+Maskscot's PKM System of Systems and Practices - Version 14.0
 Combines the likes of: Markdown Linking with any Obsidian file.
 
-Uses: 80% Markdown Syntax - 20% Obsidian Community Plugins
+Uses: 80% Excalibrain - 20% Markdown Syntax
 
 Folders Included:
 

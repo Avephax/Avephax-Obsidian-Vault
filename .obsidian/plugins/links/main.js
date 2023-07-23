@@ -49,11 +49,12 @@ var LinkData = class extends TextPart {
     this.type = type;
     this.link = link;
     this.text = text;
+    this.embeded = false;
     this.type = type;
   }
 };
 function findLink(text, startPos, endPos, linkType = 65535 /* All */) {
-  const wikiLinkRegEx = /\[\[([^\[\]|]+)(\|([^\[\]]*))?\]\]/g;
+  const wikiLinkRegEx = /(!?)\[\[([^\[\]|]+)(\|([^\[\]]*))?\]\]/g;
   const mdLinkRegEx = /\[([^\]\[]*)\]\(([^)(]*)\)/gmi;
   const htmlLinkRegEx = /<a\s+[^>]*href\s*=\s*['"]([^'"]*)['"][^>]*>(.*?)<\/a>/gi;
   const autolinkRegEx1 = /<([a-z]+:\/\/[^>]+)>/gmi;
@@ -62,8 +63,9 @@ function findLink(text, startPos, endPos, linkType = 65535 /* All */) {
   if (linkType & 2 /* Wiki */) {
     while (match = wikiLinkRegEx.exec(text)) {
       if (startPos >= match.index && endPos <= wikiLinkRegEx.lastIndex) {
-        const [raw, url, , text2] = match;
+        const [raw, exclamationMark, url, , text2] = match;
         const linkData = new LinkData(2 /* Wiki */, raw, new Position(match.index, wikiLinkRegEx.lastIndex));
+        linkData.embeded = exclamationMark === "!";
         if (url) {
           const linkIdx = raw.indexOf(url);
           linkData.link = new TextPart(url, new Position(linkIdx, linkIdx + url.length));
@@ -2142,6 +2144,7 @@ var ReplaceLinkModal = class extends import_obsidian3.Modal {
 var RegExPatterns = class {
 };
 RegExPatterns.Email = /([a-zA-Z0-9.!#$%&'*+\/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*)/i;
+RegExPatterns.AbsoluteUri = /[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&\/=]*)/i;
 
 // main.ts
 var DEFAULT_SETTINGS = {
@@ -2150,11 +2153,13 @@ var DEFAULT_SETTINGS = {
   showPerformanceNotification: false,
   //feature flags
   ffReplaceLink: false,
-  ffAnglebracketURLSupport: false
+  ffAnglebracketURLSupport: false,
+  ffEmbedFiles: false
 };
 var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
   constructor(app2, manifest) {
     super(app2, manifest);
+    this.EmailScheme = "mailto:";
     this.generateLinkTextOnEdit = true;
     this.convertHtmlLinksToMdLinks = () => {
       const mdView = this.app.workspace.getActiveViewOfType(import_obsidian4.MarkdownView);
@@ -2212,16 +2217,22 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
       editorCheckCallback: (checking, editor, ctx) => this.convertLinkUnderCursorToMarkdownLinkHandler(editor, checking)
     });
     this.addCommand({
-      id: "editor-copy-link-to-clipboard",
-      name: "Copy link destination",
-      icon: "copy",
-      editorCheckCallback: (checking, editor, ctx) => this.copyLinkUnderCursorToClipboardHandler(editor, checking)
-    });
-    this.addCommand({
       id: "editor-convert-link-to-wikilink",
       name: "Convert to Wikilink",
       icon: "rotate-cw",
       editorCheckCallback: (checking, editor, ctx) => this.convertLinkUnderCursorToWikilinkHandler(editor, checking)
+    });
+    this.addCommand({
+      id: "editor-convert-link-to-autolink",
+      name: "Convert to Autolink",
+      icon: "rotate-cw",
+      editorCheckCallback: (checking, editor, ctx) => this.convertLinkUnderCursorToAutolinkHandler(editor, checking)
+    });
+    this.addCommand({
+      id: "editor-copy-link-to-clipboard",
+      name: "Copy link destination",
+      icon: "copy",
+      editorCheckCallback: (checking, editor, ctx) => this.copyLinkUnderCursorToClipboardHandler(editor, checking)
     });
     this.addCommand({
       id: "editor-remove-links-from-headings",
@@ -2347,6 +2358,13 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
                 });
               });
             }
+            if (this.settings.ffAnglebracketURLSupport && this.convertLinkUnderCursorToAutolinkHandler(editor, true)) {
+              menu.addItem((item) => {
+                item.setTitle("Convert to autolink").setIcon("rotate-cw").onClick(async () => {
+                  this.convertLinkToAutolink(linkData, editor);
+                });
+              });
+            }
             if (this.settings.ffReplaceLink) {
               menu.addItem((item) => {
                 item.setTitle("Replace link").setIcon("pencil").onClick(async () => {
@@ -2358,6 +2376,13 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
             menu.addItem((item) => {
               item.setTitle("Convert to markdown link").setIcon("rotate-cw").onClick(async () => {
                 this.convertLinkToMarkdownLink(linkData, editor);
+              });
+            });
+          }
+          if (this.unembedLinkUnderCursorHandler(editor, true)) {
+            menu.addItem((item) => {
+              item.setTitle("Unembed").setIcon("file-output").onClick(async () => {
+                this.unembedLinkUnderCursorHandler(editor);
               });
             });
           }
@@ -2484,7 +2509,7 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
     }
     let rawLinkText = "";
     if (linkData.type === 8 /* Autolink */ && linkData.link && RegExPatterns.Email.test(linkData.link.content)) {
-      rawLinkText = `[${text}](mailto:${linkData.link.content})`;
+      rawLinkText = `[${text}](${this.EmailScheme}${linkData.link.content})`;
     } else {
       destination = encodeURI(link);
       if (destination && linkData.type === 2 /* Wiki */ && destination.indexOf("%20") > 0) {
@@ -2508,7 +2533,7 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
     const cursorOffset = editor.posToOffset(editor.getCursor("from"));
     const linkData = findLink(text, cursorOffset, cursorOffset, 1 /* Markdown */ | 4 /* Html */);
     if (checking) {
-      return !!linkData && linkData.link && !linkData.link.content.trim().startsWith("mailto:");
+      return !!linkData && linkData.link && !linkData.link.content.trim().startsWith(this.EmailScheme);
     }
     if (linkData) {
       this.convertLinkToWikiLink(linkData, editor);
@@ -2522,6 +2547,37 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
       editor.offsetToPos(linkData.position.start),
       editor.offsetToPos(linkData.position.end)
     );
+  }
+  convertLinkUnderCursorToAutolinkHandler(editor, checking) {
+    var _a;
+    const text = editor.getValue();
+    const cursorOffset = editor.posToOffset(editor.getCursor("from"));
+    const linkData = this.settings.ffAnglebracketURLSupport ? findLink(text, cursorOffset, cursorOffset, 1 /* Markdown */) : void 0;
+    if (checking) {
+      return !!linkData && ((_a = linkData.link) == null ? void 0 : _a.content) != void 0 && (RegExPatterns.AbsoluteUri.test(linkData.link.content) || linkData.link.content.startsWith(this.EmailScheme));
+    }
+    if (linkData) {
+      this.convertLinkToAutolink(linkData, editor);
+    }
+  }
+  async convertLinkToAutolink(linkData, editor) {
+    var _a;
+    if (linkData.type === 1 /* Markdown */ && ((_a = linkData.link) == null ? void 0 : _a.content)) {
+      let rawLinkText;
+      if (linkData.link.content.startsWith(this.EmailScheme)) {
+        rawLinkText = `<${linkData.link.content.substring(this.EmailScheme.length)}>`;
+      } else if (RegExPatterns.AbsoluteUri.test(linkData.link.content)) {
+        rawLinkText = `<${linkData.link.content}>`;
+      }
+      if (rawLinkText) {
+        editor.replaceRange(
+          rawLinkText,
+          editor.offsetToPos(linkData.position.start),
+          editor.offsetToPos(linkData.position.end)
+        );
+        editor.setCursor(editor.offsetToPos(linkData.position.start + rawLinkText.length));
+      }
+    }
   }
   copyLinkUnderCursorToClipboardHandler(editor, checking) {
     const text = editor.getValue();
@@ -2811,6 +2867,26 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
       editor.setCursor(editor.offsetToPos(endOffset));
     })();
   }
+  unembedLinkUnderCursorHandler(editor, checking = false) {
+    const text = editor.getValue();
+    const cursorOffset = editor.posToOffset(editor.getCursor("from"));
+    const linkData = findLink(text, cursorOffset, cursorOffset, 2 /* Wiki */ | 1 /* Markdown */);
+    if (checking) {
+      return this.settings.ffEmbedFiles && !!linkData && linkData.embeded && !!linkData.link;
+    }
+    if (linkData) {
+      this.unembedLinkUnderCursor(linkData, editor);
+    }
+  }
+  unembedLinkUnderCursor(linkData, editor) {
+    if (linkData.content && linkData.type & (2 /* Wiki */ | 1 /* Markdown */) && linkData.embeded) {
+      editor.replaceRange(
+        linkData.content.substring(1),
+        editor.offsetToPos(linkData.position.start),
+        editor.offsetToPos(linkData.position.end)
+      );
+    }
+  }
 };
 var ObsidianLinksSettingTab = class extends import_obsidian4.PluginSettingTab {
   constructor(app2, plugin) {
@@ -2865,6 +2941,23 @@ var ObsidianLinksSettingTab = class extends import_obsidian4.PluginSettingTab {
         })
       );
       feature1SettingDesc.appendText(".");
+    }
+    new import_obsidian4.Setting(containerEl).setName("Embed/unembed files").setDesc("Adds ability to embed/unembed files.").setClass("setting-item--insider-feature2").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.ffEmbedFiles).onChange(async (value) => {
+        this.plugin.settings.ffEmbedFiles = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    const feature2SettingDesc = containerEl.querySelector(".setting-item--insider-feature2 .setting-item-description");
+    if (feature2SettingDesc) {
+      feature2SettingDesc.appendText(" see ");
+      feature2SettingDesc.appendChild(
+        createEl("a", {
+          href: "https://github.com/mii-key/obsidian-links/blob/master/docs/insider/embed-unembed-files.md",
+          text: "docs"
+        })
+      );
+      feature2SettingDesc.appendText(".");
     }
   }
 };

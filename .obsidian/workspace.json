@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ad33fa4b331f784b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalibrain.md"
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "Excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "Excalibrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,22 +159,26 @@
       "meld-encrypt:Create new encrypted note": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27205fef611396e5",
+  "active": "ad33fa4b331f784b",
   "lastOpenFiles": [
+    "Hotkeys.md",
+    "Excalibrain.md",
+    "Feedback Loops.md",
+    "First Principles Thinking.md",
+    "Action Verbs.md",
+    "Media/action-verbs.png",
+    "Diminishing Returns.md",
+    "Hock Principle.md",
+    "Do or Stop.md",
     "Problem Solving.md",
     "Occam's Razor.md",
-    "First Principles Thinking.md",
     "Middle-Out Thinking.md",
     "Inputs and Outputs.md",
-    "Hotkeys.md",
-    "Hock Principle.md",
     "Hindsight bias.md",
-    "Feedback Loops.md",
-    "Do or Stop.md",
-    "Diminishing Returns.md",
     "First Principles Mental Mapping.md",
     "Higher Self Vs. Lower Self.md",
     "Reward or Resist.md",
@@ -177,22 +194,18 @@
     "Factoring.md",
     "Associative Learning.md",
     "First Principles Thinking.canvas",
-    "Media/linking-tip-02.png",
     "Solution Mental Mapping.md",
     "Diminishing Returns.canvas",
     "Associative Learning.canvas",
     "Catalog/Templates/Media Linking.md",
     "Catalog/Templates/Critical Linking.md",
     "Untitled 2.md",
-    "Untitled.md",
     "Abstracting and Actualizing.md",
     "Insight.md",
     "Intuition.canvas",
     "Intuition.md",
     "Insight.canvas",
-    "Instructions.md",
     "Catalog/Abstracting and Actualizing.pdf",
-    "Catalog/Templates/Plant.md",
     "Catalog/Factoring.pdf",
     "My Home.canvas",
     "Template Architecture.canvas",

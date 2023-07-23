@@ -1,12 +1,12 @@
-
-- Implicit Learning is when you **repeat** actions that **grow** memories that have yet to be **recorded**. ^gam55
+- Implicit Learning is when you **repeat** actions that **grow** memories that have yet to be **automatic**. ^gam55
 	- [[Feedback Loops#^efyp1]]
+	- [[Action Verbs#^jc4og]]
 	- [[Inputs and Outputs#^t563d]]
 	- [[Do or Stop#^tzjid]]
 	- [[Occam's Razor#^t3ku2]]
 	- [[Hock Principle#^ddubr]]
 - Repeating is the Mother of Learning; the core of what makes up Implicit Learning.
-    Every Feedback Loop is a chain of actions you can choose to do, waiting to support itself every time we do it. ^efyp1
+    Every Feedback Loop is a chain of actions you can learn to choose, waiting to support itself every time we do it. ^efyp1
 	- [[Feedback Loops#^taoaj]]
 	- [[Do or Stop#^2y3be]]
     	- [[Inputs and Outputs#^xsh0i]]

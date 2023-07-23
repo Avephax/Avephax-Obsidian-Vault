@@ -1,0 +1,4 @@
+- Verbs that end with -s, -es, -ing, -ed or irregularly bring the dynamic meaning, function and actions out of insights to show how an action is done or what happens. ^jc4og
+	- [[Feedback Loops#^gam55]]
+	- [[First Principles Thinking#^11kml]]
+- ![[action-verbs.png]]

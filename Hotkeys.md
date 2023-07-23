@@ -1,18 +1,15 @@
 ## Action Verbs^connections added 🧭
-1. Use Alt + R once you open Obsidian to remind yourself of your notes.
-2. **Simplify** any action verbs you **find** with Alt/Ctrl + W and Search up with line:().
-3. Find any Action Verbs and then find the noun or gerund (verb ending with -ing) before it.
+1. Open Excalibrain (Ctrl + E) and click on a note
+2. **Simplify** any action verbs you **find** with Alt/Ctrl + W.
+3. Use Ctrl + S with line:() for any Action Verbs tied to nouns or gerunds (verb ending with -ing) next to it.
 4. Ctrl + L **to copy paste** the link towards another note and/or within the note.
 5. Alt + V to open any video file or Ctrl + T to open any video link you paste into a note and then Alt + B to Timestamp Video or Audio.
 
 ## Hotkeys 🧭
-
-- Alt + R - Frequent Reminders (Pomodoro Timer)
-
 **Find and go through Notes**
 - line:() - **Search** a Hotkey 
-- section:() - **Search** a Section through a Hotkey
-- file: - **Match** File Name
+- Ctrl + E - Open Excalibrain
+- Ctrl + Shift + E - Open Excalibrain in Hover Editor
 - Ctrl + N - **Make** New Note
 - Ctrl + Shift + N - **Make** New Canvas
 - Ctrl + Alt + T - **Make** New Tab
@@ -25,7 +22,7 @@
 **Making a Note**
 - Ctrl + B - **Make** Bullet Point or Checkbox
 - Ctrl + Alt + B - **Remove or Add** Bullet Points
-- Ctrl + W - Replace complex action verb with Synonyms
+- Ctrl + W - Simplify action verb with Synonym
 - Alt + W - Define and Simplify Action Verb
 - Alt + V = **Bolden** an Action Verb
 - Alt + B - Timestamp Video or Audio
@@ -33,13 +30,13 @@
 - Ctrl + Alt + C = **Turn** Page into Hover Tab (Hover Editor)
 - Ctrl + H = Highlight Action Verb
     - Alt + H = Remove Highlight
-- Ctrl + Shift + C = **Insert** Media Linking Syntax
+- Ctrl + Shift + C = **Insert** Template Syntax
 - Ctrl + P = Command Palette
 
 **Make and go** through links
 - Ctrl + L - **Carry** Link to another Note (Carry-Forward)
 - Ctrl + Shift + L - **Link** Info from a Source (Carry-Forward)
-- Ctrl + Tab = Transform Bullet Note into its own note
+- Ctrl + Tab = Transform Bullet Note into its own note (Note Refactor)
 - Ctrl + Alt + L - **Delete** Link
 - Ctrl + K - **Link** to an external link []\()
 - Alt + Shift + L - Copy Obsidian URL
@@ -50,9 +47,10 @@
 - Ctrl + Click = **Click** on an Image in Hover Editor
 - Alt + V - Open Video File
 - Ctrl + T - Highlight and Open a Web Link
-- Ctrl + E = **Clear** Unused Images
-- Alt + E = **Clear** Unused Attachments
+- Alt + G = Open Local Graph
+- Alt + E = **Clear** Unused Images
 - Attach Media - **Drag & Drop** / Copy-Paste
+- Ctrl + Alt + R - Rewarder Note
 
 **Timestamp**
 - Alt + T - **Timestamp** a Note/Card
