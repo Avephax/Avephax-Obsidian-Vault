@@ -33,8 +33,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "right": {
     "id": "7f60c61e79aca53a",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalibrain.md",
+                "file": "Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalibrain.md",
+                "file": "Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,19 +163,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "458bc07a6625e04f",
+  "active": "27205fef611396e5",
   "lastOpenFiles": [
     "Action Verbs.md",
+    "Feedback Loops.md",
     "Excalibrain.md",
     "Hotkeys.md",
-    "Feedback Loops.md",
+    "Diminishing Returns.md",
+    "Occam's Razor.md",
     "First Principles Thinking.md",
     "Media/action-verbs.png",
-    "Diminishing Returns.md",
     "Hock Principle.md",
     "Do or Stop.md",
     "Problem Solving.md",
-    "Occam's Razor.md",
     "Middle-Out Thinking.md",
     "Inputs and Outputs.md",
     "Hindsight bias.md",

@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Excalibrain",
-      "path": "Excalibrain.md"
+      "basename": "Hotkeys",
+      "path": "Hotkeys.md"
     },
     {
       "basename": "Action Verbs",
       "path": "Action Verbs.md"
     },
     {
-      "basename": "Hotkeys",
-      "path": "Hotkeys.md"
-    },
-    {
       "basename": "Feedback Loops",
       "path": "Feedback Loops.md"
+    },
+    {
+      "basename": "Excalibrain",
+      "path": "Excalibrain.md"
+    },
+    {
+      "basename": "Diminishing Returns",
+      "path": "Diminishing Returns.md"
+    },
+    {
+      "basename": "Occam's Razor",
+      "path": "Occam's Razor.md"
     },
     {
       "basename": "First Principles Thinking",
@@ -23,10 +31,6 @@
     {
       "basename": "action-verbs",
       "path": "Media/action-verbs.png"
-    },
-    {
-      "basename": "Diminishing Returns",
-      "path": "Diminishing Returns.md"
     },
     {
       "basename": "Hock Principle",
@@ -39,10 +43,6 @@
     {
       "basename": "Problem Solving",
       "path": "Problem Solving.md"
-    },
-    {
-      "basename": "Occam's Razor",
-      "path": "Occam's Razor.md"
     },
     {
       "basename": "Middle-Out Thinking",

@@ -84,7 +84,7 @@
   "showInferredNodes": true,
   "showAttachments": false,
   "showVirtualNodes": true,
-  "showFolderNodes": true,
+  "showFolderNodes": false,
   "showTagNodes": false,
   "showPageNodes": true,
   "showNeighborCount": true,
@@ -268,5 +268,8 @@
   "boldFields": false,
   "allowAutozoom": true,
   "allowAutofocuOnSearch": true,
-  "defaultAlwaysOnTop": false
+  "defaultAlwaysOnTop": false,
+  "embedCentralNode": false,
+  "centerEmbedWidth": 550,
+  "centerEmbedHeight": 700
 }
