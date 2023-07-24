@@ -1,4 +1,6 @@
-- Verbs that end with -s, -es, -ing, -ed or irregularly bring the dynamic meaning, function and actions out of insights to show how an action is done or what happens. ^jc4og
-	- [[Feedback Loops#^gam55]]
-	- [[First Principles Thinking#^11kml]]
-- ![[action-verbs.png]]
+- Action Verbs are words that show up as -s, -es, -ing, -ed or irregularly at their ends to show the dynamic meaning, function and actions attached behind insights, problems, and any form (nouns); which also tells the effect. ^jc4og
+    - [[Feedback Loops#^gam55]]
+    - [[First Principles Thinking#^11kml]]
+- Hyponyms specify action verbs, Hypernyms simplify action verbs, Synonyms relate action verbs and Antonyms change action verbs. ^w40ye
+    - [[First Principles Thinking#^2bkn0]]
+    - [[Action Verbs#^jc4og]]

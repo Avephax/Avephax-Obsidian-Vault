@@ -32,8 +32,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "91b4427cc27ea617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Action Verbs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "right": {
     "id": "7f60c61e79aca53a",
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "Action Verbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "Action Verbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,13 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27205fef611396e5",
+  "active": "91b4427cc27ea617",
   "lastOpenFiles": [
-    "Maskscot's PKM System of Systems and Practices.md",
-    "Action Verbs.md",
-    "Feedback Loops.md",
     "Excalibrain.md",
+    "Action Verbs.md",
     "Hotkeys.md",
+    "Maskscot's PKM System of Systems and Practices.md",
+    "Feedback Loops.md",
     "Diminishing Returns.md",
     "Occam's Razor.md",
     "First Principles Thinking.md",

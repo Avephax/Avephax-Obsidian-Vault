@@ -1,10 +1,11 @@
 ## Action Verbs^connections added 🧭
-1. Open Excalibrain (Ctrl + E) and click on a note
-2. **Simplify** any action verbs you **find** with Alt/Ctrl + W.
-3. Use Ctrl + S with line:() and copy search results to any notes tied to the Action Verbs.
-4. Ctrl + L **to copy-paste** the link towards another note and/or within the note.
-5. Ctrl + Shift + C next to each link you make to categorize your links based on the action verbs.
-6. Alt + V to open any video file or Ctrl + T to open any video link you paste into a note and then Alt + B to Timestamp Video or Audio.
+1. Open Excalibrain with **Ctrl + E** and click on a note.
+2. **Simplify** any action verbs **with Alt/Ctrl + W** by Hypernyms and Specify them by Hyponyms.
+3. **Ctrl + S with line:()** to search any action verb you want and select copy search results to any notes tied to the aligned Action Verbs.
+4. **Connect** any action verbs **with Ctrl + L** **to copy-paste** a bullet point by Synonyms inside a note or outside another note.
+5. **Ctrl + Shift + C** next to each link you make to categorize your links based on action verbs.
+6. **Alt + V to open** any video file or **Ctrl + T to open** any video link you paste into a note and then **Alt + B to Timestamp** Video or Audio.
+7. **Click** a link to act!
 
 ## Hotkeys 🧭
 **Find and go through Notes**
@@ -60,6 +61,6 @@
 **Timestamp**
 - Alt + T - **Timestamp** a Note/Card
 
-Encrypt (Lock) Notes:
+**Encrypt (Lock) Notes:**
 - Ctrl + Alt + N - Create Encrypted Note
 - Ctrl + Alt + K - Lock and Unlock Encrypted Text
