@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"type":"file","file":"Action Verbs.md","id":"Action Verbs.md","x":0,"y":2100,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Feedback Loops.md","id":"Feedback Loops.md","x":1000,"y":1200,"width":500,"height":500},
+		{"type":"file","file":"Inputs and Outputs.md","id":"Inputs and Outputs.md","x":2000,"y":0,"width":500,"height":500},
+		{"type":"file","file":"Do or Stop.md","id":"Do or Stop.md","x":2000,"y":600,"width":500,"height":500},
+		{"type":"file","file":"Occam's Razor.md","id":"Occam's Razor.md","x":2000,"y":1200,"width":500,"height":500},
+		{"type":"file","file":"Hock Principle.md","id":"Hock Principle.md","x":2000,"y":1800,"width":500,"height":500},
+		{"type":"file","file":"Hindsight bias.md","id":"Hindsight bias.md","x":2000,"y":2400,"width":500,"height":500},
+		{"type":"file","file":"First Principles Thinking.md","id":"First Principles Thinking.md","x":1000,"y":3300,"width":500,"height":500},
+		{"type":"file","file":"Middle-Out Thinking.md","id":"Middle-Out Thinking.md","x":2000,"y":3000,"width":500,"height":500},
+		{"type":"file","file":"Media/First Principles Thinking Systemic Model.png","id":"Media/First Principles Thinking Systemic Model.png","x":2000,"y":3600,"width":500,"height":281}
+	],
+	"edges":[
+		{"id":"Action Verbs.md-Feedback Loops.md","fromNode":"Action Verbs.md","fromSide":"right","toNode":"Feedback Loops.md","toSide":"left"},
+		{"id":"Feedback Loops.md-Feedback Loops.md","fromNode":"Feedback Loops.md","fromSide":"right","toNode":"Feedback Loops.md","toSide":"left"},
+		{"id":"Feedback Loops.md-Action Verbs.md","fromNode":"Feedback Loops.md","fromSide":"right","toNode":"Action Verbs.md","toSide":"left"},
+		{"id":"Feedback Loops.md-Inputs and Outputs.md","fromNode":"Feedback Loops.md","fromSide":"right","toNode":"Inputs and Outputs.md","toSide":"left"},
+		{"id":"Feedback Loops.md-Do or Stop.md","fromNode":"Feedback Loops.md","fromSide":"right","toNode":"Do or Stop.md","toSide":"left"},
+		{"id":"Feedback Loops.md-Occam's Razor.md","fromNode":"Feedback Loops.md","fromSide":"right","toNode":"Occam's Razor.md","toSide":"left"},
+		{"id":"Feedback Loops.md-Hock Principle.md","fromNode":"Feedback Loops.md","fromSide":"right","toNode":"Hock Principle.md","toSide":"left"},
+		{"id":"Feedback Loops.md-Hindsight bias.md","fromNode":"Feedback Loops.md","fromSide":"right","toNode":"Hindsight bias.md","toSide":"left"},
+		{"id":"Action Verbs.md-First Principles Thinking.md","fromNode":"Action Verbs.md","fromSide":"right","toNode":"First Principles Thinking.md","toSide":"left"},
+		{"id":"First Principles Thinking.md-First Principles Thinking.md","fromNode":"First Principles Thinking.md","fromSide":"right","toNode":"First Principles Thinking.md","toSide":"left"},
+		{"id":"First Principles Thinking.md-Do or Stop.md","fromNode":"First Principles Thinking.md","fromSide":"right","toNode":"Do or Stop.md","toSide":"left"},
+		{"id":"First Principles Thinking.md-Middle-Out Thinking.md","fromNode":"First Principles Thinking.md","fromSide":"right","toNode":"Middle-Out Thinking.md","toSide":"left"},
+		{"id":"First Principles Thinking.md-Media/First Principles Thinking Systemic Model.png","fromNode":"First Principles Thinking.md","fromSide":"right","toNode":"Media/First Principles Thinking Systemic Model.png","toSide":"left"},
+		{"id":"Action Verbs.md-Action Verbs.md","fromNode":"Action Verbs.md","fromSide":"right","toNode":"Action Verbs.md","toSide":"left"}
+	]
+}

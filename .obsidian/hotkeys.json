@@ -166,15 +166,6 @@
       "key": "E"
     }
   ],
-  "links:editor-delete-link": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
   "obsidian-file-path-to-uri:paste-file-path-as-file-uri": [],
   "obsidian-file-path-to-uri:toggle-file-path-to-uri": [],
   "quick-explorer:browse-current": [
@@ -407,14 +398,6 @@
       "key": "R"
     }
   ],
-  "link-exploder:link-exploder-canvas-builder": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
   "oz-clear-unused-images:clear-images-obsidian": [
     {
       "modifiers": [
@@ -465,6 +448,23 @@
         "Mod"
       ],
       "key": "R"
+    }
+  ],
+  "obsidian-power-search:open-power-search-results-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "link-exploder:link-exploder-canvas-builder": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
     }
   ]
 }

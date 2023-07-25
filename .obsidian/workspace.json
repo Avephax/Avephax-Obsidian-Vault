@@ -37,16 +37,18 @@
             "id": "91b4427cc27ea617",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Action Verbs.md",
-                "mode": "source",
-                "source": false
+                "file": "Action Verbs.canvas",
+                "viewState": {
+                  "x": 1250,
+                  "y": 1940.5,
+                  "zoom": -2.9381827241953515
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Action Verbs.md",
+                "file": "Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Action Verbs.md",
+                "file": "Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,10 +177,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91b4427cc27ea617",
+  "active": "27205fef611396e5",
   "lastOpenFiles": [
-    "Excalibrain.md",
+    "Action Verbs.canvas",
     "Action Verbs.md",
+    "Excalibrain.md",
     "Hotkeys.md",
     "Maskscot's PKM System of Systems and Practices.md",
     "Feedback Loops.md",
@@ -216,7 +219,6 @@
     "Abstracting and Actualizing.md",
     "Insight.md",
     "Intuition.canvas",
-    "Intuition.md",
     "Insight.canvas",
     "Catalog/Abstracting and Actualizing.pdf",
     "Catalog/Factoring.pdf",
@@ -224,7 +226,6 @@
     "Template Architecture.canvas",
     "Concept.canvas",
     "Catalog/Templates/Project.canvas",
-    "Catalog/Templates/MOC Topic.canvas",
     "Untitled",
     "Context"
   ]

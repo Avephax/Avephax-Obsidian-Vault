@@ -1,11 +1,12 @@
 ## Action Verbs^connections added 🧭
 1. Open Excalibrain with **Ctrl + E** and click on a note.
-2. **Simplify** any action verbs **with Alt/Ctrl + W** by Hypernyms and Specify them by Hyponyms.
+2. **Simplify** any action verbs **with Alt/Ctrl + W** by Hypernyms (Parent) and Specify them by Hyponyms (Child).
 3. **Ctrl + S with line:()** to search any action verb you want and select copy search results to any notes tied to the aligned Action Verbs.
 4. **Connect** any action verbs **with Ctrl + L** **to copy-paste** a bullet point by Synonyms inside a note or outside another note.
 5. **Ctrl + Shift + C** next to each link you make to categorize your links based on action verbs.
 6. **Alt + V to open** any video file or **Ctrl + T to open** any video link you paste into a note and then **Alt + B to Timestamp** Video or Audio.
-7. **Click** a link to act!
+7. Use Ctrl + Alt + L to turn a note into Canvas file
+8. **Click** a link to act! 
 
 ## Hotkeys 🧭
 **Find and go through Notes**
@@ -38,8 +39,8 @@
 **Make and go** through links
 - Ctrl + L - **Carry** Link to another Note (Carry-Forward)
 - Ctrl + Shift + L - **Link** Info from a Source (Carry-Forward)
+- Ctrl + Alt + L - Turn Note into Canvas MOC
 - Ctrl + Tab = Transform Bullet Note into its own note (Note Refactor)
-- Ctrl + Alt + L - **Delete** Link
 - Ctrl + K - **Link** to an external link []\()
 - Alt + Shift + L - Copy Obsidian URL
 - Ctrl + Shift + L = **Link** Media
@@ -47,7 +48,7 @@
 - Hypernym:: Main Action Verb (Parent)
 - Hyponym:: Specific Action Verb (Child)
 - Synonym:: Same Action Verb (Sibling)
-- Antonym:: Different Action Verb (Friend)
+- Antonym:: Different Action Verb (Doppelganger)
 
 **Media**
 - Ctrl + Click = **Click** on an Image in Hover Editor
