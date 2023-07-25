@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "Action Verbs.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "Action Verbs.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,12 +178,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27205fef611396e5",
+  "active": "91b4427cc27ea617",
   "lastOpenFiles": [
-    "Action Verbs.canvas",
     "Action Verbs.md",
     "Excalibrain.md",
     "Hotkeys.md",
+    "Action Verbs.canvas",
     "Maskscot's PKM System of Systems and Practices.md",
     "Feedback Loops.md",
     "Diminishing Returns.md",
