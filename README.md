@@ -3,9 +3,10 @@ Version 14.0
 
 ## Combines the likes of: Markdown Linking with the functions of TheBrain.
 
-Uses: 80% Excalibrain - 20% Markdown Syntax
+Uses: 80% Canvas and Excalibrain - 20% Markdown Syntax
 
-![maskscot-sosop](https://github.com/Maskscot/System-of-Practices-by-Maskscot/assets/112918049/c483a2ce-31ac-4048-8385-b38379f87c41)
+![maskscot-system-final-cut](https://github.com/Maskscot/System-of-Practices-by-Maskscot/assets/112918049/2588ae77-5216-42dd-85da-3d499dd2f4f7)
+
 
 ## Folders Included:
 
