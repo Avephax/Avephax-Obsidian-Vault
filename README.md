@@ -5,7 +5,8 @@ Version 14.0
 
 Uses: 80% Canvas and Excalibrain - 20% Markdown Syntax
 
-![Obsidian_kR04CIAEbp](https://github.com/Maskscot/System-of-Practices-by-Maskscot/assets/112918049/3f4e0286-20a5-4a27-a006-9eab1d4ce12a)
+![maskscot-system-final-cut](https://github.com/Maskscot/System-of-Practices-by-Maskscot/assets/112918049/2588ae77-5216-42dd-85da-3d499dd2f4f7)
+
 
 ## Folders Included:
 
