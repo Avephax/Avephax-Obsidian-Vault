@@ -1,7 +1,7 @@
 ### Find the Function!
 - **Find the Function (Action Verb):** Identify the action verb (function) in any problem's form. The action verb represents the core function or action that is taking place. ^6br3d
 	- [[First Principles Thinking#^a5hxg]]
-- **Match the Function to Other Forms:** Look for other forms or scenarios that match exactly with the identified function. These alternative forms should share the same core function. ^a5hxg
+- **Match the Function to Other Forms:** Look for other forms and/or use synonyms that match exactly with the identified function. These alternative forms should share the same core function. ^a5hxg
 	- [[First Principles Thinking#^cqe6x]]
 - **Using Antonyms for Negative Functions:** If you encounter a negative function (action verb) in a problem, use an antonym to flip the perspective to a positive action. Then, find other forms that align with the positive function. ^cqe6x
 	- [[First Principles Thinking#^11kml]]
