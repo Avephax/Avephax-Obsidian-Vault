@@ -55,7 +55,7 @@ var LinkData = class extends TextPart {
 };
 function findLink(text, startPos, endPos, linkType = 65535 /* All */) {
   const wikiLinkRegEx = /(!?)\[\[([^\[\]|]+)(\|([^\[\]]*))?\]\]/g;
-  const mdLinkRegEx = /\[([^\]\[]*)\]\(([^)(]*)\)/gmi;
+  const mdLinkRegEx = /(!?)\[([^\]\[]*)\]\(([^)(]*)\)/gmi;
   const htmlLinkRegEx = /<a\s+[^>]*href\s*=\s*['"]([^'"]*)['"][^>]*>(.*?)<\/a>/gi;
   const autolinkRegEx1 = /<([a-z]+:\/\/[^>]+)>/gmi;
   const autolinkRegEx = /(<([a-zA-Z]{2,32}:[^>]+)>)|(<([a-zA-Z0-9.!#$%&'*+\/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*)>)/gmi;
@@ -81,8 +81,9 @@ function findLink(text, startPos, endPos, linkType = 65535 /* All */) {
   if (linkType & 1 /* Markdown */) {
     while (match = mdLinkRegEx.exec(text)) {
       if (startPos >= match.index && endPos <= mdLinkRegEx.lastIndex) {
-        const [raw, text2, url] = match;
+        const [raw, exclamationMark, text2, url] = match;
         const linkData = new LinkData(1 /* Markdown */, raw, new Position(match.index, mdLinkRegEx.lastIndex));
+        linkData.embeded = exclamationMark === "!";
         if (text2) {
           const textIdx = raw.indexOf(text2);
           linkData.text = new TextPart(text2, new Position(textIdx, textIdx + text2.length));
@@ -2913,6 +2914,23 @@ var ObsidianLinksSettingTab = class extends import_obsidian4.PluginSettingTab {
     earlyAccessDescription.createEl("span", {
       text: " to be fixed."
     });
+    new import_obsidian4.Setting(containerEl).setName("Autolink support").setDesc("Adds ability to work with links like <http://example.com>.").setClass("setting-item--insider-feature1").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.ffAnglebracketURLSupport).onChange(async (value) => {
+        this.plugin.settings.ffAnglebracketURLSupport = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    const feature1SettingDesc = containerEl.querySelector(".setting-item--insider-feature1 .setting-item-description");
+    if (feature1SettingDesc) {
+      feature1SettingDesc.appendText(" see ");
+      feature1SettingDesc.appendChild(
+        createEl("a", {
+          href: "https://github.com/mii-key/obsidian-links#readme",
+          text: "docs"
+        })
+      );
+      feature1SettingDesc.appendText(".");
+    }
     containerEl.createEl("h3", { text: "Insider features" });
     const insiderDescription = containerEl.createEl("p");
     insiderDescription.createEl("span", {
@@ -2925,23 +2943,6 @@ var ObsidianLinksSettingTab = class extends import_obsidian4.PluginSettingTab {
     insiderDescription.createEl("span", {
       text: " and influence the direction of development."
     });
-    new import_obsidian4.Setting(containerEl).setName("Autolink support").setDesc("Adds ability to work with links like <http://example.com>.").setClass("setting-item--insider-feature1").addToggle((toggle) => {
-      toggle.setValue(this.plugin.settings.ffAnglebracketURLSupport).onChange(async (value) => {
-        this.plugin.settings.ffAnglebracketURLSupport = value;
-        await this.plugin.saveSettings();
-      });
-    });
-    const feature1SettingDesc = containerEl.querySelector(".setting-item--insider-feature1 .setting-item-description");
-    if (feature1SettingDesc) {
-      feature1SettingDesc.appendText(" see ");
-      feature1SettingDesc.appendChild(
-        createEl("a", {
-          href: "https://github.com/mii-key/obsidian-links/blob/master/docs/insider/autolink-support.md",
-          text: "docs"
-        })
-      );
-      feature1SettingDesc.appendText(".");
-    }
     new import_obsidian4.Setting(containerEl).setName("Embed/unembed files").setDesc("Adds ability to embed/unembed files.").setClass("setting-item--insider-feature2").addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.ffEmbedFiles).onChange(async (value) => {
         this.plugin.settings.ffEmbedFiles = value;

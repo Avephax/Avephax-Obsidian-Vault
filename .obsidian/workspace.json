@@ -34,17 +34,14 @@
             }
           },
           {
-            "id": "91b4427cc27ea617",
+            "id": "524ee016948b6a5b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Action Verbs.canvas",
-                "viewState": {
-                  "x": 1250,
-                  "y": 1940.5,
-                  "zoom": -2.9381827241953515
-                }
+                "file": "First Principles Thinking.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -131,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Action Verbs.canvas",
+                "file": "First Principles Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Action Verbs.canvas",
+                "file": "First Principles Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,12 +175,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91b4427cc27ea617",
+  "active": "524ee016948b6a5b",
   "lastOpenFiles": [
-    "Action Verbs.md",
-    "Excalibrain.md",
     "Hotkeys.md",
+    "Excalibrain.md",
     "Action Verbs.canvas",
+    "Action Verbs.md",
     "Maskscot's PKM System of Systems and Practices.md",
     "Feedback Loops.md",
     "Diminishing Returns.md",

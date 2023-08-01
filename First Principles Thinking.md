@@ -1,6 +1,11 @@
 ### Find the Function!
-- **Find out** **the function** of a solution, and **ignore** **the form** of the solution.
-	![[First Principles Thinking Systemic Model.png|500]]
+- **Find the Function (Action Verb):** Identify the action verb (function) in any problem's form. The action verb represents the core function or action that is taking place. ^6br3d
+	- [[First Principles Thinking#^a5hxg]]
+- **Match the Function to Other Forms:** Look for other forms or scenarios that match exactly with the identified function. These alternative forms should share the same core function. ^a5hxg
+	- [[First Principles Thinking#^cqe6x]]
+- **Using Antonyms for Negative Functions:** If you encounter a negative function (action verb) in a problem, use an antonym to flip the perspective to a positive action. Then, find other forms that align with the positive function. ^cqe6x
+	- [[First Principles Thinking#^11kml]]
+- ![[First Principles Thinking Systemic Model.png|500]]
 	**Identify** a statement’s action verb(s), **Ask** a yes or no question,
 	If **answering** yes, **ask** questions about any other action verb(s), **Utilize** answers as new statements, **Repeatedly ask** questions until you **get** a basic function to apply.
 	If/when **answering** "no", **accept** the function as a fact > **Solve** your problem ^11kml
