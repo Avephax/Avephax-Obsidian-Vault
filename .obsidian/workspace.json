@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First Principles Thinking.md",
-                "mode": "source",
+                "file": "Functional Thinking.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First Principles Thinking.md",
+                "file": "Functional Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First Principles Thinking.md",
+                "file": "Functional Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,28 +171,27 @@
       "meld-encrypt:Create new encrypted note": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "524ee016948b6a5b",
   "lastOpenFiles": [
-    "Hotkeys.md",
-    "Excalibrain.md",
-    "Action Verbs.canvas",
-    "Action Verbs.md",
-    "Maskscot's PKM System of Systems and Practices.md",
     "Feedback Loops.md",
-    "Diminishing Returns.md",
-    "Occam's Razor.md",
-    "First Principles Thinking.md",
-    "Media/action-verbs.png",
-    "Hock Principle.md",
     "Do or Stop.md",
+    "Diminishing Returns.md",
+    "Action Verbs.md",
+    "Action Verbs.canvas",
+    "Hotkeys.md",
+    "Functional Thinking.md",
+    "Hindsight bias.md",
+    "Hock Principle.md",
+    "Occam's Razor.md",
+    "Inputs and Outputs.md",
+    "Excalibrain.md",
+    "Maskscot's PKM System of Systems and Practices.md",
+    "Media/action-verbs.png",
     "Problem Solving.md",
     "Middle-Out Thinking.md",
-    "Inputs and Outputs.md",
-    "Hindsight bias.md",
     "First Principles Mental Mapping.md",
     "Higher Self Vs. Lower Self.md",
     "Reward or Resist.md",

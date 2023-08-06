@@ -3,7 +3,6 @@
     - [[Do or Stop#^tzjid]]
     - [[Inputs and Outputs#^qmqr3]]
         - [[Feedback Loops#^gam55]]
-        - [[Occam's Razor#^t3ku2]]
             - [[Do or Stop#^v3pjf]]
             - [[Hindsight bias#^k6s9r]]
             - [[Do or Stop#^c7318b]]
@@ -19,7 +18,7 @@
 - **Repeatedly ask** "why" you want any outcome **and directly place that feeling** into the actions you need to take. ^l894n
     - [[Do or Stop#^c7318b]]
     - [[Inputs and Outputs#^qmqr3]]
-        - [[First Principles Thinking#^11kml]]
+        - [[Functional Thinking#^11kml]]
             - [[Diminishing Returns#^7mhoh]]
 - Any emotion, even the heaviest ones, wait on an action you choose; lead them to choose, learn and fuel the positive chain of actions. 
     You are not your emotions. You are the one who **uses** them, because your agency validates what you are by the choices you do. ^c7318b

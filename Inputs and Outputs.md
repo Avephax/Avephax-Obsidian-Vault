@@ -3,7 +3,6 @@
     You **remember** **the process** through what you need to do.
     **Don’t look** for a **new output** from **the same action** **you take**. ^t563d
     - [[Inputs and Outputs#^qmqr3]]
-        - [[Middle-Out Thinking#^w31xw]]
         - [[Do or Stop#^u34xd]]
         - [[Do or Stop#^v3pjf]]
         - [[Diminishing Returns#^7mhoh]]
@@ -24,7 +23,7 @@
 	- [[Do or Stop#^tzjid]]
 - **Question and challenge** your existing actions **to match them** with actual use. Your beliefs **change** your reality and **sends** actions. ^4kbly
     - From: [[Inputs and Outputs#^qmqr3]]
-    - [[First Principles Thinking#^2w9f5]]
+    - [[Functional Thinking#^2w9f5]]
 - Feedback will **change** your process, **hold** that feedback (output) and **take** new action(s). ^-c96l
     - [[Inputs and Outputs#^kgw9n|Consistent Action]]
     - [[Do or Stop#^rwpmr]]

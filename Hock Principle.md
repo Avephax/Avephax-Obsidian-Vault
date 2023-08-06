@@ -1,4 +1,2 @@
 - Simple, clear purpose and principles causes to complex and intelligent actions. Complex rules and regulations give rise to simple and stupid actions. ^ddubr
-    - [[Occam's Razor#^t3ku2]]
-    - [[First Principles Thinking#^2w9f5]]
-    - [[Problem Solving#^xwnzd]]
+    - [[Functional Thinking#^2w9f5]]

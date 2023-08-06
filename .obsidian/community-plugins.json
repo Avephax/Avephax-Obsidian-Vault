@@ -19,7 +19,6 @@
   "consistent-attachments-and-links",
   "oz-clear-unused-images",
   "obsidian-checkbox3states-plugin",
-  "highlightr-plugin",
   "obsidian-hover-editor",
   "links",
   "meld-encrypt",
@@ -30,11 +29,9 @@
   "obsidian-timestamper",
   "obsidian-wordy",
   "obsidian-timestamp-notes",
-  "obsidian-statusbar-pomo",
   "obsidian-excalidraw-plugin",
   "dataview",
   "excalibrain",
-  "obsidian-rewarder",
   "link-exploder",
   "obsidian-image-toolkit"
 ]

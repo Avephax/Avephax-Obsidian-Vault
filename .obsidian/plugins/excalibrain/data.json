@@ -83,6 +83,7 @@
   "excludeFilepaths": [],
   "showInferredNodes": true,
   "showAttachments": false,
+  "showURLNodes": true,
   "showVirtualNodes": true,
   "showFolderNodes": false,
   "showTagNodes": false,
@@ -119,6 +120,9 @@
   "inferredNodeStyle": {
     "backgroundColor": "#000005b3",
     "textColor": "#95c7f3ff"
+  },
+  "urlNodeStyle": {
+    "prefix": "🌐 "
   },
   "virtualNodeStyle": {
     "backgroundColor": "#ff000066",
@@ -222,7 +226,6 @@
     "Excalidraw/Drawing 2023-07-22 16.09.04.excalidraw.md",
     "Photoshop.md",
     "Marking Contraction.md",
-    "Hock Principle.md",
     "ChatGPT Prompts.md",
     "Layered Pixel Animation.md",
     "Intertwine.md",
@@ -239,9 +242,7 @@
     "Spot Missing Imagery.md",
     "Turn and Pan Mental Imagery.md",
     "Mental Imagery.md",
-    "Inputs and Outputs.md",
     "Recursion.md",
-    "First Principles Thinking.md",
     "Problem Solving.md",
     "folder:/",
     "folder:Catalog/Angle - Force",
@@ -249,12 +250,17 @@
     "Catalog/Template/New Entry for the Library.md",
     "Hourglass Timer.md",
     "Catalog/Hotkeys.md",
-    "Feedback Loops.md",
     "Audio Frequencies.md",
     "Waveshaper for Audio.md",
     "Bitcrushing Audio.md",
     "Audio Dynamic Range.md",
     "Maskscot's PKM System of Systems and Practices.md",
+    "Inputs and Outputs.md",
+    "Occam's Razor.md",
+    "Hock Principle.md",
+    "Hindsight bias.md",
+    "First Principles Thinking.md",
+    "Feedback Loops.md",
     "Hotkeys.md"
   ],
   "allowOntologySuggester": true,
@@ -268,6 +274,7 @@
   "ontologySuggesterMidSentenceTrigger": "(",
   "boldFields": false,
   "allowAutozoom": true,
+  "maxZoom": 1,
   "allowAutofocuOnSearch": true,
   "defaultAlwaysOnTop": false,
   "embedCentralNode": false,

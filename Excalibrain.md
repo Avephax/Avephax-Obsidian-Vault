@@ -12,9 +12,9 @@ tags: [excalidraw]
 ---
 
 # Text Elements
-Hotkeys ^D4zCzooD
+Hotkeys ^1S083xwr
 
-[[Hotkeys.md]] ^KzsHuVUU
+[[Hotkeys.md]] ^ZraWHpim
 
 %%
 # Drawing
@@ -22,13 +22,13 @@ Hotkeys ^D4zCzooD
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.9",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.12",
 	"elements": [
 		{
-			"id": "KzsHuVUU",
+			"id": "ZraWHpim",
 			"type": "rectangle",
 			"x": -64.5,
-			"y": -70.5,
+			"y": -82,
 			"width": 129,
 			"height": 55,
 			"angle": 0,
@@ -42,18 +42,18 @@ Hotkeys ^D4zCzooD
 			"roundness": {
 				"type": 3
 			},
-			"seed": 80154,
+			"seed": 9221,
 			"version": 2,
-			"versionNonce": 2086573962,
-			"updated": 1690160678986,
+			"versionNonce": 28215177,
+			"updated": 1691300267628,
 			"isDeleted": false,
 			"groupIds": [
-				"TXzo7QD5"
+				"ajEAygVd"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "D4zCzooD"
+					"id": "1S083xwr"
 				}
 			],
 			"link": "[[Hotkeys.md]]",
@@ -66,10 +66,10 @@ Hotkeys ^D4zCzooD
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 28,
-			"id": "D4zCzooD",
+			"id": "1S083xwr",
 			"type": "text",
 			"x": -54.1845703125,
-			"y": -60.25,
+			"y": -71.75,
 			"width": 108.369140625,
 			"height": 34.5,
 			"angle": 0,
@@ -83,27 +83,27 @@ Hotkeys ^D4zCzooD
 			"roundness": {
 				"type": 3
 			},
-			"seed": 68875,
+			"seed": 6615,
 			"version": 1,
-			"versionNonce": 108656953,
-			"updated": 1690160678972,
+			"versionNonce": 279436254,
+			"updated": 1691300267623,
 			"isDeleted": false,
 			"groupIds": [
-				"TXzo7QD5"
+				"ajEAygVd"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "KzsHuVUU",
+			"containerId": "ZraWHpim",
 			"originalText": "Hotkeys",
 			"rawText": "Hotkeys",
 			"lineHeight": 1.15
 		},
 		{
-			"id": "CPPKb15W",
+			"id": "M0uoJatL",
 			"type": "ellipse",
 			"x": -74.1845703125,
-			"y": -48,
+			"y": -59.5,
 			"width": 10,
 			"height": 10,
 			"angle": 0,
@@ -117,23 +117,23 @@ Hotkeys ^D4zCzooD
 			"roundness": {
 				"type": 3
 			},
-			"seed": 57505,
+			"seed": 464,
 			"version": 1,
-			"versionNonce": 818435948,
-			"updated": 1690160678973,
+			"versionNonce": 630808103,
+			"updated": 1691300267623,
 			"isDeleted": false,
 			"groupIds": [
-				"TXzo7QD5"
+				"ajEAygVd"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "cgwPaLPY",
+			"id": "eDygBOKR",
 			"type": "ellipse",
 			"x": 64.1845703125,
-			"y": -48,
+			"y": -59.5,
 			"width": 10,
 			"height": 10,
 			"angle": 0,
@@ -147,23 +147,23 @@ Hotkeys ^D4zCzooD
 			"roundness": {
 				"type": 3
 			},
-			"seed": 83759,
+			"seed": 46045,
 			"version": 1,
-			"versionNonce": 390519427,
-			"updated": 1690160678973,
+			"versionNonce": 540207310,
+			"updated": 1691300267623,
 			"isDeleted": false,
 			"groupIds": [
-				"TXzo7QD5"
+				"ajEAygVd"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "bFJIdFnT",
+			"id": "SbFOY6tK",
 			"type": "ellipse",
 			"x": -20,
-			"y": -80.25,
+			"y": -91.75,
 			"width": 10,
 			"height": 10,
 			"angle": 0,
@@ -177,23 +177,23 @@ Hotkeys ^D4zCzooD
 			"roundness": {
 				"type": 3
 			},
-			"seed": 10284,
+			"seed": 93934,
 			"version": 1,
-			"versionNonce": 856389717,
-			"updated": 1690160678973,
+			"versionNonce": 121833133,
+			"updated": 1691300267623,
 			"isDeleted": false,
 			"groupIds": [
-				"TXzo7QD5"
+				"ajEAygVd"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "eRpf5fJf",
+			"id": "mp8TFcXG",
 			"type": "ellipse",
 			"x": 10,
-			"y": -15.75,
+			"y": -27.25,
 			"width": 10,
 			"height": 10,
 			"angle": 0,
@@ -207,17 +207,53 @@ Hotkeys ^D4zCzooD
 			"roundness": {
 				"type": 3
 			},
-			"seed": 21832,
+			"seed": 389,
 			"version": 1,
-			"versionNonce": 538741603,
-			"updated": 1690160678973,
+			"versionNonce": 170430446,
+			"updated": 1691300267623,
 			"isDeleted": false,
 			"groupIds": [
-				"TXzo7QD5"
+				"ajEAygVd"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
+		},
+		{
+			"text": "🚀 To get started\nselect a document using the search in the top left or\nopen a document in another pane.\n\n✨ For the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.\n\n⚠ ExcaliBrain may need to wait for DataView to initialize its index.\nThis can take up to a few minutes after starting Obsidian.",
+			"fontSize": 30,
+			"fontFamily": 2,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 303,
+			"id": "CAmNvHyw",
+			"type": "text",
+			"x": 0,
+			"y": 0,
+			"width": 889.365234375,
+			"height": 310.5,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"roundness": null,
+			"seed": 25508,
+			"version": 2,
+			"versionNonce": 480153094,
+			"updated": 1691300267618,
+			"isDeleted": true,
+			"groupIds": [],
+			"boundElements": [],
+			"link": null,
+			"locked": false,
+			"containerId": null,
+			"originalText": "🚀 To get started\nselect a document using the search in the top left or\nopen a document in another pane.\n\n✨ For the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.\n\n⚠ ExcaliBrain may need to wait for DataView to initialize its index.\nThis can take up to a few minutes after starting Obsidian.",
+			"rawText": "🚀 To get started\nselect a document using the search in the top left or\nopen a document in another pane.\n\n✨ For the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.\n\n⚠ ExcaliBrain may need to wait for DataView to initialize its index.\nThis can take up to a few minutes after starting Obsidian.",
+			"lineHeight": 1.15
 		}
 	],
 	"appState": {
@@ -235,16 +271,22 @@ Hotkeys ^D4zCzooD
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 299.0104064941406,
-		"scrollY": 172.99478149414062,
+		"scrollX": 284.5,
+		"scrollY": 208.25,
 		"zoom": {
-			"value": 1
+			"value": 2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
 		"colorPalette": {},
 		"currentStrokeOptions": null,
-		"previousGridSize": null
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
 	},
 	"files": {}
 }

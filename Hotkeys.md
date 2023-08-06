@@ -1,12 +1,12 @@
 ## Action Verbs^connections added 🧭
 1. Open Excalibrain with **Ctrl + E** and click on a note.
-2. **Simplify** any action verbs **with Alt/Ctrl + W** by Hypernyms (Parent) and Specify them by Hyponyms (Child).
-3. **Ctrl + S with line:()** to search any action verb you want and select copy search results to any notes tied to the aligned Action Verbs.
-4. **Connect** any action verbs **with Ctrl + L** **to copy-paste** a bullet point by Synonyms inside a note or outside another note.
-5. **Ctrl + Shift + C** next to each link you make to categorize your links based on action verbs.
+2. **Connect** any action verbs **with Ctrl + L** **to copy-paste** a bullet point  inside a note or outside another note.
+3. **Simplify** any action verb **with Alt/Ctrl + W** by Synonyms.
+4. **Ctrl + S with line:()** to search any action verb you want and select copy search results to any notes tied to the aligned Action Verbs.
+5. **Alt + F** and/or **Ctrl + Tab** within indented links for newer notes.
 6. **Alt + V to open** any video file or **Ctrl + T to open** any video link you paste into a note and then **Alt + B to Timestamp** Video or Audio.
-7. Use Ctrl + Alt + L to turn a note into Canvas file
-8. **Click** a link to act! 
+7. Use **Ctrl + Alt + L** to turn a note into Canvas file
+8. **Click** a link to **Shift + ↔** or **Alt + ↔**! 
 
 ## Hotkeys 🧭
 **Find and go through Notes**
@@ -26,13 +26,13 @@
 - Ctrl + B - **Make** Bullet Point or Checkbox
 - Ctrl + Alt + B - **Remove or Add** Bullet Points
 - Ctrl + W - Simplify action verb with Synonym
+- Alt + F - Add link
 - Alt + W - Define and Simplify Action Verb
 - Alt + V = **Bolden** an Action Verb
 - Alt + B - Timestamp Video or Audio
 - Ctrl + ↕ = **Move** a bullet point's position
 - Ctrl + Alt + C = **Turn** Page into Hover Tab (Hover Editor)
-- Ctrl + H = Highlight Action Verb
-    - Alt + H = Remove Highlight
+- Alt + H = Remove Highlight
 - Ctrl + Shift + C = **Insert** Template Syntax
 - Ctrl + P = Command Palette
 
@@ -42,7 +42,8 @@
 - Ctrl + Alt + L - Turn Note into Canvas MOC
 - Ctrl + Tab = Transform Bullet Note into its own note (Note Refactor)
 - Ctrl + K - **Link** to an external link []\()
-- Alt + Shift + L - Copy Obsidian URL
+- Alt + Shift + L - Delete Links
+- Ctrl + Alt + O - Copy Obsidian URL
 - Ctrl + Shift + L = **Link** Media
 - Alt + L = **Fix** and Repair Link
 - Hypernym:: Main Action Verb (Parent)
@@ -57,7 +58,6 @@
 - Alt + G = Open Local Graph
 - Alt + E = **Clear** Unused Images
 - Attach Media - **Drag & Drop** / Copy-Paste
-- Ctrl + Alt + R - Rewarder Note
 
 **Timestamp**
 - Alt + T - **Timestamp** a Note/Card

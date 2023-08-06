@@ -3,7 +3,6 @@
 	- [[Action Verbs#^jc4og]]
 	- [[Inputs and Outputs#^t563d]]
 	- [[Do or Stop#^tzjid]]
-	- [[Occam's Razor#^t3ku2]]
 	- [[Hock Principle#^ddubr]]
 - Repeating is the Mother of Learning; the core of what makes up Implicit Learning.
     Every Feedback Loop is a chain of actions you can learn to choose, waiting to support itself every time we do it. ^efyp1
@@ -15,6 +14,5 @@
     - [[Inputs and Outputs#^kgw9n]]
         - [[Do or Stop#^v3pjf]]
     - [[Do or Stop#^vtu4n]]
-    - [[Occam's Razor#^t3ku2]]
 - Cause and effect are largely disconnected, meaning the effect from an action can happen, but in the far future. ^t0-4d
     - [[Feedback Loops#^gam55]]

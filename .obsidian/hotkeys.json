@@ -239,15 +239,6 @@
       "key": "C"
     }
   ],
-  "workspace:copy-url": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "L"
-    }
-  ],
   "meld-encrypt:meld-encrypt-create-new-note": [
     {
       "modifiers": [
@@ -465,6 +456,32 @@
         "Mod"
       ],
       "key": "L"
+    }
+  ],
+  "links:editor-delete-link": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "workspace:copy-url": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
     }
   ]
 }
