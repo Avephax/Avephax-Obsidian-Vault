@@ -1,18 +1,9 @@
-- Implicit Learning is when you **repeat** actions that **grow** memories that have yet to be **automatic**. ^gam55
-	- [[Feedback Loops#^efyp1]]
+- Implicit Learning (a.k.a Procedural Memory) is about doing rather than understanding. It’s about holding in mind the specific sequence of things that need to be input in order for a particular output to occur, repeating the process to **write down and/or record** memories that have yet to be **automatic**. ^gam55
+	- [[Feedback Loops#^w31xw]]
 	- [[Action Verbs#^jc4og]]
-	- [[Inputs and Outputs#^t563d]]
-	- [[Do or Stop#^tzjid]]
-	- [[Hock Principle#^ddubr]]
-- Repeating is the Mother of Learning; the core of what makes up Implicit Learning.
-    Every Feedback Loop is a chain of actions you can learn to choose, waiting to support itself every time we do it. ^efyp1
-	- [[Feedback Loops#^taoaj]]
-	- [[Do or Stop#^2y3be]]
-    	- [[Inputs and Outputs#^xsh0i]]
-- You can almost always hold the situation you are in. If you can't, then you change how you view the situation. Attitudes only point what you will feel in any situation. ^taoaj
-    - [[Hindsight bias#^k6s9r]]
-    - [[Inputs and Outputs#^kgw9n]]
-        - [[Do or Stop#^v3pjf]]
-    - [[Do or Stop#^vtu4n]]
-- Cause and effect are largely disconnected, meaning the effect from an action can happen, but in the far future. ^t0-4d
+	- [[Associative Learning#^tzjid]]
+- Once you found function(s), write them down as bullet points and form links under them. ^w31xw
+    - [[Feedback Loops#^gbx4m]]
+    - [[Functional Thinking#^6br3d]]
+- Replace or add to your bullet points (functions) whenever you get feedback. ^gbx4m
     - [[Feedback Loops#^gam55]]

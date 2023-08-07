@@ -1,19 +1,17 @@
 {
 	"nodes":[
-		{"type":"file","file":"Action Verbs.md","id":"Action Verbs.md","x":0,"y":2100,"width":500,"height":500,"color":"1"},
 		{"type":"file","file":"Feedback Loops.md","id":"Feedback Loops.md","x":1000,"y":1200,"width":500,"height":500},
-		{"type":"file","file":"Hock Principle.md","id":"Hock Principle.md","x":2000,"y":1800,"width":500,"height":500},
-		{"type":"file","file":"Hindsight bias.md","id":"Hindsight bias.md","x":2000,"y":2400,"width":500,"height":500},
-		{"type":"file","file":"Functional Thinking.md","id":"First Principles Thinking.md","x":1000,"y":3300,"width":500,"height":500},
-		{"type":"file","file":"Inputs and Outputs.md","id":"Inputs and Outputs.md","x":2000,"y":600,"width":500,"height":500},
-		{"type":"file","file":"Do or Stop.md","id":"Do or Stop.md","x":2000,"y":1200,"width":500,"height":500},
-		{"type":"file","file":"Media/First Principles Thinking Systemic Model.png","id":"Media/First Principles Thinking Systemic Model.png","x":2000,"y":3410,"width":500,"height":281}
+		{"type":"file","file":"Hock Principle.md","id":"Hock Principle.md","x":2000,"y":1200,"width":500,"height":500},
+		{"type":"file","file":"Hindsight bias.md","id":"Hindsight bias.md","x":2000,"y":1800,"width":500,"height":500},
+		{"type":"file","file":"Associative Learning.md","id":"Do or Stop.md","x":2000,"y":600,"width":500,"height":500},
+		{"type":"file","file":"Functional Thinking.md","id":"First Principles Thinking.md","x":1000,"y":2490,"width":500,"height":500},
+		{"type":"file","file":"Media/First Principles Thinking Systemic Model.png","id":"Media/First Principles Thinking Systemic Model.png","x":2000,"y":2600,"width":500,"height":281},
+		{"type":"file","file":"Action Verbs.md","id":"Action Verbs.md","x":0,"y":1800,"width":500,"height":500,"color":"1"}
 	],
 	"edges":[
 		{"id":"Action Verbs.md-Feedback Loops.md","fromNode":"Action Verbs.md","fromSide":"right","toNode":"Feedback Loops.md","toSide":"left"},
 		{"id":"Feedback Loops.md-Feedback Loops.md","fromNode":"Feedback Loops.md","fromSide":"right","toNode":"Feedback Loops.md","toSide":"left"},
 		{"id":"Feedback Loops.md-Action Verbs.md","fromNode":"Feedback Loops.md","fromSide":"right","toNode":"Action Verbs.md","toSide":"left"},
-		{"id":"Feedback Loops.md-Inputs and Outputs.md","fromNode":"Feedback Loops.md","fromSide":"right","toNode":"Inputs and Outputs.md","toSide":"left"},
 		{"id":"Feedback Loops.md-Do or Stop.md","fromNode":"Feedback Loops.md","fromSide":"right","toNode":"Do or Stop.md","toSide":"left"},
 		{"id":"Feedback Loops.md-Hock Principle.md","fromNode":"Feedback Loops.md","fromSide":"right","toNode":"Hock Principle.md","toSide":"left"},
 		{"id":"Feedback Loops.md-Hindsight bias.md","fromNode":"Feedback Loops.md","fromSide":"right","toNode":"Hindsight bias.md","toSide":"left"},

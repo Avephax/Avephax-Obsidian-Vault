@@ -1,9 +1,8 @@
 - Hindsight bias is more likely to happen by the severity of a negative outcome rather than a positive outcome. ^no6s0
-    - [[Inputs and Outputs#^t563d]]
     - [[Hindsight bias#^chhia]]
 - This is a phenomenon consistent with the general tendency for people to pay more attention to negative outcomes of events than positive outcomes. ^chhia
     - [[Hindsight bias#^no6s0]]
 - Following a negative outcome of a situation, you may not want to accept responsibility, blocking the recall of these anxiety-arousing memories.
 - Any cycles in your life **affect** each other through the actions you choose to connect together. We can't control the outcome with absolute certainty beforehand. ^k6s9r
     - [[Feedback Loops#^t0-4d]]
-    - [[Do or Stop#^2y3be]]
+    - [[Associative Learning#^2y3be]]

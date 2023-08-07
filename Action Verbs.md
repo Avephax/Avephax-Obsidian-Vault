@@ -1,6 +1,8 @@
 - Action Verbs are words that show up as -s, -es, -ing, -ed or irregularly at their ends to show the dynamic meaning, function and actions attached behind insights, problems, and any form (nouns); which also tells the effect. ^jc4og
     - [[Feedback Loops#^gam55]]
     - [[Functional Thinking#^11kml]]
-- Hyponyms specify action verbs, Hypernyms simplify action verbs, Synonyms relate action verbs and Antonyms change action verbs. ^w40ye
+- Search up Hyponyms to specify action verbs, Hypernyms to simplify action verbs, Synonyms to relate action verbs and Antonyms to change action verbs. ^w40ye
     - [[Functional Thinking#^2bkn0]]
+    - [[Action Verbs#^8voe5]]
+- Read groups of words at a time by pairs of 4, and pick out the action verbs when present. ^8voe5
     - [[Action Verbs#^jc4og]]

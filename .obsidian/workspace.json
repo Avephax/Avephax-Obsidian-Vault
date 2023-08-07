@@ -34,19 +34,34 @@
             }
           },
           {
-            "id": "524ee016948b6a5b",
+            "id": "28e30480ad7b2289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functional Thinking.md",
-                "mode": "preview",
+                "file": "Feedback Loops.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6ebfc7ae15fb8c3b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Action Verbs.canvas",
+                "viewState": {
+                  "x": 1250,
+                  "y": 1812.104847396768,
+                  "zoom": -2.6598261961846283
+                }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Thinking.md",
+                "file": "Action Verbs.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Thinking.md",
+                "file": "Action Verbs.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,20 +189,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "524ee016948b6a5b",
+  "active": "6ebfc7ae15fb8c3b",
   "lastOpenFiles": [
     "Feedback Loops.md",
-    "Do or Stop.md",
-    "Diminishing Returns.md",
     "Action Verbs.md",
+    "Excalibrain.md",
+    "Diminishing Returns.md",
     "Action Verbs.canvas",
     "Hotkeys.md",
-    "Functional Thinking.md",
-    "Hindsight bias.md",
     "Hock Principle.md",
+    "Hindsight bias.md",
+    "Functional Thinking.md",
+    "Associative Learning.md",
     "Occam's Razor.md",
     "Inputs and Outputs.md",
-    "Excalibrain.md",
     "Maskscot's PKM System of Systems and Practices.md",
     "Media/action-verbs.png",
     "Problem Solving.md",
@@ -205,7 +220,6 @@
     "Media/never-assume-first-principles.png",
     "Media/linking-tip.png",
     "Factoring.md",
-    "Associative Learning.md",
     "First Principles Thinking.canvas",
     "Solution Mental Mapping.md",
     "Diminishing Returns.canvas",
