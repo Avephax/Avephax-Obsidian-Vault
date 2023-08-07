@@ -7,7 +7,7 @@
     - [[Functional Thinking#^11kml]]
 4. **Explore Other Forms by Synonyms and Nouns:** After naming the core function, use synonyms and alternate forms of the function. ^11kml
     - **Find** a statement’s function (action verb) and **answer** **yes or no** if we can break it down.
-        If **answering** yes, **ask** **What?, Why?, How?, Where?, When?, Who?, Which?, Whose?** to the function and **use** answer as new statement.
+        If **answering** yes, **ask** **What?, Why?, How?, Where?, When?, Who?, Which?, Whose?** to the statement and **use** the answer as a new function.
         If/when **answering** "no", **accept** the statement a basic function to apply.
         ![[First Principles Thinking Systemic Model.png|500]]
         - [[Functional Thinking#^6br3d]]

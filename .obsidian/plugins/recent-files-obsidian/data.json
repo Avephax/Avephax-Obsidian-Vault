@@ -5,6 +5,14 @@
       "path": "Action Verbs.canvas"
     },
     {
+      "basename": "Functional Thinking",
+      "path": "Functional Thinking.md"
+    },
+    {
+      "basename": "Hotkeys",
+      "path": "Hotkeys.md"
+    },
+    {
       "basename": "Action Verbs",
       "path": "Action Verbs.md"
     },
@@ -21,20 +29,12 @@
       "path": "Diminishing Returns.md"
     },
     {
-      "basename": "Hotkeys",
-      "path": "Hotkeys.md"
-    },
-    {
       "basename": "Hock Principle",
       "path": "Hock Principle.md"
     },
     {
       "basename": "Hindsight bias",
       "path": "Hindsight bias.md"
-    },
-    {
-      "basename": "Functional Thinking",
-      "path": "Functional Thinking.md"
     },
     {
       "basename": "Associative Learning",

@@ -37,31 +37,19 @@
             "id": "28e30480ad7b2289",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feedback Loops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ebfc7ae15fb8c3b",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
                 "file": "Action Verbs.canvas",
                 "viewState": {
                   "x": 1250,
-                  "y": 1812.104847396768,
-                  "zoom": -2.6598261961846283
+                  "y": 1795,
+                  "zoom": -2.238764909278014
                 }
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,17 +177,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ebfc7ae15fb8c3b",
+  "active": "28e30480ad7b2289",
   "lastOpenFiles": [
+    "Functional Thinking.md",
+    "Hotkeys.md",
     "Feedback Loops.md",
     "Action Verbs.md",
     "Excalibrain.md",
     "Diminishing Returns.md",
     "Action Verbs.canvas",
-    "Hotkeys.md",
     "Hock Principle.md",
     "Hindsight bias.md",
-    "Functional Thinking.md",
     "Associative Learning.md",
     "Occam's Razor.md",
     "Inputs and Outputs.md",
