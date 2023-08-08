@@ -5,11 +5,10 @@
 	- [[Functional Thinking#^cqe6x]]
 3. **Using Antonyms for Negative Functions (Optional):** If you encounter a negative function (action verb) in a problem, use an antonym to change to a positive action. ^cqe6x
     - [[Functional Thinking#^11kml]]
-4. **Explore Other Forms by Synonyms and Nouns:** After naming the core function, use synonyms and alternate forms of the function. ^11kml
-    - **Find** a statement’s function (action verb) and **answer** **yes or no** if we can break it down.
-        If **answering** yes, **ask** **What?, Why?, How?, Where?, When?, Who?, Which?, Whose?** to the statement and **use** the answer as a new function.
-        If/when **answering** "no", **accept** the statement a basic function to apply.
-        ![[First Principles Thinking Systemic Model.png|500]]
-        - [[Functional Thinking#^6br3d]]
-        - [[Feedback Loops#^w31xw]]
-        - [[Action Verbs#^w40ye]]
+4. **Use Alternate Synonyms or Nouns for the Function:** Use synonyms and alternate forms of the function (action verb) then **answer** **yes or no** if we can break the function down.
+	If **answering** yes, **ask** **How (Action Verb) and Why (Action Verb)** or **What (Noun), Where (Noun), Which (Noun), Who (Noun), When (Noun) and Whose (Noun)**.
+	If/when **answering** "no", **accept** the statement a basic function to apply.
+	![[First Principles Thinking Systemic Model.png|500]] ^11kml
+    - [[Functional Thinking#^6br3d]]
+    - [[Feedback Loops#^w31xw]]
+    - [[Action Verbs#^w40ye]]
