@@ -1,60 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Hotkeys",
-      "path": "Hotkeys.md"
-    },
-    {
-      "basename": "Excalibrain",
-      "path": "Excalibrain.md"
-    },
-    {
-      "basename": "Action Verbs",
-      "path": "Action Verbs.canvas"
-    },
-    {
       "basename": "Functional Thinking",
       "path": "Functional Thinking.md"
     },
     {
-      "basename": "Feedback Loops",
-      "path": "Feedback Loops.md"
+      "basename": "Hotkeys",
+      "path": "Catalog/Hotkeys.md"
     },
     {
-      "basename": "Action Verbs",
-      "path": "Action Verbs.md"
+      "basename": "Lyrics",
+      "path": "Lyrics.md"
+    },
+    {
+      "basename": "Rhythm Notes",
+      "path": "Rhythm Notes.md"
+    },
+    {
+      "basename": "Cause-and-Effect Writing",
+      "path": "Cause-and-Effect Writing.md"
+    },
+    {
+      "basename": "Inverted Layers",
+      "path": "Inverted Layers.md"
+    },
+    {
+      "basename": "Keyframing Secondary Action",
+      "path": "Keyframing Secondary Action.md"
+    },
+    {
+      "basename": "Marking Space Division Formulas",
+      "path": "Marking Space Division Formulas.md"
+    },
+    {
+      "basename": "Dithering",
+      "path": "Dithering.md"
+    },
+    {
+      "basename": "Acciaccatura Rhythm",
+      "path": "Acciaccatura Rhythm.md"
+    },
+    {
+      "basename": "Audio Spectrogram",
+      "path": "Audio Spectrogram.md"
+    },
+    {
+      "basename": "Compression",
+      "path": "Compression.md"
+    },
+    {
+      "basename": "Complimentary Colors",
+      "path": "Complimentary Colors.md"
+    },
+    {
+      "basename": "Color Layer",
+      "path": "Color Layer.md"
+    },
+    {
+      "basename": "ChatGPT Prompts",
+      "path": "ChatGPT Prompts.md"
+    },
+    {
+      "basename": "Audio HAAS Effect",
+      "path": "Audio HAAS Effect.md"
+    },
+    {
+      "basename": "Audio Phase",
+      "path": "Audio Phase.md"
     },
     {
       "basename": "Diminishing Returns",
       "path": "Diminishing Returns.md"
     },
     {
-      "basename": "Hock Principle",
-      "path": "Hock Principle.md"
+      "basename": "Action Verbs",
+      "path": "Action Verbs.md"
     },
     {
-      "basename": "Hindsight bias",
-      "path": "Hindsight bias.md"
+      "basename": "Feedback Loops",
+      "path": "Feedback Loops.md"
     },
     {
       "basename": "Associative Learning",
       "path": "Associative Learning.md"
     },
     {
-      "basename": "First Principles Thinking Systemic Model",
-      "path": "Media/First Principles Thinking Systemic Model.png"
+      "basename": "Delaying Audio",
+      "path": "Delaying Audio.md"
     },
     {
-      "basename": "First Principles Mental Mapping",
-      "path": "First Principles Mental Mapping.md"
+      "basename": "Writing Devices",
+      "path": "Writing Devices.md"
     },
     {
-      "basename": "Higher Self Vs. Lower Self",
-      "path": "Higher Self Vs. Lower Self.md"
+      "basename": "Rhythm Mordent",
+      "path": "Rhythm Mordent.md"
     },
     {
-      "basename": "Reward or Resist",
-      "path": "Reward or Resist.md"
+      "basename": "CSS Syntaxes",
+      "path": "CSS Syntaxes.md"
+    },
+    {
+      "basename": "ASDR Audio",
+      "path": "ASDR Audio.md"
+    },
+    {
+      "basename": "Writing with The Fourth Wall",
+      "path": "Writing with The Fourth Wall.md"
+    },
+    {
+      "basename": "Writing with First Words",
+      "path": "Writing with First Words.md"
+    },
+    {
+      "basename": "Writing with Failure Arc",
+      "path": "Writing with Failure Arc.md"
+    },
+    {
+      "basename": "Writing with Betrayal",
+      "path": "Writing with Betrayal.md"
+    },
+    {
+      "basename": "Writing with Antagonists",
+      "path": "Writing with Antagonists.md"
+    },
+    {
+      "basename": "Waveshaper for Audio",
+      "path": "Waveshaper for Audio.md"
+    },
+    {
+      "basename": "Wave Candy FL",
+      "path": "Wave Candy FL.md"
+    },
+    {
+      "basename": "Wall of Audio",
+      "path": "Wall of Audio.md"
+    },
+    {
+      "basename": "Voicing Rhythm",
+      "path": "Voicing Rhythm.md"
+    },
+    {
+      "basename": "Vocoder Audio",
+      "path": "Vocoder Audio.md"
+    },
+    {
+      "basename": "Vectors",
+      "path": "Vectors.md"
+    },
+    {
+      "basename": "Vector to Pixel",
+      "path": "Vector to Pixel.md"
+    },
+    {
+      "basename": "Vector Contour Tool",
+      "path": "Vector Contour Tool.md"
+    },
+    {
+      "basename": "Vanishing Points",
+      "path": "Vanishing Points.md"
+    },
+    {
+      "basename": "Value Grouping",
+      "path": "Value Grouping.md"
+    },
+    {
+      "basename": "Underpainting Layers",
+      "path": "Underpainting Layers.md"
+    },
+    {
+      "basename": "Types of Mixing",
+      "path": "Types of Mixing.md"
+    },
+    {
+      "basename": "Types of Compression",
+      "path": "Types of Compression.md"
+    },
+    {
+      "basename": "Turning Rhythm",
+      "path": "Turning Rhythm.md"
+    },
+    {
+      "basename": "Turning Edge Shatter Technique",
+      "path": "Turning Edge Shatter Technique.md"
+    },
+    {
+      "basename": "Turn and Pan Mental Imagery",
+      "path": "Turn and Pan Mental Imagery.md"
+    },
+    {
+      "basename": "Trilling MIDI",
+      "path": "Trilling MIDI.md"
+    },
+    {
+      "basename": "Transparent Shapes Layer",
+      "path": "Transparent Shapes Layer.md"
+    },
+    {
+      "basename": "Transient and Tonal EQ",
+      "path": "Transient and Tonal EQ.md"
     }
   ],
   "omittedPaths": [],
