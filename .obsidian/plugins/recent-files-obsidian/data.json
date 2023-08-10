@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hotkeys",
+      "path": "Hotkeys.md"
+    },
+    {
       "basename": "Functional Thinking",
       "path": "Functional Thinking.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Transparent Shapes Layer",
       "path": "Transparent Shapes Layer.md"
-    },
-    {
-      "basename": "Transient and Tonal EQ",
-      "path": "Transient and Tonal EQ.md"
     }
   ],
   "omittedPaths": [],
