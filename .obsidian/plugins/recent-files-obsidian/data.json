@@ -9,6 +9,14 @@
       "path": "Functional Thinking.md"
     },
     {
+      "basename": "Feedback Loops",
+      "path": "Feedback Loops.md"
+    },
+    {
+      "basename": "First Principles Thinking Systemic Model",
+      "path": "Media/First Principles Thinking Systemic Model.png"
+    },
+    {
       "basename": "Hotkeys",
       "path": "Hotkeys.md"
     },
@@ -83,10 +91,6 @@
     {
       "basename": "Action Verbs",
       "path": "Action Verbs.md"
-    },
-    {
-      "basename": "Feedback Loops",
-      "path": "Feedback Loops.md"
     },
     {
       "basename": "Associative Learning",
@@ -195,10 +199,6 @@
     {
       "basename": "Turn and Pan Mental Imagery",
       "path": "Turn and Pan Mental Imagery.md"
-    },
-    {
-      "basename": "Trilling MIDI",
-      "path": "Trilling MIDI.md"
     }
   ],
   "omittedPaths": [],

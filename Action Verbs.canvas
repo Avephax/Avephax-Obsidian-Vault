@@ -1,12 +1,11 @@
 {
 	"nodes":[
-		{"type":"file","file":"Feedback Loops.md","id":"Feedback Loops.md","x":1000,"y":1200,"width":500,"height":500},
-		{"type":"file","file":"Hock Principle.md","id":"Hock Principle.md","x":2000,"y":1200,"width":500,"height":500},
-		{"type":"file","file":"Hindsight bias.md","id":"Hindsight bias.md","x":2000,"y":1800,"width":500,"height":500},
-		{"type":"file","file":"Associative Learning.md","id":"Do or Stop.md","x":2000,"y":600,"width":500,"height":500},
-		{"type":"file","file":"Functional Thinking.md","id":"First Principles Thinking.md","x":1000,"y":2490,"width":500,"height":500},
-		{"type":"file","file":"Media/First Principles Thinking Systemic Model.png","id":"Media/First Principles Thinking Systemic Model.png","x":2000,"y":2600,"width":500,"height":281},
-		{"type":"file","file":"Action Verbs.md","id":"Action Verbs.md","x":0,"y":1800,"width":500,"height":500,"color":"1"}
+		{"type":"file","file":"Action Verbs.md","id":"Action Verbs.md","x":0,"y":1800,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Feedback Loops.md","id":"Feedback Loops.md","x":1000,"y":1300,"width":500,"height":500},
+		{"type":"file","file":"Functional Thinking.md","id":"First Principles Thinking.md","x":1000,"y":2160,"width":500,"height":500},
+		{"type":"file","file":"Hock Principle.md","id":"Hock Principle.md","x":2000,"y":1300,"width":500,"height":500},
+		{"type":"file","file":"Hindsight bias.md","id":"Hindsight bias.md","x":2000,"y":1900,"width":500,"height":500},
+		{"type":"file","file":"Associative Learning.md","id":"Do or Stop.md","x":2000,"y":700,"width":500,"height":500}
 	],
 	"edges":[
 		{"id":"Action Verbs.md-Feedback Loops.md","fromNode":"Action Verbs.md","fromSide":"right","toNode":"Feedback Loops.md","toSide":"left"},
@@ -18,7 +17,6 @@
 		{"id":"Action Verbs.md-First Principles Thinking.md","fromNode":"Action Verbs.md","fromSide":"right","toNode":"First Principles Thinking.md","toSide":"left"},
 		{"id":"First Principles Thinking.md-First Principles Thinking.md","fromNode":"First Principles Thinking.md","fromSide":"right","toNode":"First Principles Thinking.md","toSide":"left"},
 		{"id":"First Principles Thinking.md-Do or Stop.md","fromNode":"First Principles Thinking.md","fromSide":"right","toNode":"Do or Stop.md","toSide":"left"},
-		{"id":"Action Verbs.md-Action Verbs.md","fromNode":"Action Verbs.md","fromSide":"right","toNode":"Action Verbs.md","toSide":"left"},
-		{"id":"First Principles Thinking.md-Media/First Principles Thinking Systemic Model.png","fromNode":"First Principles Thinking.md","fromSide":"right","toNode":"Media/First Principles Thinking Systemic Model.png","toSide":"left"}
+		{"id":"Action Verbs.md-Action Verbs.md","fromNode":"Action Verbs.md","fromSide":"right","toNode":"Action Verbs.md","toSide":"left"}
 	]
 }

@@ -42,12 +42,24 @@
               "state": {
                 "file": "Action Verbs.canvas",
                 "viewState": {
-                  "x": 1250,
-                  "y": 1795,
-                  "zoom": -2.238764909278014
+                  "x": 1242.56,
+                  "y": 1757.1304667863546,
+                  "zoom": -2
                 }
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "39920d9dfb017fad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Thinking.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
