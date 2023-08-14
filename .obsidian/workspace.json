@@ -50,7 +50,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "Action Verbs.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "Action Verbs.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,12 +178,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27205fef611396e5",
+  "active": "59f4b9ce0ce4a71c",
   "lastOpenFiles": [
-    "Excalibrain.md",
+    "Functional Thinking.md",
     "Action Verbs.canvas",
     "Hotkeys.md",
-    "Functional Thinking.md",
+    "Excalibrain.md",
     "Feedback Loops.md",
     "Action Verbs.md",
     "Diminishing Returns.md",

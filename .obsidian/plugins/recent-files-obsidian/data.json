@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Hotkeys",
-      "path": "Hotkeys.md"
+      "basename": "Action Verbs",
+      "path": "Action Verbs.canvas"
     },
     {
       "basename": "Functional Thinking",
       "path": "Functional Thinking.md"
+    },
+    {
+      "basename": "Hotkeys",
+      "path": "Hotkeys.md"
     },
     {
       "basename": "Hotkeys",
@@ -195,10 +199,6 @@
     {
       "basename": "Trilling MIDI",
       "path": "Trilling MIDI.md"
-    },
-    {
-      "basename": "Transparent Shapes Layer",
-      "path": "Transparent Shapes Layer.md"
     }
   ],
   "omittedPaths": [],
