@@ -51,19 +51,21 @@
             }
           },
           {
-            "id": "39920d9dfb017fad",
+            "id": "7fa29c3c2ab7c900",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Functional Thinking.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Action Verbs.canvas",
+                "file": "Functional Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Action Verbs.canvas",
+                "file": "Functional Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,10 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59f4b9ce0ce4a71c",
+  "active": "7fa29c3c2ab7c900",
   "lastOpenFiles": [
-    "Functional Thinking.md",
     "Action Verbs.canvas",
+    "Functional Thinking.md",
     "Hotkeys.md",
     "Excalibrain.md",
     "Feedback Loops.md",
