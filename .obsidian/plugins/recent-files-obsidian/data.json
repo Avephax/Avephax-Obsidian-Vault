@@ -5,6 +5,10 @@
       "path": "Functional Thinking.md"
     },
     {
+      "basename": "Hindsight bias",
+      "path": "Hindsight bias.md"
+    },
+    {
       "basename": "Action Verbs",
       "path": "Action Verbs.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Turning Edge Shatter Technique",
       "path": "Turning Edge Shatter Technique.md"
-    },
-    {
-      "basename": "Turn and Pan Mental Imagery",
-      "path": "Turn and Pan Mental Imagery.md"
     }
   ],
   "omittedPaths": [],

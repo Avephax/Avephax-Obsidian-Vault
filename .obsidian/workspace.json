@@ -63,6 +63,18 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "2c40968caa7c6e23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hindsight bias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -194,15 +206,15 @@
   },
   "active": "7fa29c3c2ab7c900",
   "lastOpenFiles": [
-    "Action Verbs.canvas",
+    "Hindsight bias.md",
     "Functional Thinking.md",
+    "Action Verbs.canvas",
     "Hotkeys.md",
     "Excalibrain.md",
     "Feedback Loops.md",
     "Action Verbs.md",
     "Diminishing Returns.md",
     "Hock Principle.md",
-    "Hindsight bias.md",
     "Associative Learning.md",
     "Occam's Razor.md",
     "Inputs and Outputs.md",
