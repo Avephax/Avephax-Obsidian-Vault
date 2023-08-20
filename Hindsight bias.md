@@ -1,4 +1,3 @@
 - Prioritizes theory over practice. ^chhia
     - [[Hindsight bias#^chhia]]
-    - [[Associative Learning#^2y3be]]
     - [[Feedback Loops#^t0-4d]]

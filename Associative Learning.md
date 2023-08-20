@@ -1,7 +1,0 @@
-- Repeatedly reinforce positive emotions towards a task. ^dn0d7
-    - [[Associative Learning#^xsh0i]]
-    - [[Feedback Loops#^gam55]]
-- **Time** = Attention you place on any chain of actions. ^xsh0i
-    - [[Associative Learning#^1owg1]]
-- **Pause and ask yourself:** "And then what?" ^1owg1
-    - [[Associative Learning#^dn0d7]]

@@ -1,3 +1,3 @@
-- The value of any activity **decreases** the longer you do it. The goal is to **always operate** on the process stage of an activity, this way you'll be pulling in more benefits in the least amount of time. ^7mhoh
-	- [[Associative Learning#^l894n]]
+- The value of any activity **decreases** the longer you do it. ^7mhoh
+	- [[Diminishing Returns#^7mhoh]]
 	- [[Functional Thinking#^11kml]]
