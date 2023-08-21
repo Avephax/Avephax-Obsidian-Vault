@@ -77,9 +77,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "21fc27922f5d43ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Thinking.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feedback Loops.md",
+                "file": "Functional Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feedback Loops.md",
+                "file": "Functional Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,11 +218,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "458bc07a6625e04f",
+  "active": "21fc27922f5d43ca",
   "lastOpenFiles": [
+    "Hotkeys.md",
     "Functional Thinking.md",
     "Feedback Loops.md",
-    "Hotkeys.md",
     "Action Verbs.md",
     "Diminishing Returns.md",
     "Associative Learning Loop.md",
