@@ -1,7 +1,7 @@
 # Maskscot's System of Practices - Functional Thinking
-> A distilled version of my [Obsidian](https://obsidian.md/) PKM system for anyone to use for their endeavors.
+> A distilled version of my Vault for anyone to use for their endeavors.
 
-## Optimal for using the Loci Method, Feedback Loops, and Framework Thinking by reasoning and learning through function over form!
+## A mnemonic [Obsidian](https://obsidian.md/) system for using the Loci Method, Feedback Loops, and Functional Thinking by reasoning and learning through function over form!
 
 ![HrQBZoH8GS](https://github.com/Maskscot/System-of-Practices-by-Maskscot/assets/112918049/2c17f717-bab7-47b1-af8a-17e445e991b6)
 
