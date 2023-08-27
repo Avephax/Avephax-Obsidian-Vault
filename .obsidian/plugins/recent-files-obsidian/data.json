@@ -5,8 +5,16 @@
       "path": "Functional Thinking.md"
     },
     {
+      "basename": "Associative Learning Loop",
+      "path": "Associative Learning Loop.md"
+    },
+    {
       "basename": "Hotkeys",
       "path": "Hotkeys.md"
+    },
+    {
+      "basename": "Action Verbs",
+      "path": "Action Verbs.canvas"
     },
     {
       "basename": "Feedback Loops",
@@ -21,16 +29,8 @@
       "path": "Diminishing Returns.md"
     },
     {
-      "basename": "Associative Learning Loop",
-      "path": "Associative Learning Loop.md"
-    },
-    {
       "basename": "Hindsight bias",
       "path": "Hindsight bias.md"
-    },
-    {
-      "basename": "Action Verbs",
-      "path": "Action Verbs.canvas"
     },
     {
       "basename": "First Principles Thinking Systemic Model",

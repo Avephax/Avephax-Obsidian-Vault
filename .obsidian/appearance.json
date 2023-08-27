@@ -1,9 +1,8 @@
 {
   "accentColor": "#f9c50b",
-  "cssTheme": "Aura",
+  "cssTheme": "Royal Velvet",
   "enabledCssSnippets": [
-    "snippet — colored-folders",
-    "snippet — custom-list-styles__adding-decimals"
+    "snippet — colored-folders"
   ],
   "theme": "obsidian",
   "baseFontSize": 19,

@@ -1,17 +1,19 @@
 - ## Action Verbs^connections added 🧭 ^zse-t
     1. Open Excalibrain with **Ctrl + E** and click on a note.
-    2. **Connect** any action verbs **with Ctrl + L** **to copy-paste** a bullet point inside a note or outside another note.
+    2. **Ctrl + Enter** the top bullet point **to Ctrl + L and copy-paste** a new bullet point inside a note or outside another note.
     3. **Simplify** any action verb **with Alt/Ctrl + W** by Synonyms.
-    4. **Ctrl + S with line:()** to search any action verb you want and select copy search results to any notes tied to the aligned Action Verbs.
+    4. **Ctrl + S with line:()** on the search bar for any action verb(s) and select copy search results to any notes tied to the aligned Action Verb(s).
     5. **Alt + F** and/or **Ctrl + Tab** within indented links for newer notes.
-    6. **Alt + V to open** any video file or **Ctrl + T to open** any video link you paste into a note and then **Alt + B to Timestamp** Video or Audio.
+    6. **Click** a link to **Shift + ↔** or **Alt + ↔**!
     7. Use **Ctrl + Alt + L** to turn a note into Canvas file
-    8. **Click** a link to **Shift + ↔** or **Alt + ↔**! 
+    8. **Alt + V to open** any video file or **Ctrl + T to open** any video link you paste into a note and then **Alt + B to Timestamp** Video or Audio.
         - [[Hotkeys#^w1u5i]]
+        - [[Functional Thinking#^11kml]]
 
 ## Hotkeys 🧭
 - **Find and go through Notes** ^w1u5i
-    - line:() - **Search** a Hotkey 
+    - line:() - **Search** a Hotkey
+    - Alt + I - Clear Media Folder (for files you don’t use anymore)
     - Ctrl + E - Open Excalibrain
     - Ctrl + Shift + E - Open Excalibrain in Hover Editor
     - Ctrl + N - **Make** New Note
