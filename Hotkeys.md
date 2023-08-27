@@ -1,6 +1,6 @@
 - ## Action Verbs^connections added 🧭 ^zse-t
     1. Open Excalibrain with **Ctrl + E** and click on a note.
-    2. **Ctrl + Enter** the top bullet point **to Ctrl + L and copy-paste** a new bullet point inside a note or outside another note.
+    2. **Click Enter** behind the top bullet point's contents **to Ctrl + L and copy-paste** a new bullet point inside a note or outside another note.
     3. **Simplify** any action verb **with Alt/Ctrl + W** by Synonyms.
     4. **Ctrl + S with line:()** on the search bar for any action verb(s) and select copy search results to any notes tied to the aligned Action Verb(s).
     5. **Alt + F** and/or **Ctrl + Tab** within indented links for newer notes.

@@ -5,12 +5,12 @@
       "path": "Functional Thinking.md"
     },
     {
-      "basename": "Associative Learning Loop",
-      "path": "Associative Learning Loop.md"
-    },
-    {
       "basename": "Hotkeys",
       "path": "Hotkeys.md"
+    },
+    {
+      "basename": "Excalibrain",
+      "path": "Excalibrain.md"
     },
     {
       "basename": "Action Verbs",
@@ -19,6 +19,10 @@
     {
       "basename": "Feedback Loops",
       "path": "Feedback Loops.md"
+    },
+    {
+      "basename": "Associative Learning Loop",
+      "path": "Associative Learning Loop.md"
     },
     {
       "basename": "Action Verbs",
@@ -195,10 +199,6 @@
     {
       "basename": "Turning Rhythm",
       "path": "Turning Rhythm.md"
-    },
-    {
-      "basename": "Turning Edge Shatter Technique",
-      "path": "Turning Edge Shatter Technique.md"
     }
   ],
   "omittedPaths": [],

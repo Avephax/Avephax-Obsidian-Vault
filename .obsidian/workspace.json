@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Hotkeys.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "right": {
     "id": "7f60c61e79aca53a",
@@ -222,17 +223,17 @@
   },
   "active": "21fc27922f5d43ca",
   "lastOpenFiles": [
-    "Associative Learning Loop.md",
-    "Functional Thinking.md",
     "Hotkeys.md",
+    "Excalibrain.md",
     "Action Verbs.canvas",
+    "Functional Thinking.md",
     "Feedback Loops.md",
+    "Associative Learning Loop.md",
     "Action Verbs.md",
     "Diminishing Returns.md",
     "Media/Associative Learning Loop.png",
     "Hindsight bias.md",
     "Associative Learning.md",
-    "Excalibrain.md",
     "Hock Principle.md",
     "Occam's Razor.md",
     "Inputs and Outputs.md",
