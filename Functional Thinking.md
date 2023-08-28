@@ -1,13 +1,16 @@
 Functions either complement or oppose each other for any outcome.
-1. **Spot the Function adjacent to the Noun by an Action Verb** ^6br3d
+1. Recursively spot the action verb (function) and find its adjacent noun (form) ^6br3d
 	- [[Functional Thinking#^a5hxg]]
 	- [[Associative Learning Loop#^oa4e8]]
-1. **Spot the Form adjacent to the Action Verb by a Noun** ^a5hxg
+2. Recursively spot the noun (form) and find its adjacent action verb (function) ^a5hxg
 	- [[Functional Thinking#^cqe6x]]
 	- [[Functional Thinking#^6br3d]]
-2. **Using Antonyms for Negative Action Verbs when necessary** ^cqe6x
+3. Use an antonym towards any action verb (function) that acts negatively. ^cqe6x
     - [[Functional Thinking#^11kml]]
-3. **Ask How or Why questions at each answer’s Action Verb** and **Ask What, Where, Which, Who, When or Whose questions towards each answer’s Noun;** **[Explore other nouns](http://www.sinonimkata.com/) by synonyms of the action verb with Hyponyms and Hypernyms** ^11kml
-    - [[Functional Thinking#^6br3d]]
+4. Recursively ask how or why questions with hyponyms and hypernyms ([synonyms](http://www.sinonimkata.com/)) to get the action verbs (function) and what, where, who, which and when questions to get the nouns (form) ^11kml
+    - [[Functional Thinking#^rkcf4]]
     - [[Action Verbs#^w40ye]]
+    - [[Hotkeys#^zse-t]]
     - [[Feedback Loops#^w31xw]]
+5. Jot down and repeat those answers by the functions you can apply, similar and/or opposite together. ^rkcf4
+    - [[Functional Thinking#^6br3d]]
