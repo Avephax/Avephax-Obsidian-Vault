@@ -10,7 +10,7 @@ Functions either complement or oppose each other for any outcome.
 3. Use an antonym of any action verbs and the opposite of any negative functions by how they interact. ^cqe6x
     - [[Functional Thinking#^11kml]]
     - [[Associative Learning Loop#^okqvo]]
-4. Repeatedly use how or why questions through hyponyms and hypernyms ([synonyms](http://www.sinonimkata.com/)) to spot the action verbs (function) and then what, where, who, which and when questions for the adjacent nouns (form). ^11kml
+4. Repeatedly use how or why questions through hyponyms and hypernyms ([synonyms](http://www.sinonimkata.com/)) with the present action verbs (function) and then what, where, who, which and when questions to spot the adjacent nouns (form). ^11kml
     - [[Functional Thinking#^6br3d]]
     - [[Functional Thinking#^rkcf4]]
     - [[Action Verbs#^w40ye]]
