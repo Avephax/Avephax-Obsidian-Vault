@@ -1,0 +1,10 @@
+{
+	"id": "file-diff",
+	"name": "File Diff",
+	"version": "1.0.13",
+	"minAppVersion": "0.15.0",
+	"description": "Shows the differences between two files..",
+	"author": "Till Friebe",
+	"authorUrl": "https://friebetill.github.io/",
+	"isDesktopOnly": false
+}

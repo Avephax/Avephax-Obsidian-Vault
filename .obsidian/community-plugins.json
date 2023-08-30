@@ -35,5 +35,7 @@
   "link-exploder",
   "obsidian-image-toolkit",
   "url-into-selection",
-  "obsidian-paste-image-rename"
+  "obsidian-paste-image-rename",
+  "file-diff",
+  "obsidian-list-callouts"
 ]
