@@ -1,20 +1,23 @@
 Functions either complement or oppose each other for any outcome.
-1. Repeatedly spot the action verb (function) and its adjacent noun (form) by how they interact. ^6br3d
-	- [[Functional Thinking#^11kml]]
+- ! **Layer 1**
+1. Choose an action verb (function) controlling a noun (form), or a noun (form) controlled by an action verb (function). ^6br3d
 	- [[Functional Thinking#^a5hxg]]
+	- [[Functional Thinking#^11kml]]
 	- [[Associative Learning Loop#^oa4e8]]
-2. Repeatedly spot the noun (form) and its adjacent action verb (function) by how they interact. ^a5hxg
+2. Within the noun in Step 1, repeat Step 1 to find new nouns inside/within and repeat Step 1 again to identify new action verbs for each newfound noun. ^a5hxg
+	- [[Functional Thinking#^cqe6x]]
 	- [[Functional Thinking#^11kml]]
 	- [[Functional Thinking#^6br3d]]
-	- [[Functional Thinking#^cqe6x]]
-3. Use an antonym of any action verbs and the opposite of any negative functions by how they interact. ^cqe6x
+- ? **Layer 2**
+3. Use an antonym of any action verbs for the opposite of any negative functions you spot. ^cqe6x
     - [[Functional Thinking#^11kml]]
     - [[Associative Learning Loop#^okqvo]]
-4. Repeatedly use how or why questions through hyponyms and hypernyms ([synonyms](http://www.sinonimkata.com/)) with the present action verbs (function) and then what, where, who, which and when questions to spot the adjacent nouns (form). ^11kml
-    - [[Functional Thinking#^6br3d]]
+4. Recursively replace action verbs (functions) within the nouns (forms) from step 2 with hyponyms and hypernyms ([synonyms](http://www.sinonimkata.com/)) and use them with what, where, who, which, and when questions. ^11kml
     - [[Functional Thinking#^rkcf4]]
+    - [[Functional Thinking#^6br3d]]
     - [[Action Verbs#^w40ye]]
     - [[Hotkeys#^zse-t]]
     - [[Feedback Loops#^w31xw]]
+- @ **Layer 3**
 5. Jot down and repeat those answers by the functions you can apply, similar and/or juxtaposed together. ^rkcf4
     - [[Functional Thinking#^6br3d]]
