@@ -42,9 +42,9 @@
               "state": {
                 "file": "Action Verbs.canvas",
                 "viewState": {
-                  "x": 1250,
-                  "y": 1661.3307262569833,
-                  "zoom": -2.0053631847670927
+                  "x": 1257.5839793205132,
+                  "y": 1669.7625826301469,
+                  "zoom": -1.9075407408745704
                 }
               },
               "pinned": true
@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Thinking.md",
+                "file": "Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Thinking.md",
+                "file": "Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,13 +202,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21fc27922f5d43ca",
+  "active": "27205fef611396e5",
   "lastOpenFiles": [
-    "Feedback Loops.md",
-    "Action Verbs.canvas",
     "Excalibrain.md",
-    "Hotkeys.md",
+    "Action Verbs.canvas",
+    "Feedback Loops.md",
     "Functional Thinking.md",
+    "Hotkeys.md",
     "maskscot-system-of-practices-pkm-functions.zip",
     "Associative Learning Loop.md",
     "Action Verbs.md",

@@ -1,4 +1,4 @@
-Functions either complement or oppose each other for any outcome.
+Forms are factors, and Functions are what you control; Functions either complement or mix with each other for any outcome.
 - ! **Layer 1**
 1. Choose an action verb (function) controlling a noun (form), or a noun (form) controlled by an action verb (function). ^6br3d
 	- [[Functional Thinking#^a5hxg]]
