@@ -10,6 +10,10 @@
     },
     {
       "basename": "Action Verbs",
+      "path": "Action Verbs.md"
+    },
+    {
+      "basename": "Action Verbs",
       "path": "Action Verbs.canvas"
     },
     {
@@ -19,10 +23,6 @@
     {
       "basename": "Functional Thinking",
       "path": "Functional Thinking.md"
-    },
-    {
-      "basename": "Action Verbs",
-      "path": "Action Verbs.md"
     },
     {
       "basename": "Associative Learning Loop",
