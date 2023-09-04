@@ -3,7 +3,7 @@
 
 ## A mnemonic [Obsidian](https://obsidian.md/) system for using the Loci Method, Feedback Loops, and Functional Thinking by reasoning and learning through function over form!
 
-![Obsidian_8XkbQGsRCL](https://github.com/Maskscot/System-of-Practices-by-Maskscot/assets/112918049/10253aec-c0d5-467c-8f44-698e38f27eb0)
+![Obsidian_mVC4PZM8Cf](https://github.com/Maskscot/System-of-Practices-by-Maskscot/assets/112918049/65cc0a3d-627f-46c1-a340-2714d6853259)
 
 ### Featured Plugins Used:
 - **Carry-Forward** - https://github.com/jglev/obsidian-carry-forward
