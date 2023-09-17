@@ -1,3 +1,11 @@
+- Set and know your limits. ^tywot
+    - [[Associative Learning Loop#^1dnr-]]
+- Underwhelm the impact. ^1dnr-
+    - [[Associative Learning Loop#^kz2y3]]
+- Withstand with strength. ^kz2y3
+    - [[Associative Learning Loop#^p91ts]]
+- Select carefully from a person. ^p91ts
+    - [[Associative Learning Loop#^okqvo]]
 - The function of your feelings can’t be relieved, only replaced to be decreased.
     ![[Associative Learning Loop.png|700]] ^oa4e8
     - [[Associative Learning Loop#^oa4e8]]

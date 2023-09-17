@@ -21,6 +21,10 @@
       "path": "Feedback Loops.md"
     },
     {
+      "basename": "Associative Thinking",
+      "path": "Associative Thinking.md"
+    },
+    {
       "basename": "Functional Thinking",
       "path": "Functional Thinking.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Types of Compression",
       "path": "Types of Compression.md"
-    },
-    {
-      "basename": "Turning Rhythm",
-      "path": "Turning Rhythm.md"
     }
   ],
   "omittedPaths": [],

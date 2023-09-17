@@ -44,7 +44,7 @@
                 "viewState": {
                   "x": 1250,
                   "y": 1680,
-                  "zoom": -2.0053631847670927
+                  "zoom": -1.7078192485066896
                 }
               },
               "pinned": true
@@ -58,6 +58,18 @@
               "state": {
                 "file": "Feedback Loops.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8526432d6b7be6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Associative Thinking.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -127,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "asso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +148,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,6 +192,16 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "33dcd8eae533101f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -195,10 +218,11 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "surfing:surfing-bookmark-manager": false,
-      "meld-encrypt:Create new encrypted note": false,
-      "obsidian-wordnet-plugin:WordNet Dictionary": false,
       "workspaces:Manage workspace layouts": false,
+      "surfing:surfing-bookmark-manager": false,
+      "obsidian-wordnet-plugin:WordNet Dictionary": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
@@ -207,10 +231,11 @@
     "Excalibrain.md",
     "Action Verbs.canvas",
     "Feedback Loops.md",
+    "Associative Thinking.md",
     "Functional Thinking.md",
     "Hotkeys.md",
-    "maskscot-system-of-practices-pkm-functions.zip",
     "Associative Learning Loop.md",
+    "maskscot-system-of-practices-pkm-functions.zip",
     "Action Verbs.md",
     "Diminishing Returns.md",
     "Media/Associative Learning Loop.png",
@@ -243,7 +268,6 @@
     "Catalog/Templates/Critical Linking.md",
     "Untitled 2.md",
     "Abstracting and Actualizing.md",
-    "Insight.md",
     "Intuition.canvas",
     "Insight.canvas",
     "Catalog/Abstracting and Actualizing.pdf",
