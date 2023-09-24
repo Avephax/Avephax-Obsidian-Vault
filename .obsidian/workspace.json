@@ -69,7 +69,7 @@
               "type": "markdown",
               "state": {
                 "file": "Associative Thinking.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,8 +86,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Thinking.md",
+                "file": "Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Thinking.md",
+                "file": "Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,15 +226,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21fc27922f5d43ca",
+  "active": "27205fef611396e5",
   "lastOpenFiles": [
-    "Hotkeys.md",
-    "maskscot-system-of-practices-pkm-functions.zip",
     "Excalibrain.md",
     "Action Verbs.canvas",
     "Feedback Loops.md",
     "Associative Thinking.md",
     "Functional Thinking.md",
+    "Hotkeys.md",
+    "maskscot-system-of-practices-pkm-functions.zip",
     "Associative Learning Loop.md",
     "Action Verbs.md",
     "Diminishing Returns.md",

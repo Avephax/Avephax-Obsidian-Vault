@@ -1,22 +1,34 @@
-Forms are factors, and Functions are what you control; Functions either complement or mix with each other for any outcome.
+Forms are factors, and Functions are actions you can control; Functions either complement or mix with each other for any outcome.
 - **Layer 1** - Identify, Define, and Link Functions
-1. Choose a verb (function) controlling a noun (form), or a noun (form) controlled by an action verb (function) and identify the noun (form)'s definition. ^6br3d
+1. Define a function (action verbs) controlling the form (nouns), or the form controlled by a function. ^6br3d
 	- [[Functional Thinking#^a5hxg]]
-2. Recursively find forms (nouns) within the definition and define those forms (nouns) next to functions (action verbs) to find those forms (nouns) to define. ^a5hxg
+2. Recursively find forms (nouns) within the definition and define those forms next to functions (action verbs) to find those forms (nouns) to define. ^a5hxg
 	- [[Functional Thinking#^cqe6x]]
 	- [[Functional Thinking#^11kml]]
 	- [[Functional Thinking#^6br3d]]
 	- [[Associative Thinking#^ahryr]]
 - **Layer 2** - Replacing Functions in any Problem
-3. Use an antonym for any action verb (function) to replace any negative functions and identify new nouns (forms) within. ^cqe6x
+3. Use an antonym for any function (action verbs) to replace any negative functions (action verbs) and identify new forms (nouns) within. ^cqe6x
     - [[Functional Thinking#^11kml]]
     - [[Associative Learning Loop#^okqvo]]
-4. Recursively replace verbs (functions) for the desired outcome (form) with synonyms ([hyponyms and hypernyms](http://www.sinonimkata.com/)) and find the nouns (forms) within to identify newer definitions. ^11kml
+4. Recursively replace functions (action verbs) of the desired outcome (form) with synonyms ([hyponyms and hypernyms](http://www.sinonimkata.com/)) and find the forms (nouns) within to define. ^11kml
     - [[Functional Thinking#^rkcf4]]
     - [[Functional Thinking#^6br3d]]
     - [[Action Verbs#^w40ye]]
     - [[Hotkeys#^zse-t]]
     - [[Feedback Loops#^w31xw]]
 - **Layer 3** - Add Functions together into a Feedback Loop
-5. Jot down, combine and repeat the similar and/or opposite functions you can apply for any and all outcomes. ^rkcf4
+5. Write down, combine, extrapolate and repeat the similar and/or opposite functions (action verbs) and forms (nouns) you can apply within and between any and all loop(s). ^rkcf4
     - [[Functional Thinking#^6br3d]]
+
+----
+*Generalized Version*
+Forms are factors, and Functions are actions you can control; Functions either complement or mix with each other for any outcome.
+- **Layer 1** - Identify, Define, and Link Functions
+1. Define a function controlling the form, or the form controlled by a function.
+2. Recursively find forms within the definition and define those forms next to functions to find those forms to define.
+- **Layer 2** - Replacing Functions in any Problem
+3. Use an antonym for any function to replace any negative functions and identify new forms within.
+4. Recursively replace functions of the desired outcome (form) with synonyms (hyponyms and hypernyms) and find the forms within to define.
+- **Layer 3** - Add Functions together into a Feedback Loop
+5. Write down, combine, extrapolate and repeat the similar and/or opposite functions and forms you can apply within and between any and all loop(s).
