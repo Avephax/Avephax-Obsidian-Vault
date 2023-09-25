@@ -1,6 +1,7 @@
-Forms are factors, and Functions are actions you can control; Functions either complement or mix with each other for any outcome.
+Functions either complement or mix with each other for any outcome;
+Forms are factors, and follow Functions are actions you can control.
 - **Layer 1** - Identify, Define, and Link Functions
-1. Define a function (action verbs) controlling the form (nouns), or the form controlled by a function. ^6br3d
+1. Define (by asking why, what, where, how, who) a function (action verbs) controlling the form (nouns), or the form controlled by a function. ^6br3d
 	- [[Functional Thinking#^a5hxg]]
 2. Recursively find forms (nouns) within the definition and define those forms next to functions (action verbs) to find those forms (nouns) to define. ^a5hxg
 	- [[Functional Thinking#^cqe6x]]
@@ -23,9 +24,10 @@ Forms are factors, and Functions are actions you can control; Functions either c
 
 ----
 *Generalized Version*
-Forms are factors, and Functions are actions you can control; Functions either complement or mix with each other for any outcome.
+Functions either complement or mix with each other for any outcome;  
+Forms are factors, and follow Functions are actions you can control.
 - **Layer 1** - Identify, Define, and Link Functions
-1. Define a function controlling the form, or the form controlled by a function.
+1. Define (by asking why, what, where, how, who) a function controlling the form, or the form controlled by a function.
 2. Recursively find forms within the definition and define those forms next to functions to find those forms to define.
 - **Layer 2** - Replacing Functions in any Problem
 3. Use an antonym for any function to replace any negative functions and identify new forms within.
