@@ -1,5 +1,5 @@
 Functions either complement or mix with each other for any outcome;
-Forms are factors, and follow Functions are actions you can control.
+Forms are factors and follows Functions which are actions you can control.
 - **Layer 1** - Identify, Define, and Link Functions
 1. Define (by asking why, what, where, how, who) a function (action verbs) controlling the form (nouns), or the form controlled by a function. ^6br3d
 	- [[Functional Thinking#^a5hxg]]
