@@ -13,4 +13,3 @@ My approach of understanding the world around us.
 - **Hover Editor** - https://github.com/nothingislost/obsidian-hover-editor
 - **Excalibrain** - https://github.com/zsviczian/excalibrain
 - **Link Exploder** - https://github.com/benhughes/obsidian-link-exploder
-- **WordNet** - https://github.com/TfTHacker/Obsidian-WordNet
