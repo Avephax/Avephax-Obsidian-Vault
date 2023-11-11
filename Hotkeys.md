@@ -1,15 +1,6 @@
-- ## Action Verbs^connections added 🧭 ^zse-t
-    1. Open Excalibrain with **Ctrl + E** and click on a note.
-    2. **Click Enter** behind the top bullet point's contents **to Ctrl + L and copy-paste** a new bullet point inside a note or outside another note.
-    3. **Simplify** any action verb **with Alt/Ctrl + W** by Synonyms.
-    4. **Ctrl + S with line:()** on the search bar for any action verb(s) and select copy search results to any notes tied to the aligned Action Verb(s).
-    5. **Alt + F** and/or **Ctrl + Tab** within indented links for newer notes.
-    6. **Click** a link to **Shift + ↔** or **Alt + ↔**!
-    7. Use **Ctrl + Alt + L** to turn a note into Canvas file
-    8. **Alt + V to open** any video file or **Ctrl + T to open** any video link you paste into a note and then **Alt + B to Timestamp** Video or Audio.
-        - [[Hotkeys#^w1u5i]]
-        - [[Functional Thinking#^11kml]]
-
+- ## Functions^connections added 🧭 ^zse-t
+	- [[Hotkeys#^w1u5i]]
+	- [[Functional Thinking#^11kml]]
 ## Hotkeys 🧭
 - **Find and go through Notes** ^w1u5i
     - line:() - **Search** a Hotkey
@@ -50,12 +41,7 @@
     - Alt + Shift + L - Delete Links
     - Ctrl + Alt + O - Copy Obsidian URL
     - Ctrl + Shift + L = **Link** Media
-    - Alt + L = **Fix** and Repair Link
-        - Hypernym:: Main Action Verb (Parent)
-        - Hyponym:: Specific Action Verb (Child)
-        - Synonym:: Same Action Verb (Sibling)
-        - Antonym:: Different Action Verb (Doppelganger)
-            - [[Hotkeys#^umjo2]]
+		- [[Hotkeys#^umjo2]]
 
 - **Media** ^umjo2
     - Ctrl + Click = **Click** on an Image in Hover Editor
