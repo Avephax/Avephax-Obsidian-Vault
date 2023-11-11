@@ -3,16 +3,16 @@ Forms are factors and follows Functions which are actions you can control.
 - **Layer 1** - Identify, Define, and Link Functions
 1. Define (by asking why, what, where, how, who) a function (action verbs) controlling the form (nouns), or the form controlled by a function. ^6br3d
 	- [[Functional Thinking#^a5hxg]]
-2. Recursively find forms (nouns) within the definition and define those forms and their functions (action verbs) to find those forms (nouns) to define. ^a5hxg
+2. Recursively go into or return to forms (nouns) within the definition and define those forms within their functions (action verbs). ^a5hxg
 	- [[Functional Thinking#^cqe6x]]
 	- [[Functional Thinking#^11kml]]
 	- [[Functional Thinking#^6br3d]]
 	- [[Associative Thinking#^ahryr]]
 - **Layer 2** - Replacing Functions in any Problem
-3. Use an antonym for any function (action verbs) to replace any negative functions (action verbs) and identify new forms (nouns) within. ^cqe6x
+3. Use an antonym for any negative functions (action verbs) and define new forms (nouns) within. ^cqe6x
     - [[Functional Thinking#^11kml]]
     - [[Associative Learning Loop#^okqvo]]
-4. Recursively define synonyms in the functions of the form with ([hyponyms and hypernyms](http://www.sinonimkata.com/)) and define forms within to replace. ^11kml
+4. Recursively replace functions (action verbs) of the form with synonyms ([hyponyms and hypernyms](http://www.sinonimkata.com/)) and go into or return to the forms (nouns) within to define. ^11kml
     - [[Functional Thinking#^rkcf4]]
     - [[Functional Thinking#^6br3d]]
     - [[Action Verbs#^w40ye]]
@@ -28,9 +28,9 @@ Functions either complement or mix with each other for any outcome;
 Forms are factors, and follow Functions are actions you can control.
 - **Layer 1** - Identify, Define, and Link Functions
 1. Define (by asking why, what, where, how, who) a function controlling the form, or the form controlled by a function.
-2. Recursively find forms within the definition and define those forms and their functions to find those forms to define.
+2. Recursively go into or return to forms within the definition and define those forms within their functions.
 - **Layer 2** - Replacing Functions in any Problem
-3. Use an antonym for any function to replace any negative functions and identify new forms within.
-4. Recursively define synonyms in the functions of the form with  (hyponyms and hypernyms) and define forms within to replace.
+3. Use an antonym for any negative functions and define new forms within.
+4. Recursively define functions of the form with synonyms (hyponyms and hypernyms) and go into or return to the forms within to define.
 - **Layer 3** - Add Functions together into a Feedback Loop
 5. Write down, combine, extrapolate and repeat the similar and/or opposite functions and forms you can apply within and between any and all loop(s).

@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Functional Thinking.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -84,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "Functional Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "Functional Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,14 +225,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27205fef611396e5",
+  "active": "21fc27922f5d43ca",
   "lastOpenFiles": [
+    "Associative Thinking.md",
+    "Hotkeys.md",
     "Feedback Loops.md",
     "Action Verbs.canvas",
     "Excalibrain.md",
-    "Associative Thinking.md",
     "Functional Thinking.md",
-    "Hotkeys.md",
     "maskscot-system-of-practices-pkm-functions.zip",
     "Associative Learning Loop.md",
     "Action Verbs.md",
