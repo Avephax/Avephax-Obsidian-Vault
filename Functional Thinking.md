@@ -1,36 +1,25 @@
-Functions either complement or mix with each other for any outcome;
-Forms are factors and follows Functions which are actions you can control.
+Functions interconnect, both in explicit and implicit forms. They can either complement or mix with others for any outcome.
 - **Layer 1** - Identify, Define, and Link Functions
-1. Define (by asking why, what, where, how, who) a function (action verbs) controlling the form (nouns), or the form controlled by a function. ^6br3d
+1. Define (and go into or return to why, what, where, how, who) a form (noun) extracted from a function (action verb) or a function by the form extracted. ^6br3d
 	- [[Functional Thinking#^a5hxg]]
-2. Recursively go into or return to forms (nouns) within the definition and define those forms within their functions (action verbs). ^a5hxg
+2. Go into or return to defining forms (nouns) and extract related forms next of their defined functions [(action verbs)](http://www.sinonimkata.com/). ^a5hxg
 	- [[Functional Thinking#^cqe6x]]
-	- [[Functional Thinking#^11kml]]
-	- [[Functional Thinking#^6br3d]]
-	- [[Associative Thinking#^ahryr]]
 - **Layer 2** - Replacing Functions in any Problem
-3. Use an antonym for any negative functions (action verbs) and define new forms (nouns) within. ^cqe6x
-    - [[Functional Thinking#^11kml]]
-    - [[Associative Learning Loop#^okqvo]]
-4. Recursively replace functions (action verbs) of the form with synonyms ([hyponyms and hypernyms](http://www.sinonimkata.com/)) and go into or return to the forms (nouns) within to define. ^11kml
+3. Define an antonym/opposite function (action verbs) from any negative function and define newly forms (nouns) to extract. ^cqe6x
     - [[Functional Thinking#^rkcf4]]
+    - [[Associative Learning Loop#^okqvo]]
+4. Relate, combine and extrapolate functions (action verbs) by new and previous defined forms (nouns) and repeat. ^rkcf4
     - [[Functional Thinking#^6br3d]]
     - [[Action Verbs#^w40ye]]
     - [[Hotkeys#^zse-t]]
     - [[Feedback Loops#^w31xw]]
-- **Layer 3** - Add Functions together into a Feedback Loop
-5. Write down, combine, extrapolate and repeat the similar and/or opposite functions (action verbs) and forms (nouns) you can apply within and between any and all loop(s). ^rkcf4
-    - [[Functional Thinking#^6br3d]]
 
 ----
 *Generalized Version*
-Functions either complement or mix with each other for any outcome;  
-Forms are factors, and follow Functions are actions you can control.
+Functions interconnect, both in explicit and implicit forms. They can either complement or mix with others for any outcome.
 - **Layer 1** - Identify, Define, and Link Functions
-1. Define (by asking why, what, where, how, who) a function controlling the form, or the form controlled by a function.
-2. Recursively go into or return to forms within the definition and define those forms within their functions.
+1. Define (and go into or return to why, what, where, how, who) a form extracted from a function or a function by the form extracted.
+2. Go into or return to defining forms and extract related forms next of their defined functions.
 - **Layer 2** - Replacing Functions in any Problem
-3. Use an antonym for any negative functions and define new forms within.
-4. Recursively define functions of the form with synonyms (hyponyms and hypernyms) and go into or return to the forms within to define.
-- **Layer 3** - Add Functions together into a Feedback Loop
-5. Write down, combine, extrapolate and repeat the similar and/or opposite functions and forms you can apply within and between any and all loop(s).
+3. Define an antonym/opposite function from any negative function and define newly forms to extract.
+4. Relate, combine and extrapolate functions by new and previous defined forms and repeat.
