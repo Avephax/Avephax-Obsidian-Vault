@@ -1,4 +1,9 @@
-- ## Functions^connections added 🧭 ^zse-t
+- ## Any Bullet Point ^ [[]] ^zse-t
+    Step 1: Write anything in bullet points following my [[Functional Thinking]] framework.
+    Step 2: Use the Search function the names with the line: option.
+    	Step 2b: Click the Match-case button if needed.
+    Step 3: Click the results tab, “copy search results”, then choose a Link style and List Prefix and Click “Copy results”.
+    Step 4: Paste links under sub-bullet points.
 	- [[Hotkeys#^w1u5i]]
 	- [[Functional Thinking#^11kml]]
 ## Hotkeys 🧭
@@ -27,7 +32,6 @@
     - Alt + B - Timestamp Video or Audio
     - Ctrl + ↕ = **Move** a bullet point's position
     - Ctrl + Alt + C = **Turn** Page into Hover Tab (Hover Editor)
-    - Alt + H = Remove Highlight
     - Ctrl + Shift + C = **Insert** Template Syntax
     - Ctrl + P = Command Palette
         - [[Hotkeys#^an8nq]]

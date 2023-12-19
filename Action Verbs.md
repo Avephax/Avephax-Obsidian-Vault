@@ -2,7 +2,5 @@
     - [[Feedback Loops#^gam55]]
     - [[Functional Thinking#^11kml]]
 - Search up Hyponyms to specify action verbs, Hypernyms to simplify action verbs, Synonyms to relate action verbs and Antonyms to change action verbs. ^w40ye
-    - [[Functional Thinking#^2bkn0]]
-    - [[Action Verbs#^8voe5]]
-- Read groups of words at a time by pairs of 4, and pick out the action verbs when present. ^8voe5
     - [[Action Verbs#^jc4og]]
+    - [[Functional Thinking#^2bkn0]]
