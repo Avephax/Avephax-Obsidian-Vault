@@ -3,7 +3,7 @@
 
 ## A mnemonic [Obsidian](https://obsidian.md/) system for using the Loci Method, Feedback Loops, and Functional Thinking by reasoning and learning through function and form!
 
-![fully-perfect-maskscot-system](https://github.com/Maskscot/System-of-Practices-by-Maskscot/assets/112918049/e8617d2e-be59-47c9-89b5-df24dafee255)
+![Obsidian_IulQoJPo0V](https://github.com/Maskscot/System-of-Practices-by-Maskscot/assets/112918049/ba809250-d835-481f-b20f-f749932732d0)
 
 My approach of understanding the world around us.
 
