@@ -1,5 +1,5 @@
 - ## Any Bullet Point ^ [[]] ^zse-t
-    Step 1: Write anything in bullet points following my [[Functional Thinking]] framework.
+    Step 1: Write anything in bullet points following my Functional Thinking framework.
     Step 2: Use the Search function the names with the line: option.
     	Step 2b: Click the Match-case button if needed.
     Step 3: Click the results tab, “copy search results”, then choose a Link style and List Prefix and Click “Copy results”.
@@ -36,7 +36,7 @@
     - Ctrl + P = Command Palette
         - [[Hotkeys#^an8nq]]
 
-- **Make and go** through links ^an8nq
+- **Make and go** through **links** ^an8nq
     - Ctrl + L - **Carry** Link to another Note (Carry-Forward)
     - Ctrl + Shift + L - **Link** Info from a Source (Carry-Forward)
     - Ctrl + Alt + L - Turn Note into Canvas MOC
