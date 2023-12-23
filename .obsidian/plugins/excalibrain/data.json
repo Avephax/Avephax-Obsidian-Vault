@@ -1,5 +1,7 @@
 {
   "compactView": false,
+  "compactingFactor": 1.5,
+  "minLinkLength": 18,
   "excalibrainFilepath": "Excalibrain.md",
   "indexUpdateInterval": 25000,
   "hierarchy": {
@@ -77,10 +79,13 @@
   },
   "inferAllLinksAsFriends": false,
   "inverseInfer": false,
+  "inverseArrowDirection": true,
   "renderAlias": true,
   "nodeTitleScript": "",
   "backgroundColor": "#33618aff",
   "excludeFilepaths": [],
+  "autoOpenCentralDocument": true,
+  "toggleEmbedTogglesAutoOpen": true,
   "showInferredNodes": true,
   "showAttachments": false,
   "showURLNodes": true,
@@ -261,7 +266,8 @@
     "Hindsight bias.md",
     "First Principles Thinking.md",
     "Feedback Loops.md",
-    "Hotkeys.md"
+    "Hotkeys.md",
+    "Functional Thinking.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

@@ -222,6 +222,18 @@ function clonePath(path) {
   };
 }
 var characterDiff = new Diff();
+function generateOptions(options, defaults) {
+  if (typeof options === "function") {
+    defaults.callback = options;
+  } else if (options) {
+    for (var name in options) {
+      if (options.hasOwnProperty(name)) {
+        defaults[name] = options[name];
+      }
+    }
+  }
+  return defaults;
+}
 var extendedWordChars = /^[A-Za-z\xC0-\u02C6\u02C8-\u02D7\u02DE-\u02FF\u1E00-\u1EFF]+$/;
 var reWhitespace = /\S/;
 var wordDiff = new Diff();
@@ -243,6 +255,12 @@ wordDiff.tokenize = function(value) {
   }
   return tokens;
 };
+function diffWords(oldStr, newStr, options) {
+  options = generateOptions(options, {
+    ignoreWhitespace: true
+  });
+  return wordDiff.diff(oldStr, newStr, options);
+}
 var lineDiff = new Diff();
 lineDiff.tokenize = function(value) {
   var retLines = [], linesAndNewlines = value.split(/(\n|\r\n)/);
@@ -802,10 +820,6 @@ var DeleteFileModal = class extends import_obsidian.Modal {
   handleDeleteClick() {
     this.app.vault.delete(this.file2);
     this.close();
-    const leaf = this.app.workspace.getLeaf();
-    if (leaf != null) {
-      leaf.openFile(this.file1);
-    }
     this.onDone(null);
   }
 };
@@ -861,16 +875,6 @@ var DifferencesView = class extends import_obsidian2.ItemView {
       this.file2Lines.join("\n")
     );
     this.fileDifferences = FileDifferences.fromParsedDiff(parsedDiff);
-    this.lineCount = Math.max(
-      this.file1Lines.length - // Count each difference as one line
-      this.fileDifferences.differences.filter(
-        (d) => d.file1Lines.length > 0
-      ).length,
-      this.file2Lines.length - // Count each difference as one line
-      this.fileDifferences.differences.filter(
-        (d) => d.file2Lines.length > 0
-      ).length
-    );
   }
   build() {
     this.contentEl.empty();
@@ -887,7 +891,8 @@ var DifferencesView = class extends import_obsidian2.ItemView {
   buildLines(container) {
     let lineCount1 = 0;
     let lineCount2 = 0;
-    while (lineCount1 <= this.lineCount || lineCount2 <= this.lineCount) {
+    const maxLineCount = Math.max(this.file1Lines.length, this.file2Lines.length);
+    while (lineCount1 <= maxLineCount || lineCount2 <= maxLineCount) {
       const difference = this.fileDifferences.differences.find(
         // eslint-disable-next-line no-loop-func
         (d) => d.file1Start === lineCount1 && d.file2Start === lineCount2
@@ -912,10 +917,6 @@ var DifferencesView = class extends import_obsidian2.ItemView {
     }
   }
   buildDifferenceVisualizer(container, difference) {
-    const triggerRebuild = async () => {
-      await this.updateState();
-      this.build();
-    };
     if (this.state.showMergeOption) {
       new ActionLine({
         difference,
@@ -923,26 +924,65 @@ var DifferencesView = class extends import_obsidian2.ItemView {
         file2: this.state.file2,
         file1Content: this.file1Content,
         file2Content: this.file2Content,
-        triggerRebuild
+        triggerRebuild: async () => {
+          await this.updateState();
+          this.build();
+        }
       }).build(container);
     }
     for (let i = 0; i < difference.file1Lines.length; i += 1) {
-      const line = difference.file1Lines[i];
-      container.createDiv({
-        // Necessary to give the line a height when it's empty.
-        text: preventEmptyString(line),
-        cls: "file-diff__line file-diff__top-line__bg"
-      });
+      const line1 = difference.file1Lines[i];
+      const line2 = difference.file2Lines[i];
+      const lineDiv = container.createDiv({ cls: "file-diff__line file-diff__top-line__bg" });
+      const diffSpans = this.buildDiffLine(line1, line2, "file-diff_top-line__character");
+      if (i < difference.file1Lines.length - 1 || difference.file2Lines.length !== 0) {
+        lineDiv.classList.add("file-diff__no-bottom-border");
+      }
+      if (i !== 0) {
+        lineDiv.classList.add("file-diff__no-top-border");
+      }
+      lineDiv.appendChild(diffSpans);
     }
     for (let i = 0; i < difference.file2Lines.length; i += 1) {
-      const line = difference.file2Lines[i];
-      container.createDiv({
-        // Necessary to give the line a height when it's empty.
-        text: preventEmptyString(line),
-        cls: "file-diff__line file-diff__bottom-line__bg"
-        // cls: 'file-diff__line ',
-      });
+      const line1 = difference.file1Lines[i];
+      const line2 = difference.file2Lines[i];
+      const lineDiv = container.createDiv({ cls: "file-diff__line file-diff__bottom-line__bg" });
+      const diffSpans = this.buildDiffLine(line2, line1, "file-diff_bottom-line__character");
+      if (i == 0 && difference.file1Lines.length > 0 || i > 0) {
+        lineDiv.classList.add("file-diff__no-top-border");
+      }
+      if (i < difference.file2Lines.length - 1) {
+        lineDiv.classList.add("file-diff__no-bottom-border");
+      }
+      lineDiv.appendChild(diffSpans);
     }
+  }
+  buildDiffLine(line1, line2, charClass) {
+    const fragment = document.createElement("div");
+    if (line1 != void 0 && line1.length === 0) {
+      fragment.textContent = preventEmptyString(line1);
+    } else if (line1 != void 0 && line2 != void 0) {
+      const differences = diffWords(line2, line1);
+      for (const difference of differences) {
+        if (difference.removed) {
+          continue;
+        }
+        const span = document.createElement("span");
+        span.textContent = preventEmptyString(difference.value);
+        if (difference.added) {
+          span.classList.add(charClass);
+        }
+        fragment.appendChild(span);
+      }
+    } else if (line1 != void 0 && line2 == void 0) {
+      const span = document.createElement("span");
+      span.textContent = preventEmptyString(line1);
+      span.classList.add(charClass);
+      fragment.appendChild(span);
+    } else {
+      fragment.textContent = preventEmptyString(line1);
+    }
+    return fragment;
   }
   scrollToFirstDifference() {
     if (this.fileDifferences.differences.length === 0) {
@@ -1148,7 +1188,7 @@ var FileDiffPlugin = class extends import_obsidian5.Plugin {
   }
   async openDifferencesView(state) {
     this.app.workspace.detachLeavesOfType(VIEW_TYPE_DIFFERENCES);
-    const leaf = await this.app.workspace.getLeaf(true);
+    const leaf = this.app.workspace.getLeaf(true);
     leaf.setViewState({
       type: VIEW_TYPE_DIFFERENCES,
       active: true,

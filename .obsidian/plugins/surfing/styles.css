@@ -1,86 +1,86 @@
-/* esbuild-css-modules-plugin-namespace:.\src\component\TabTreeView\CustomNode.module.css?esbuild-css-modules-plugin-built */
-.surfing_root_px3YjW {
-  height: 32px;
+/* esbuild-css-modules-plugin-namespace:./src/component/TabTreeView/CustomNode.module.css?esbuild-css-modules-plugin-built */
+.surfing_root_TqXXoa {
   border-radius: var(--size-2-2);
   border-bottom: 1px solid #eee;
   grid-template-columns: auto auto 1fr auto;
   align-items: center;
+  height: 32px;
   padding-inline-end: 8px;
   display: grid;
 }
-.surfing_root_px3YjW:hover {
+.surfing_root_TqXXoa:hover {
   background: var(--color-base-30);
 }
-.surfing_root_px3YjW.surfing_isSelected_px3YjW {
+.surfing_root_TqXXoa.surfing_isSelected_TqXXoa {
   background: var(--color-base-40);
   border-radius: var(--size-2-2);
 }
-.surfing_expandIconWrapper_px3YjW {
+.surfing_expandIconWrapper_TqXXoa {
   cursor: pointer;
-  height: 24px;
-  width: 24px;
   justify-content: center;
   align-items: center;
+  width: 24px;
+  height: 24px;
   font-size: 0;
   transition: transform .1s linear;
   display: flex;
   transform: rotate(0);
 }
-.surfing_expandIconWrapper_px3YjW.surfing_isOpen_px3YjW {
+.surfing_expandIconWrapper_TqXXoa.surfing_isOpen_TqXXoa {
   transform: rotate(90deg);
 }
-.surfing_labelGridItem_px3YjW {
+.surfing_labelGridItem_TqXXoa {
   width: 100%;
   padding-inline-start: 8px;
   overflow: hidden;
 }
-.surfing_pipeY_px3YjW {
+.surfing_pipeY_TqXXoa {
   border-left: 2px solid #e7e7e7;
   position: absolute;
   top: -7px;
   left: -7px;
 }
-.surfing_pipeX_px3YjW {
-  height: 2px;
+.surfing_pipeX_TqXXoa {
   z-index: -1;
   background-color: #e7e7e7;
+  height: 2px;
   position: absolute;
   top: 15px;
   left: -7px;
 }
 
-/* esbuild-css-modules-plugin-namespace:.\src\component\TabTreeView\Placeholder.module.css?esbuild-css-modules-plugin-built */
-.surfing_root_3FoL3a {
-  height: 2px;
+/* esbuild-css-modules-plugin-namespace:./src/component/TabTreeView/Placeholder.module.css?esbuild-css-modules-plugin-built */
+.surfing_root_5CqT8q {
   background-color: #1967d2;
+  height: 2px;
   position: absolute;
   top: 0;
   right: 0;
   transform: translateY(-50%);
 }
 
-/* esbuild-css-modules-plugin-namespace:.\src\component\TabTreeView\TabTree.module.css?esbuild-css-modules-plugin-built */
-.surfing_app_zUmbJa {
-  height: 100%;
+/* esbuild-css-modules-plugin-namespace:./src/component/TabTreeView/TabTree.module.css?esbuild-css-modules-plugin-built */
+.surfing_app_9UFhHW {
   margin: var(--size-4-2);
   border-radius: var(--size-2-2);
-}
-.surfing_container_zUmbJa,
-.surfing_treeRoot_zUmbJa {
   height: 100%;
 }
-.surfing_draggingSource_zUmbJa {
+.surfing_container_9UFhHW,
+.surfing_treeRoot_9UFhHW {
+  height: 100%;
+}
+.surfing_draggingSource_9UFhHW {
   opacity: .3;
 }
-.surfing_placeholderContainer_zUmbJa {
+.surfing_placeholderContainer_9UFhHW {
   position: relative;
 }
-.surfing_dropTarget_zUmbJa {
+.surfing_dropTarget_9UFhHW {
   background-color: var(--color-accent);
 }
 
-/* esbuild-css-modules-plugin-namespace:.\src\component\TabTreeView\CustomDragPreview.module.css?esbuild-css-modules-plugin-built */
-.surfing_root_YLpzFq {
+/* esbuild-css-modules-plugin-namespace:./src/component/TabTreeView/CustomDragPreview.module.css?esbuild-css-modules-plugin-built */
+.surfing_root_O6yzOW {
   align-items: "center";
   color: #fff;
   pointer-events: none;
@@ -93,8 +93,8 @@
   display: inline-grid;
   box-shadow: 0 12px 24px -6px #00000040, 0 0 0 1px #00000014;
 }
-.surfing_icon_YLpzFq,
-.surfing_label_YLpzFq {
+.surfing_icon_O6yzOW,
+.surfing_label_O6yzOW {
   align-items: center;
   display: flex;
 }
@@ -743,4 +743,19 @@ div[data-type^=surfing-tab-tree] ul li {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+.surfing-hover-popover {
+  height: 400px;
+}
+.surfing-embed-website {
+  height: 800px;
+}
+.surfing-hover-popover .surfing-hover-popover-container,
+.surfing-hover-popover .wb-view-content.node-insert-event,
+.surfing-embed-website .surfing-embed-website-container,
+.surfing-embed-website .surfing-embed-website-container .wb-view-content.node-insert-event {
+  height: 100%;
+}
+.popover.hover-editor .popover-content:has(div[data-type^="surfing-view"]) {
+  width: 100%;
 }
