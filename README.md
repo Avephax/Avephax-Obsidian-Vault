@@ -1,9 +1,9 @@
 # Maskscot's System of Practices - Functional Thinking
 ### A distilled version of my Vault for anyone to use for their endeavors.
 
-## A mnemonic [Obsidian](https://obsidian.md/) system for using the Loci Method, Feedback Loops, and Functional Thinking by reasoning and learning through function and form!
+## My versatile [Obsidian](https://obsidian.md/) system for using Functional Thinking by learning and linking through function and form under a Feedback Loop through Causality!
 
-![final-maskscot-system-showcase](https://github.com/Maskscot/System-of-Practices-by-Maskscot/assets/112918049/c2e20d0c-af87-4e46-b046-471bb7ac8dde)
+![ultimate-finalized-system-maskscot](https://github.com/Maskscot/System-of-Practices-by-Maskscot/assets/112918049/be657b7c-2fa4-4ad5-9f0f-1dc72cc7b251)
 
 My approach of understanding the world around us.
 
