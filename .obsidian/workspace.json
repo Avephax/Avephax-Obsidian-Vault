@@ -84,8 +84,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feedback Loops.md",
+                "file": "Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feedback Loops.md",
+                "file": "Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,17 +223,17 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "2c40968caa7c6e23",
+  "active": "27205fef611396e5",
   "lastOpenFiles": [
+    "Functional Thinking.md",
+    "Associative Thinking.md",
+    "Action Verbs.md",
+    "Action Verbs.canvas",
+    "Feedback Loops.md",
+    "Hotkeys.md",
     "System-of-Practices-by-Maskscot.zip",
     "System-of-Practices-by-Maskscot.rar",
-    "Action Verbs.canvas",
-    "Action Verbs.md",
-    "Associative Thinking.md",
-    "Functional Thinking.md",
-    "Hotkeys.md",
     "Excalibrain.md",
-    "Feedback Loops.md",
     "maskscot-system-of-practices-pkm-functions.zip",
     "Associative Learning Loop.md",
     "Diminishing Returns.md",
