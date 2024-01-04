@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "a8526432d6b7be6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Associative Thinking.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad33fa4b331f784b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Action Verbs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "59f4b9ce0ce4a71c",
             "type": "leaf",
             "pinned": true,
@@ -70,18 +46,6 @@
                 }
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "2c40968caa7c6e23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feedback Loops.md",
-                "mode": "preview",
-                "source": false
-              }
             }
           }
         ]
@@ -129,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asso",
+                "query": "line:() section:() file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -221,19 +186,20 @@
       "obsidian-wordy:Wordy view": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "surfing:surfing-bookmark-manager": false
+      "surfing:surfing-bookmark-manager": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "458bc07a6625e04f",
+  "active": "27205fef611396e5",
   "lastOpenFiles": [
     "Functional Thinking.md",
-    "Associative Thinking.md",
-    "Action Verbs.md",
-    "Action Verbs.canvas",
-    "Feedback Loops.md",
     "Hotkeys.md",
     "System-of-Practices-by-Maskscot.zip",
+    "Action Verbs.canvas",
+    "Feedback Loops.md",
+    "Associative Thinking.md",
+    "Action Verbs.md",
+    "System-of-Practices-by-Maskscot-Full.zip",
     "System-of-Practices-by-Maskscot.rar",
     "Excalibrain.md",
     "maskscot-system-of-practices-pkm-functions.zip",

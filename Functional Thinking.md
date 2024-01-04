@@ -1,5 +1,5 @@
 - **Layer 1** - Name and Define **Functions**
-1. Name the form by naming the functions within. ^6br3d
+1. Name the form and then name the functions within. ^6br3d
 	- [[Functional Thinking#^a5hxg]]
 2. Recursively name the specific functions by related causes within each form and function’s name. ^a5hxg
     - [[Functional Thinking#^cqe6x]]

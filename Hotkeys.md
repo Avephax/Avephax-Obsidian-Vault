@@ -41,6 +41,7 @@
     - Ctrl + Shift + L - **Link** Info from a Source (Carry-Forward)
     - Ctrl + Alt + L - Turn Note into Canvas MOC
     - Ctrl + Tab = Transform Bullet Note into its own note (Note Refactor)
+    - Ctrl + Shift + S - Search anything within .canvas files
     - Ctrl + K - **Link** to an external link []\()
     - Alt + Shift + L - Delete Links
     - Ctrl + Alt + O - Copy Obsidian URL
