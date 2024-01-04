@@ -500,5 +500,14 @@
       ],
       "key": "I"
     }
+  ],
+  "simple-canvasearch:open-canvasearch-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }

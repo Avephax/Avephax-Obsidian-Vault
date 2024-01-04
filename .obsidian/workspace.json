@@ -196,7 +196,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -223,7 +225,7 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "27205fef611396e5",
+  "active": "458bc07a6625e04f",
   "lastOpenFiles": [
     "Functional Thinking.md",
     "Associative Thinking.md",
