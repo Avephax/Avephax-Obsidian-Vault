@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"Hotkeys.md","width":500,"height":500,"y":300,"x":0,"type":"file","file":"Hotkeys.md","color":"1"},
+		{"id":"Functional Thinking.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Functional Thinking.md"},
+		{"id":"Predicate.md","width":500,"height":500,"x":2000,"y":600,"type":"file","file":"Predicate.md"},
+		{"id":"Welcome.md","width":500,"height":500,"x":-1000,"y":300,"type":"file","file":"Welcome.md"}
+	],
+	"edges":[
+		{"id":"Hotkeys.md-Hotkeys.md","fromSide":"right","toSide":"left","fromNode":"Hotkeys.md","toNode":"Hotkeys.md"},
+		{"id":"Hotkeys.md-Functional Thinking.md","fromSide":"right","toSide":"left","fromNode":"Hotkeys.md","toNode":"Functional Thinking.md"},
+		{"id":"Functional Thinking.md-Functional Thinking.md","fromSide":"right","toSide":"left","fromNode":"Functional Thinking.md","toNode":"Functional Thinking.md"},
+		{"id":"Functional Thinking.md-Predicate.md","fromSide":"right","toSide":"left","fromNode":"Functional Thinking.md","toNode":"Predicate.md"},
+		{"id":"Functional Thinking.md-Hotkeys.md","fromSide":"right","toSide":"left","fromNode":"Functional Thinking.md","toNode":"Hotkeys.md"},
+		{"id":"Hotkeys.md-Welcome.md","fromSide":"right","toSide":"left","fromNode":"Welcome.md","toNode":"Hotkeys.md"}
+	]
+}

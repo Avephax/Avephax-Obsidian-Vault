@@ -441,15 +441,6 @@
       "key": "S"
     }
   ],
-  "link-exploder:link-exploder-canvas-builder": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
   "links:editor-delete-link": [
     {
       "modifiers": [
@@ -505,6 +496,32 @@
   "obsidian-wordy:wordy-ant": [
     {
       "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "links:editor-edit-link-destination": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "link-exploder:link-exploder-canvas-builder": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "links:editor-edit-link-text": [
+    {
+      "modifiers": [
+        "Alt",
         "Mod"
       ],
       "key": "W"

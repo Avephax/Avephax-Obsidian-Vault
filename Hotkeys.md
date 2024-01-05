@@ -19,11 +19,14 @@
 
 - **Find and go through Notes** ^w1u5i
     - line:() - **Search** a Hotkey
-    -  file:() - Search a file name
+    - file:() - Search a file name
     - Alt + I - Clear Media Folder (for files you don’t use anymore)
     - Ctrl + N - **Make** New Note
     - Ctrl + Shift + N - **Make** New Canvas
+    - Ctrl + A - Turn Note into Canvas MOC / Create Canvas From File Links (Link Exploder)
     - Ctrl + Alt + T - **Make** New Tab
+    - Ctrl + Alt + L - Edit Link Destination (Links)
+    - Ctrl + Alt + W - Edit Link Text (Links)
     - Shift + ↔ - Navigate a Previous or Current Page
     - Alt + ↔ - **Navigate** Tabs
     - Ctrl + R - **Toggle** Reading Mode
@@ -36,7 +39,6 @@
 - **Make and go** through **links** ^an8nq
     - Ctrl + L - **Carry** Link to another Note (Carry-Forward)
     - Ctrl + Shift + L - **Link** Info from a Source (Carry-Forward)
-    - Ctrl + Alt + L - Turn Note into Canvas MOC
     - Ctrl + Tab = Transform Bullet Point into its own note (Note Refactor)
     - Ctrl + Shift + S - Search anything within .canvas files
     - Ctrl + K - **Link** to an external link []\()

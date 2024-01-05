@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "360fc489882462f3",
+        "id": "df11c85e0bef5a57",
         "type": "tabs",
         "children": [
           {
-            "id": "a317b628bb31a60c",
+            "id": "0bc746bfcad1a06a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,19 @@
             }
           },
           {
-            "id": "5b95cb9d07755ac4",
+            "id": "9fc8fe0929f568ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hotkeys.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4669678558a3e47",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4c9c896ddbcdbd55",
@@ -120,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Thinking.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Thinking.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Thinking.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -185,11 +196,13 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "5b95cb9d07755ac4",
+  "active": "a2d133ce7cad1d9d",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Hotkeys.md",
+    "System-Of-Maskscot-Distilled-Template.zip",
     "Functional Thinking.md",
+    "Hotkeys.md",
+    "Welcome.md",
+    "__rzi_10444.26354",
     "Predicate.md",
     "Syntax/Media Linking.md",
     "Syntax",
