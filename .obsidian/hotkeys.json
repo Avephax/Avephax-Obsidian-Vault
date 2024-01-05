@@ -510,14 +510,6 @@
       "key": "L"
     }
   ],
-  "link-exploder:link-exploder-canvas-builder": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "A"
-    }
-  ],
   "links:editor-edit-link-text": [
     {
       "modifiers": [
@@ -525,6 +517,14 @@
         "Mod"
       ],
       "key": "W"
+    }
+  ],
+  "link-exploder:link-exploder-canvas-builder": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
     }
   ]
 }

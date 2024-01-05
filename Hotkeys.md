@@ -11,6 +11,7 @@
     - Ctrl + B - **Make** Bullet Point or Checkbox
     - Ctrl + Alt + B - **Remove or Add** Bullet Points
     - Alt + F - Add link
+    - Alt + T - **Timestamp** a Note/Card
     - Ctrl + ↕ = **Move** a bullet point's position
     - Ctrl + Alt + C = **Turn** Page into Hover Tab (Hover Editor)
     - Ctrl + Shift + C = **Insert** Template Syntax
@@ -23,7 +24,7 @@
     - Alt + I - Clear Media Folder (for files you don’t use anymore)
     - Ctrl + N - **Make** New Note
     - Ctrl + Shift + N - **Make** New Canvas
-    - Ctrl + A - Turn Note into Canvas MOC / Create Canvas From File Links (Link Exploder)
+    - Alt + A - Turn Note into Canvas MOC / Create Canvas From File Links (Link Exploder)
     - Ctrl + Alt + T - **Make** New Tab
     - Ctrl + Alt + L - Edit Link Destination (Links)
     - Ctrl + Alt + W - Edit Link Text (Links)
@@ -55,10 +56,6 @@
     - Alt + G = Open Local Graph
     - Alt + E = **Clear** Unused Images
     - Attach Media - **Drag & Drop** / Copy-Paste
-        - [[Hotkeys#^p1a7b]]
-
-- **Timestamp** ^p1a7b
-    - Alt + T - **Timestamp** a Note/Card
         - [[Hotkeys#^oyt0v]]
 
 - **Encrypt (Lock) Notes:** ^oyt0v
