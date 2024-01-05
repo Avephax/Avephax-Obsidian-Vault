@@ -3,7 +3,7 @@
 
 ## My versatile [Obsidian](https://obsidian.md/) system for using Functional Thinking by learning and linking forms and functions under Feedback Loops!
 
-![Obsidian_fEw9wVfgfP](https://github.com/Maskscot/System-of-Practices-by-Maskscot/assets/112918049/d7731e29-e546-465b-b667-1667e913af05)
+![Obsidian_s7LFn3BVD3](https://github.com/Maskscot/System-of-Practices-by-Maskscot/assets/112918049/a4e425bd-101a-4999-94f6-b14669b3d1b8)
 
 My approach to understanding the world around us.
 
