@@ -1,26 +1,26 @@
 {
   "main": {
-    "id": "b54dc86d9a718578",
+    "id": "44988db4ad263e2e",
     "type": "split",
     "children": [
       {
-        "id": "5b80be5baa275956",
+        "id": "360fc489882462f3",
         "type": "tabs",
         "children": [
           {
-            "id": "27205fef611396e5",
+            "id": "a317b628bb31a60c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "Welcome.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "21fc27922f5d43ca",
+            "id": "5b95cb9d07755ac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,22 +30,20 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4c9c896ddbcdbd55",
+        "type": "tabs",
+        "children": [
           {
-            "id": "59f4b9ce0ce4a71c",
+            "id": "4abf1fb1c2fd350a",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Action Verbs.canvas",
-                "viewState": {
-                  "x": 1250,
-                  "y": 1680,
-                  "zoom": -1.5466644566921093
-                }
-              },
-              "pinned": true
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -54,15 +52,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "54cae5083db58954",
+    "id": "7393682f516a404f",
     "type": "split",
     "children": [
       {
-        "id": "01234cec8dc83ea6",
+        "id": "e8756250c48dd437",
         "type": "tabs",
         "children": [
           {
-            "id": "458bc07a6625e04f",
+            "id": "a2d133ce7cad1d9d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,28 +70,12 @@
             }
           },
           {
-            "id": "3979c8262950d7a4",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "3e7b7e7500fc3941",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "dbac2739b967d031",
+            "id": "5c9c419cdbd4a79c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "line:() section:() file:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,40 +85,46 @@
             }
           },
           {
-            "id": "ba9688e731c8fe7a",
+            "id": "8b786d181d601da7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "867384f28e401143",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "7f60c61e79aca53a",
+    "id": "75c8a553f716561e",
     "type": "split",
     "children": [
       {
-        "id": "a038a71844be2659",
+        "id": "ea903f323150aaa9",
         "type": "tabs",
         "children": [
           {
-            "id": "8077fda2073089cc",
+            "id": "efe5c8b016e0016a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "Functional Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -144,26 +132,35 @@
             }
           },
           {
-            "id": "bdfcec34bb3900c1",
+            "id": "39902788d1664223",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "Functional Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "33dcd8eae533101f",
+            "id": "ca662d22adf71551",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
+              "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84a679e16bcc08e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Functional Thinking.md"
               }
             }
           }
@@ -171,79 +168,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Start/stop recording": false,
-      "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-wordy:Wordy view": false,
+      "command-palette:Open command palette": false,
+      "surfing:surfing-bookmark-manager": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
-      "surfing:surfing-bookmark-manager": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "27205fef611396e5",
+  "active": "5b95cb9d07755ac4",
   "lastOpenFiles": [
-    "Functional Thinking.md",
+    "Welcome.md",
     "Hotkeys.md",
-    "System-of-Practices-by-Maskscot.zip",
-    "Action Verbs.canvas",
-    "Feedback Loops.md",
-    "Associative Thinking.md",
-    "Action Verbs.md",
-    "System-of-Practices-by-Maskscot-Full.zip",
-    "System-of-Practices-by-Maskscot.rar",
-    "Excalibrain.md",
-    "maskscot-system-of-practices-pkm-functions.zip",
-    "Associative Learning Loop.md",
-    "Diminishing Returns.md",
-    "Media/Associative Learning Loop.png",
-    "Hindsight bias.md",
-    "Associative Learning.md",
-    "Hock Principle.md",
-    "Occam's Razor.md",
-    "Inputs and Outputs.md",
-    "Maskscot's PKM System of Systems and Practices.md",
-    "Media/action-verbs.png",
-    "Problem Solving.md",
-    "Middle-Out Thinking.md",
-    "First Principles Mental Mapping.md",
-    "Higher Self Vs. Lower Self.md",
-    "Reward or Resist.md",
-    "Media/inputs-and-outputs.png",
-    "Media/solution-mental-mapping-1.png",
-    "Media/Threshold-Of-Intolerance.png",
-    "Media/First Principles Thinking Systemic Model.png",
-    "Media/abstract-actualize.png",
-    "Media/intuitive-facts.png",
-    "Media/solution-mental-mapping-2.png",
-    "Media/never-assume-first-principles.png",
-    "Factoring.md",
-    "First Principles Thinking.canvas",
-    "Solution Mental Mapping.md",
-    "Diminishing Returns.canvas",
-    "Associative Learning.canvas",
-    "Catalog/Templates/Media Linking.md",
-    "Catalog/Templates/Critical Linking.md",
-    "Untitled 2.md",
-    "Abstracting and Actualizing.md",
-    "Intuition.canvas",
-    "Insight.canvas",
-    "Catalog/Abstracting and Actualizing.pdf",
-    "Catalog/Factoring.pdf",
-    "My Home.canvas",
-    "Template Architecture.canvas",
-    "Concept.canvas",
-    "Catalog/Templates/Project.canvas",
-    "Untitled",
-    "Context"
+    "Functional Thinking.md",
+    "Predicate.md",
+    "Syntax/Media Linking.md",
+    "Syntax",
+    "Templates/Media Linking.md",
+    "Templates"
   ]
 }

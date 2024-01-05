@@ -1,3 +1,0 @@
-- Prioritizes theory over practice. ^chhia
-    - [[Hindsight bias#^chhia]]
-    - [[Feedback Loops#^t0-4d]]

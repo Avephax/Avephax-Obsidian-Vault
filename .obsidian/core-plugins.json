@@ -6,15 +6,15 @@
   "backlink",
   "canvas",
   "outgoing-link",
-  "properties",
+  "tag-pane",
   "page-preview",
+  "daily-notes",
   "templates",
   "note-composer",
   "command-palette",
   "editor-status",
   "bookmarks",
+  "outline",
   "word-count",
-  "audio-recorder",
-  "workspaces",
   "file-recovery"
 ]

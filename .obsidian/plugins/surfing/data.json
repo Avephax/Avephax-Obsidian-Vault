@@ -1,6 +1,7 @@
 {
   "defaultSearchEngine": "google",
   "customSearchEngine": [],
+  "hoverPopover": true,
   "ignoreList": [
     "notion",
     "craft"

@@ -1,2 +1,0 @@
-- Simple, clear purpose and principles causes to complex and intelligent actions. Complex rules and regulations give rise to simple and stupid actions. ^ddubr
-    - [[Functional Thinking#^2w9f5]]

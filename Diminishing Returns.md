@@ -1,3 +1,0 @@
-- The value of any activity **decreases** the longer you do it. ^7mhoh
-	- [[Diminishing Returns#^7mhoh]]
-	- [[Functional Thinking#^11kml]]

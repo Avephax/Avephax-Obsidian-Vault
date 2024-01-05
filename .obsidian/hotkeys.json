@@ -324,14 +324,6 @@
       "key": "W"
     }
   ],
-  "obsidian-wordy:wordy-syn": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "W"
-    }
-  ],
   "workspace:close": [
     {
       "modifiers": [
@@ -508,6 +500,14 @@
         "Shift"
       ],
       "key": "S"
+    }
+  ],
+  "obsidian-wordy:wordy-ant": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
     }
   ]
 }

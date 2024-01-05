@@ -1,7 +1,0 @@
-- Linking or associating one idea, thought, or concept with another unrelated idea or concept. ^ahryr
-    - [[Associative Thinking#^-vx0z]]
-    - [[Associative Learning Loop#^tywot]]
-    - [[Feedback Loops#^w31xw]]
-    - [[Functional Thinking#^rkcf4]]
-- Learn by linking one stimulus to an unrelated idea or concept. ^-vx0z
-    - [[Associative Thinking#^ahryr]]
