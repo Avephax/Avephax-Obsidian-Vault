@@ -3,7 +3,7 @@
 
 ## My versatile [Obsidian](https://obsidian.md/) system for using Functional Thinking by learning and linking forms and functions under Feedback Loops!
 
-![Obsidian_s7LFn3BVD3](https://github.com/Maskscot/System-of-Practices-by-Maskscot/assets/112918049/a4e425bd-101a-4999-94f6-b14669b3d1b8)
+![Obsidian_DsoULdN9sB](https://github.com/Maskscot/System-of-Practices-by-Maskscot/assets/112918049/24a792a5-964e-4cd6-ae94-d2e658dd5abd)
 
 My approach to understanding the world around us.
 
@@ -13,3 +13,4 @@ My approach to understanding the world around us.
 - **Hover Editor** - https://github.com/nothingislost/obsidian-hover-editor
 - **Link Exploder** - https://github.com/benhughes/obsidian-link-exploder
 - **Simple Canvasearch** - https://github.com/ddalexb/obsidian-simple-canvasearch
+- **Links** - https://github.com/mii-key/obsidian-links
