@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax/Media Linking.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax/Media Linking.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syntax/Media Linking.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax/Media Linking.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -172,10 +172,11 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "0bc746bfcad1a06a",
+  "active": "a2d133ce7cad1d9d",
   "lastOpenFiles": [
-    "Functional Thinking.md",
+    "README.md",
     "Syntax/Media Linking.md",
+    "Functional Thinking.md",
     "Welcome.md",
     "Hotkeys.md",
     "Hotkeys.canvas",
