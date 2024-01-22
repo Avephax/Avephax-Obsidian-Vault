@@ -1,1 +1,1 @@
-[(Insert a Caption here)![[Insert Image here]]](<Insert Note Name here>)
+[(Insert a Caption here)![[Insert Image here]]](<Insert Bullet Point Block ID here>)

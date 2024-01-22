@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "preview",
+                "file": "Syntax/Media Linking.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Syntax/Media Linking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Syntax/Media Linking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Syntax/Media Linking.md"
               }
             }
           }
@@ -172,16 +172,16 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "a2d133ce7cad1d9d",
+  "active": "0bc746bfcad1a06a",
   "lastOpenFiles": [
+    "Functional Thinking.md",
+    "Syntax/Media Linking.md",
+    "Welcome.md",
     "Hotkeys.md",
     "Hotkeys.canvas",
-    "Functional Thinking.md",
     "Predicate.md",
-    "Welcome.md",
     "System-Of-Maskscot-Distilled-Template.zip",
     "__rzi_10444.26354",
-    "Syntax/Media Linking.md",
     "Syntax",
     "Templates/Media Linking.md",
     "Templates"
