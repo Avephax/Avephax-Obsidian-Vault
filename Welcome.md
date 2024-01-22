@@ -1,7 +1,7 @@
 *Aye!* This is your new *vault*!
 
-Make a note of anything and follow the steps in [[Hotkeys#^zse-t|Hotkeys]]! They are your guiding principles!
+Make a note of anything and follow the steps in [[Hotkeys#^zse-t|Hotkeys]]! The [[Functional Thinking]] framework are your guiding principles!
 
-After you're done, delete this note and make the vault your own!
+Once you're ready, delete this note and start making this vault your own!
 
 Prebuilt Vault by **Maskscot**, Jan 2024
