@@ -3,8 +3,9 @@
 
 ## My versatile [Obsidian](https://obsidian.md/) system for using Functional Thinking by learning and linking forms and functions under Feedback Loops!
 
-![Obsidian_GgitiCUp8I](https://github.com/avynue/Avynue-Obsidian-Vault/assets/112918049/cd3b83d7-b51f-4e77-8e6b-a7a15c7ec858)
-Video Showcase here: https://www.youtube.com/watch?v=y1dbwSbXggg
+![avynue-vault](https://github.com/avynue/Avynue-Obsidian-Vault/assets/112918049/5d33661b-c96b-4f65-b578-0d935e73e13d)
+
+### Video Showcase here: https://www.youtube.com/watch?v=y1dbwSbXggg
 
 My approach to understanding the world around us.
 
