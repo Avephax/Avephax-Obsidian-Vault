@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "df11c85e0bef5a57",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0bc746bfcad1a06a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "4c9c896ddbcdbd55",
         "type": "tabs",
         "children": [
@@ -32,8 +14,58 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "074e7b3d783c8749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Predicate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43a8a2bede39420a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keywords.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67b8f15eeeef91f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Thinking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ae011836bb77b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -107,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Predicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Predicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Predicate.md"
               }
             }
           }
@@ -172,15 +204,17 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "0bc746bfcad1a06a",
+  "active": "074e7b3d783c8749",
   "lastOpenFiles": [
-    "README.md",
-    "Syntax/Media Linking.md",
-    "Functional Thinking.md",
+    "Keywords.md",
     "Welcome.md",
-    "Hotkeys.md",
-    "Hotkeys.canvas",
+    "Functional Thinking.md",
     "Predicate.md",
+    "Hotkeys.md",
+    "Welcome-Stamp-Avynue.png",
+    "Hotkeys.canvas",
+    "Syntax/Media Linking.md",
+    "README.md",
     "System-Of-Maskscot-Distilled-Template.zip",
     "__rzi_10444.26354",
     "Syntax",

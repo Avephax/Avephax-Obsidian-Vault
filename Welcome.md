@@ -4,4 +4,6 @@ Make a note of anything and follow the steps in [[Hotkeys#^zse-t|Hotkeys]]! The 
 
 Once you're ready, delete this note and start making this vault your own!
 
-Prebuilt Vault by **Avynue**, Jan 2024
+Prebuilt Vault by **Avynue**, Feb 2024
+
+![[Welcome-Stamp-Avynue.png|200]]
