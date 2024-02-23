@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "4f5eae1e6326c889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hotkeys.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "074e7b3d783c8749",
             "type": "leaf",
             "state": {
@@ -46,7 +58,7 @@
               "type": "markdown",
               "state": {
                 "file": "Functional Thinking.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predicate.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predicate.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predicate.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -204,13 +216,13 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "074e7b3d783c8749",
+  "active": "8ae011836bb77b29",
   "lastOpenFiles": [
-    "Keywords.md",
-    "Welcome.md",
     "Functional Thinking.md",
-    "Predicate.md",
     "Hotkeys.md",
+    "Welcome.md",
+    "Predicate.md",
+    "Keywords.md",
     "Welcome-Stamp-Avynue.png",
     "Hotkeys.canvas",
     "Syntax/Media Linking.md",

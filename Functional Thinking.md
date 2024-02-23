@@ -12,6 +12,6 @@ A non-linear set of bullet points, combined to parse any and all sorts of functi
     - [[Functional Thinking#^rkcf4]]
     - [[Predicate#^jc4og]]
     - [[Keywords#^4pjju]]
-4. Go into, go in-between and/or return to relating predicates searched between any keyword(s). ^rkcf4
+4. Go into, go in-between, and/or return to naming what's between predicate(s) associated with keyword(s), and relate and search the keyword(s) by predicate(s). ^rkcf4
     - [[Functional Thinking#^6br3d]]
     - [[Hotkeys#^zse-t]]
