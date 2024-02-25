@@ -1,3 +1,3 @@
-- Names, words or phrases searched in key elements or concepts searched upon ideas, topics, or themes in any context, document, database, search engine, or conversation ^4pjju
+- Descriptors that use modifiers and qualifiers like nouns, names, numbers, adjectives, adverbs, and etc.  ^4pjju
 	- [[Predicate#^jc4og]]
 	- [[Functional Thinking#^6br3d]]
