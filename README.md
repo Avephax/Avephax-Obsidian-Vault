@@ -3,7 +3,7 @@
 
 ## My versatile [Obsidian](https://obsidian.md/) system for using Functional Thinking by learning and linking forms and functions under Feedback Loops!
 
-![Obsidian_m2v96uXVjt-ezgif com-optimize](https://github.com/avynue/Avynue-Obsidian-Vault/assets/112918049/f710f6cf-6fd4-4efb-b23c-9809c148f6e5)
+![Obsidian_8KvKhwMAeV](https://github.com/avynue/Avynue-Obsidian-Vault/assets/112918049/8e8f0be5-cb80-4fe0-be3c-430735951176)
 
 ### Video Showcase here: https://www.youtube.com/watch?v=y1dbwSbXggg
 
