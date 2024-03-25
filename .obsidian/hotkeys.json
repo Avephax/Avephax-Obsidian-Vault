@@ -230,15 +230,6 @@
     }
   ],
   "note-refactor-obsidian:app:extract-selection-content-only": [],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "C"
-    }
-  ],
   "meld-encrypt:meld-encrypt-create-new-note": [
     {
       "modifiers": [
@@ -525,6 +516,23 @@
         "Alt"
       ],
       "key": "A"
+    }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
     }
   ]
 }
