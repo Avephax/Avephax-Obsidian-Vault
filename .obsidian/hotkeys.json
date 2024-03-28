@@ -518,15 +518,6 @@
       "key": "A"
     }
   ],
-  "editor:insert-callout": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "C"
-    }
-  ],
   "insert-template": [
     {
       "modifiers": [

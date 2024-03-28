@@ -15,7 +15,6 @@
 > Ctrl + ↕ = **Move** a bullet point's position
 > Ctrl + Alt + C = **Turn** Page into Hover Tab (Hover Editor)
 > Alt + C - **Insert** Template Syntax 
-> Ctrl + Shift + C = Add Callout
 > Ctrl + P = Command Palette ^022xq
 > - [[Hotkeys#^w1u5i]]
 
