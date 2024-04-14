@@ -3,7 +3,7 @@
 		{"id":"Hotkeys.md","width":500,"height":500,"y":300,"x":0,"type":"file","file":"Hotkeys.md","color":"1"},
 		{"id":"Functional Thinking.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Functional Thinking.md"},
 		{"id":"Predicate.md","width":500,"height":500,"x":2000,"y":600,"type":"file","file":"Predicate.md"},
-		{"id":"Welcome.md","width":500,"height":500,"x":-1000,"y":300,"type":"file","file":"Welcome.md"}
+		{"id":"Welcome.md","width":500,"height":500,"x":-1000,"y":300,"type":"file","file":"Welcome Home.md"}
 	],
 	"edges":[
 		{"id":"Hotkeys.md-Hotkeys.md","fromSide":"right","toSide":"left","fromNode":"Hotkeys.md","toNode":"Hotkeys.md"},
