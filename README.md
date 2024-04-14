@@ -3,7 +3,7 @@
 
 ## My versatile [Obsidian](https://obsidian.md/) system for using Functional Thinking by learning and linking anything!
 
-![Obsidian_xEuk2OgmTH](https://github.com/avynue/Avynue-Obsidian-Vault/assets/112918049/9a043234-a213-4169-9fc1-f0c352c9853c)
+![Obsidian_nEghfW30Yw](https://github.com/avynue/Avynue-Obsidian-Vault/assets/112918049/41ed4a77-0638-4875-8482-b26f82dcf8c2)
 
 ### Video Showcase here: https://www.youtube.com/watch?v=y1dbwSbXggg
 
