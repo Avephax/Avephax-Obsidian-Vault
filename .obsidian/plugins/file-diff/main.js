@@ -1206,7 +1206,10 @@ var FileDiffPlugin = class extends import_obsidian5.Plugin {
           ""
         );
         const originalFile = files.find(
-          (f) => f.name === originalFileName
+          (f) => {
+            var _a, _b, _c, _d;
+            return f.name === originalFileName && ((_b = (_a = file.parent) == null ? void 0 : _a.path) != null ? _b : "") === ((_d = (_c = f.parent) == null ? void 0 : _c.path) != null ? _d : "");
+          }
         );
         if (originalFile) {
           syncConflicts.push({

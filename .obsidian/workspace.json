@@ -91,7 +91,7 @@
             }
           },
           {
-            "id": "203d6504362a6765",
+            "id": "bc872b060aa0fe4c",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
@@ -177,15 +177,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "surfing:surfing-bookmark-manager": false,
+      "obsidian-wordy:Wordy view": false,
+      "homepage:Open homepage": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
-      "obsidian-wordy:Wordy view": false,
-      "homepage:Open homepage": false
+      "meld-encrypt:Encrypt/Decrypt": false,
+      "surfing:surfing-bookmark-manager": false
     }
   },
   "active": "d69bfa7f923b934f",
   "lastOpenFiles": [
+    "Avephax-Obsidian-Vault.zip",
     "Hotkeys.md",
     "Functional Thinking.md",
     "Welcome Home.md",
