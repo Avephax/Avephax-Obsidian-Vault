@@ -525,5 +525,14 @@
       ],
       "key": "C"
     }
+  ],
+  "continuous-mode:toggle-continuous-mode-active": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
   ]
 }

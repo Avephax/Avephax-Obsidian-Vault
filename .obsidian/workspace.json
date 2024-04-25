@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4c9c896ddbcdbd55",
+        "id": "bc686f7109eea3c9",
         "type": "tabs",
         "children": [
           {
-            "id": "8ae011836bb77b29",
+            "id": "d69bfa7f923b934f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Welcome Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2c1ca19e29b91af4",
+            "id": "cde801e57ef0e643",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Hotkeys.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "99277bceeadec160",
+            "id": "bf2c79c625256203",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,15 +180,21 @@
       "surfing:surfing-bookmark-manager": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
-      "obsidian-wordy:Wordy view": false
+      "obsidian-wordy:Wordy view": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "8ae011836bb77b29",
+  "active": "d69bfa7f923b934f",
   "lastOpenFiles": [
-    "Avynue-Obsidian-Vault.zip",
+    "Hotkeys.md",
     "Functional Thinking.md",
     "Welcome Home.md",
-    "Hotkeys.md",
+    "Predicate.md",
+    "Hotkeys.canvas",
+    "Keywords.md",
+    "README.md",
+    "Home.md",
+    "Avynue-Obsidian-Vault.zip",
     "Syntax/Blue Star Folder.md",
     "Syntax/Yellow Star Folder.md",
     "Syntax/Red Star Folder.md",
@@ -196,11 +202,7 @@
     "Syntax/UI - Fold Callout.md",
     "Syntax/UI - Open Callout.md",
     "Syntax/Media Linking.md",
-    "Predicate.md",
-    "Keywords.md",
     "Welcome-Stamp-Avynue.png",
-    "Hotkeys.canvas",
-    "README.md",
     "System-Of-Maskscot-Distilled-Template.zip",
     "__rzi_10444.26354",
     "Syntax",

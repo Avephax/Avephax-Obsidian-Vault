@@ -6,7 +6,7 @@ Once you're ready, erase this text and start making this vault your home!
 
 Prebuilt Vault by **Avephax**, April 2024
 
-![[Welcome-Stamp-Avynue.png|200]]
+![[Welcome-Stamp-Avephax.png|200]]
 
 ----
 # Home

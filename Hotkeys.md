@@ -32,6 +32,7 @@
 	- Ctrl + Alt + T - **Make** New Tab
 	- Ctrl + Alt + L - Edit Link Destination (Links)
 	- Ctrl + Alt + W - Edit Link Text (Links)
+	- Alt + Shift + T - Stack Page(s) onto one single tab
 	- Shift + ↔ - Navigate a Previous or Current Page
 	- Alt + ↔ - **Navigate** Tabs
 	- Ctrl + R - **Toggle** Reading Mode
