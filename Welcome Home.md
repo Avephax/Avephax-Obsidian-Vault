@@ -4,7 +4,7 @@ Make a note of anything and follow the steps in [[Hotkeys#^zse-t|Hotkeys]]! The 
 
 Once you're ready, erase this text and start making this vault your home!
 
-Prebuilt Vault by **Avephax**, April 2024
+Prebuilt Vault by **Avephax**, May 2024
 
 ![[Welcome-Stamp-Avephax.png|200]]
 
@@ -14,5 +14,4 @@ Prebuilt Vault by **Avephax**, April 2024
 - &  [[Hotkeys]]
 - $ Tools
 	- [[Functional Thinking]]
-	- [[Keywords]]
-	- [[Predicate]]
+	- [[Keywords & Predicates]]

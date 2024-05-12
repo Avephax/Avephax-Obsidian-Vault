@@ -1,6 +1,0 @@
-- Descriptors that use modifiers and qualifiers like nouns, names, numbers, adjectives, adverbs, and etc.  ^4pjju
-	- [[Predicate#^jc4og]]
-	- [[Functional Thinking#^6br3d]]
-- Visuals like symbols, files and images ^w2fve
-	- [[Keywords#^4pjju]]
-	- [[Functional Thinking#^rkcf4]]

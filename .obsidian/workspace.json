@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b904f0b70c384fc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome Home.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1825e3147548da34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hotkeys.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d69bfa7f923b934f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Functional Thinking.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "559e89eab1b7d3cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keywords & Predicates.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -153,20 +190,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-wordy:Wordy view": false,
-      "homepage:Open homepage": false,
+      "surfing:surfing-bookmark-manager": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt": false,
-      "surfing:surfing-bookmark-manager": false
+      "obsidian-wordy:Wordy view": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "d69bfa7f923b934f",
   "lastOpenFiles": [
+    "Keywords & Predicates.md",
     "Welcome Home.md",
-    "Functional Thinking.md",
     "Hotkeys.md",
     "Avephax-Obsidian-Vault.zip",
+    "Functional Thinking.md",
     "Predicate.md",
     "Hotkeys.canvas",
     "Keywords.md",

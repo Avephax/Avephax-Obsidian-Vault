@@ -1,18 +1,25 @@
-A non-linear set of bullet points, combined to parse any and all sorts of functions, found within naming keyword(s) and predicate(s) of any and all cause(s).
+The interfacing structure of the fixed sequence of something that functions, both in concept and in practice.
 
 - **Layer 1** - Name and Define **Functions**
 1. Find any sequence and then define the structure within by keywords and/or symbols. ^6br3d
 	- [[Functional Thinking#^a5hxg]]
-	- [[Keywords#^4pjju]]
-2. Recursively relate the structure to other sequences or the symbols to other symbols by searching with keywords and predicates. ^a5hxg
+	- [[Keywords & Predicates#^1-4-g]]
+	- [[Keywords & Predicates#^muhrm]]
+	- [[Keywords & Predicates#^gu36c]]
+1. Recursively relate the structure to other sequences or the symbols to other symbols by searching with keywords and predicates. ^a5hxg
     - [[Functional Thinking#^cqe6x]]
-    - [[Predicate#^jc4og]]
+    - [[Keywords & Predicates#^jc4og]]
+    - [[Keywords & Predicates#^w40ye]]
 - **Layer 2** - Replacing and Linking **Functions** in any Problem 
-3. Synonymize and/or Antonymize with keywords and predicates the structure to other sequences or the symbols to other symbols. ^cqe6x
+2. Synonymize and/or Antonymize with keywords and predicates the fixed sequence(s) to other structures or the symbols to other symbols. ^cqe6x
     - [[Functional Thinking#^rkcf4]]
-    - [[Predicate#^jc4og]]
-    - [[Keywords#^4pjju]]
-4. Define by sequence(s) any keywords and symbols to find new structures within. ^rkcf4
+    - [[Keywords & Predicates#^jc4og]]
+    - [[Keywords & Predicates#^w40ye]]
+1. Define by any keywords and symbols to find fixed sequence(s) within. ^rkcf4
     - [[Functional Thinking#^6br3d]]
     - [[Hotkeys#^zse-t]]
-    - [[Keywords#^w2fve]]
+	- [[Keywords & Predicates#^1-4-g]]
+	- [[Keywords & Predicates#^muhrm]]
+	- [[Keywords & Predicates#^gu36c]]
+	- [[Keywords & Predicates#^w40ye]]
+	- [[Keywords & Predicates#^jc4og]]
