@@ -14,4 +14,4 @@ Prebuilt Vault by **Avephax**, May 2024
 - &  [[Hotkeys]]
 - $ Tools
 	- [[Functional Thinking]]
-	- [[Keywords & Predicates]]
+	- [[N-grams]]

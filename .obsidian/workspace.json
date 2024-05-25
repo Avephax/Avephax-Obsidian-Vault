@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Welcome Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Hotkeys.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keywords & Predicates.md",
+                "file": "N-grams.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Thinking.md",
+                "file": "N-grams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Thinking.md",
+                "file": "N-grams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Thinking.md"
+                "file": "N-grams.md"
               }
             }
           }
@@ -198,13 +198,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d69bfa7f923b934f",
+  "active": "a2d133ce7cad1d9d",
   "lastOpenFiles": [
-    "Keywords & Predicates.md",
-    "Welcome Home.md",
-    "Hotkeys.md",
     "Avephax-Obsidian-Vault.zip",
     "Functional Thinking.md",
+    "Hotkeys.md",
+    "Welcome Home.md",
+    "N-grams.md",
     "Predicate.md",
     "Hotkeys.canvas",
     "Keywords.md",

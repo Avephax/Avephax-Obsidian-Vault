@@ -1,15 +1,19 @@
-- A predicate is a word that ends in -s, -es, -ing, -ed or irregularly to identify any action, input, or dynamic for any function and form (subject). . ^jc4og
-	- [[Keywords & Predicates#^w40ye]]
+- Any groupings of "N" words, numbers, symbols, and punctuation in a specific, coherent order (sequence). ^hdsb1
+	- [[N-grams#^irj97]]
+- "N" represents groupings of whichever amount you want: 1, 2, 3, 4, ∞... ^irj97
+	- [[N-grams#^jc4og]]
+- A predicate is a word that ends in -s, -es, -ing, -ed or irregularly to identify any action, input, or dynamic for any function and form (subject). ^jc4og
+	- [[N-grams#^w40ye]]
 	- [[Functional Thinking#^11kml]]
 	- [[Hotkeys#^w1u5i]]
 - [Search up](http://www.sinonimkata.com/) **Hyponyms** to specify predicates, **Hypernyms** to simplify predicates, **Synonyms** to relate predicates and **Antonyms** to change predicates. ^w40ye
     - [[Functional Thinking#^2bkn0]]
     - [[Hotkeys#^w1u5i]]
-- Screenshot and record any visuals, symbols, videos, and images. ^muhrm
-	- [[Keywords & Predicates#^1-4-g]]
+- Screenshot and record any visuals, symbols, videos, and images by frame. ^muhrm
+	- [[N-grams#^1-4-g]]
 - Copy-paste descriptors in definitions that use modifiers and qualifiers like nouns, names, numbers, adjectives, adverbs, and etc. within any text. ^1-4-g
-	- [[Keywords & Predicates#^gu36c]]
+	- [[N-grams#^gu36c]]
 	- [[Hotkeys#^022xq]]
 - Record audio in a loop with any audio sampler ^gu36c
-    - [[Keywords & Predicates#^jc4og]]
+    - [[N-grams#^jc4og]]
     - [[Hotkeys#^umjo2]]
