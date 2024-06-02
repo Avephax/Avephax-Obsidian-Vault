@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Welcome Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Hotkeys.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N-grams.md",
+                "file": "Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N-grams.md",
+                "file": "Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N-grams.md"
+                "file": "Hotkeys.md"
               }
             }
           }
@@ -200,10 +200,10 @@
   },
   "active": "a2d133ce7cad1d9d",
   "lastOpenFiles": [
+    "Welcome Home.md",
+    "Hotkeys.md",
     "Avephax-Obsidian-Vault.zip",
     "Functional Thinking.md",
-    "Hotkeys.md",
-    "Welcome Home.md",
     "N-grams.md",
     "Predicate.md",
     "Hotkeys.canvas",

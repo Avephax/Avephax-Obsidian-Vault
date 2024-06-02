@@ -1,8 +1,8 @@
-- Any groupings of "N" words, numbers, symbols, and punctuation in a specific, coherent order (sequence). ^hdsb1
+- Any groupings of "N" words, numbers, symbols, and punctuation in a specific, coherent order of steps (sequence). ^hdsb1
 	- [[N-grams#^irj97]]
-- "N" represents groupings of whichever amount you want: 1, 2, 3, 4, ∞... ^irj97
+- "N" represents groupings of any counting of steps you want/find: 1, 2, 3, 4, ∞... ^irj97
 	- [[N-grams#^jc4og]]
-- A predicate is a word that ends in -s, -es, -ing, -ed or irregularly to identify any action, input, or dynamic for any function and form (subject). ^jc4og
+- A predicate is any or many sets of verbs/nouns that ends in -s, -es, -ing, -ed or irregularly to identify any step (action) for any subject (function and form). ^jc4og
 	- [[N-grams#^w40ye]]
 	- [[Functional Thinking#^11kml]]
 	- [[Hotkeys#^w1u5i]]
