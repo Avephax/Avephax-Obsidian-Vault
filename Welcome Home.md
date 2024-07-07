@@ -1,12 +1,14 @@
-*Hello there!* This is your new *vault*.
+## *Hello there!* 
+
+This is your new **Obsidian** vault.
 
 Make a note of anything and follow the steps in [[Hotkeys#^zse-t|Hotkeys]]! The [[Functional Thinking]] framework are your guiding principles!
 
-Once you're ready, erase this text and start making this vault your home!
+Once you're ready, erase this text and start making files in this vault!
 
-Prebuilt Vault by **Avephax**, June 2024
+Prebuilt Vault by **Avephax** - **July 7th, 2024**
 
-![[Welcome-Stamp-Avephax.png|200]]
+![[avephax-logo-full-stamp.png|200]]
 
 ----
 # Home

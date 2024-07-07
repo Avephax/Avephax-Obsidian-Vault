@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -111,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "N-grams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "N-grams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hotkeys.md"
+                "file": "N-grams.md"
               }
             }
           }
@@ -186,11 +187,11 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "surfing:surfing-bookmark-manager": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "surfing:surfing-bookmark-manager": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt": false,
@@ -198,12 +199,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a2d133ce7cad1d9d",
+  "active": "559e89eab1b7d3cd",
   "lastOpenFiles": [
-    "Welcome Home.md",
-    "Hotkeys.md",
     "Avephax-Obsidian-Vault.zip",
+    "Welcome Home.md",
+    "avephax-logo-full-stamp.png",
     "Functional Thinking.md",
+    "Hotkeys.md",
     "N-grams.md",
     "Predicate.md",
     "Hotkeys.canvas",
