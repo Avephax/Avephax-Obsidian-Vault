@@ -1,9 +1,9 @@
 # Functional Thinking System - Obsidian Vault
 
-## My versatile [Obsidian](https://obsidian.md/) system for using Functional Thinking by learning and linking anything!
+## My versatile [Obsidian](https://obsidian.md/) system for using Functional Thinking by linking anything to everything!
 
-![obsidian-avephax-aug-2024](https://github.com/user-attachments/assets/b1b7549f-57d8-4e02-8ae7-83f5bf4aa3e3)
+![avephax-obsidian-system-august-2024](https://github.com/user-attachments/assets/a14c3e0e-f46c-46da-a357-8d6beb982dc2)
 
 ### Video Showcase here: https://www.youtube.com/watch?v=y1dbwSbXggg
 
-My approach to understanding the world around us.
+My approach to learning the world around us.
