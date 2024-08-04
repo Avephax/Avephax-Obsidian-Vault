@@ -1,0 +1,19 @@
+{
+  "CN_path": "Hotkeys.md",
+  "exluded_folders": [
+    "Syntax/",
+    "Tray/"
+  ],
+  "exluded_filename_components": [],
+  "settings_version": "1.4.0",
+  "do_show_update_notice": false,
+  "auto_update_on_file_change": true,
+  "do_remember_expanded": true,
+  "MOC_path_starts_at_CN": true,
+  "file_descendants_expanded": {
+    "Hotkeys.md": true,
+    "Functional Thinking.md": true,
+    "N-grams.md": true
+  },
+  "do_show_paths_to_note": true
+}

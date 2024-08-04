@@ -1,1 +1,0 @@
-[(Insert a Caption here)![[Insert Image here]]](<Insert Bullet Point Block ID here>)

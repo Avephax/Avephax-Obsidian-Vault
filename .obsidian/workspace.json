@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b904f0b70c384fc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome Home.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1825e3147548da34",
             "type": "leaf",
             "state": {
@@ -28,6 +16,21 @@
                 "file": "Hotkeys.md",
                 "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a8d8b22144a2a2f1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Hotkeys.canvas",
+                "viewState": {
+                  "x": 695.9227900789739,
+                  "y": 1337.917643059359,
+                  "zoom": -1.4307889535798708
+                }
               }
             }
           },
@@ -56,7 +59,6 @@
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -96,10 +98,18 @@
             }
           },
           {
-            "id": "8b786d181d601da7",
+            "id": "8300a7b6627b2699",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "map-of-content",
+              "state": {}
+            }
+          },
+          {
+            "id": "d66382c29ae63ea8",
+            "type": "leaf",
+            "state": {
+              "type": "broken-links-view",
               "state": {}
             }
           },
@@ -111,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,61 +136,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "efe5c8b016e0016a",
+            "id": "8b786d181d601da7",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "N-grams.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "39902788d1664223",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "N-grams.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ca662d22adf71551",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "84a679e16bcc08e1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "N-grams.md"
-              }
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,19 +162,25 @@
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt": false,
       "obsidian-wordy:Wordy view": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "broken-links:View broken links": false,
+      "audio-recorder:Start/stop recording": false,
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "559e89eab1b7d3cd",
+  "active": "a2d133ce7cad1d9d",
   "lastOpenFiles": [
-    "Avephax-Obsidian-Vault.zip",
-    "Welcome Home.md",
-    "avephax-logo-full-stamp.png",
     "Functional Thinking.md",
     "Hotkeys.md",
     "N-grams.md",
-    "Predicate.md",
     "Hotkeys.canvas",
+    "Welcome Home.md",
+    "Tray/Elemental Magic—Volume II.pdf",
+    "Tray/avephax-logo-full-stamp.png",
+    "Tray",
+    "Avephax-Obsidian-Vault.zip",
+    "Predicate.md",
     "Keywords.md",
     "README.md",
     "Home.md",

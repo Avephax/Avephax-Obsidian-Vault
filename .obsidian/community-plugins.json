@@ -8,7 +8,6 @@
   "note-refactor-obsidian",
   "link-exploder",
   "obsidian-paste-image-rename",
-  "url-into-selection",
   "simple-canvasearch",
   "obsidian-style-settings",
   "surfing",
@@ -22,5 +21,12 @@
   "obsidian-list-callouts",
   "homepage",
   "continuous-mode",
-  "new-tab-default-page"
+  "new-tab-default-page",
+  "virtual-linker",
+  "paste-link",
+  "url-into-selection",
+  "dashboard-navigator",
+  "copy-without-links",
+  "map-of-content",
+  "broken-links"
 ]

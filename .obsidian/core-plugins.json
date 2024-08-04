@@ -6,7 +6,6 @@
   "backlink",
   "canvas",
   "outgoing-link",
-  "tag-pane",
   "page-preview",
   "daily-notes",
   "templates",
@@ -16,5 +15,6 @@
   "bookmarks",
   "outline",
   "word-count",
+  "audio-recorder",
   "file-recovery"
 ]

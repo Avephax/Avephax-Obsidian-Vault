@@ -1,16 +1,12 @@
 {
 	"nodes":[
-		{"id":"Hotkeys.md","width":500,"height":500,"y":300,"x":0,"type":"file","file":"Hotkeys.md","color":"1"},
-		{"id":"Functional Thinking.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Functional Thinking.md"},
-		{"id":"Predicate.md","width":500,"height":500,"x":2000,"y":600,"type":"file","file":"Predicate.md"},
-		{"id":"Welcome.md","width":500,"height":500,"x":-1000,"y":300,"type":"file","file":"Welcome Home.md"}
+		{"id":"Predicate.md","type":"file","file":"N-grams.md","x":800,"y":1400,"width":500,"height":1000,"color":"3"},
+		{"id":"Functional Thinking.md","type":"file","file":"Functional Thinking.md","x":80,"y":1400,"width":500,"height":1000,"color":"5"},
+		{"id":"Hotkeys.md","type":"file","file":"Hotkeys.md","x":400,"y":40,"width":540,"height":1200,"color":"1"}
 	],
 	"edges":[
-		{"id":"Hotkeys.md-Hotkeys.md","fromSide":"right","toSide":"left","fromNode":"Hotkeys.md","toNode":"Hotkeys.md"},
-		{"id":"Hotkeys.md-Functional Thinking.md","fromSide":"right","toSide":"left","fromNode":"Hotkeys.md","toNode":"Functional Thinking.md"},
-		{"id":"Functional Thinking.md-Functional Thinking.md","fromSide":"right","toSide":"left","fromNode":"Functional Thinking.md","toNode":"Functional Thinking.md"},
-		{"id":"Functional Thinking.md-Predicate.md","fromSide":"right","toSide":"left","fromNode":"Functional Thinking.md","toNode":"Predicate.md"},
-		{"id":"Functional Thinking.md-Hotkeys.md","fromSide":"right","toSide":"left","fromNode":"Functional Thinking.md","toNode":"Hotkeys.md"},
-		{"id":"Hotkeys.md-Welcome.md","fromSide":"right","toSide":"left","fromNode":"Welcome.md","toNode":"Hotkeys.md"}
+		{"id":"d8a7f385535920d9","fromNode":"Functional Thinking.md","fromSide":"right","toNode":"Predicate.md","toSide":"left","fromEnd":"arrow"},
+		{"id":"087cce488a0c6ee7","fromNode":"Predicate.md","fromSide":"top","toNode":"Hotkeys.md","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"6acc243aee98e1f0","fromNode":"Hotkeys.md","fromSide":"bottom","toNode":"Functional Thinking.md","toSide":"top","fromEnd":"arrow"}
 	]
 }
