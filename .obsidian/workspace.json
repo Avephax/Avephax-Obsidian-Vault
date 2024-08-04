@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bc686f7109eea3c9",
+        "id": "7724e92b4fa56e3f",
         "type": "tabs",
         "children": [
           {
-            "id": "1825e3147548da34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hotkeys.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8d8b22144a2a2f1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Hotkeys.canvas",
-                "viewState": {
-                  "x": 844.2352769292876,
-                  "y": 1203.3377938803678,
-                  "zoom": -1.4307889535798708
-                }
-              }
-            }
-          },
-          {
-            "id": "d69bfa7f923b934f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functional Thinking.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "559e89eab1b7d3cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N-grams.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b475a47cff29024",
+            "id": "f58c51fec7ffb9ab",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +163,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "7b475a47cff29024",
+  "active": "f58c51fec7ffb9ab",
   "lastOpenFiles": [
     "Hotkeys.md",
     "Tray/First Principles Thinking.pdf",
