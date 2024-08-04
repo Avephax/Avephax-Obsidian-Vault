@@ -57,8 +57,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b475a47cff29024",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -149,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +174,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hotkeys.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -205,17 +210,17 @@
       "dashboard-navigator:Open dashboard navigator": false,
       "broken-links:View broken links": false,
       "audio-recorder:Start/stop recording": false,
-      "map-of-content:Update Map of Content": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "1825e3147548da34",
+  "active": "7b475a47cff29024",
   "lastOpenFiles": [
+    "Hotkeys.md",
     "Tray/First Principles Thinking.pdf",
     "Untitled.md",
-    "Hotkeys.md",
     "Avephax-Obsidian-Vault.zip",
     "Functional Thinking.md",
     "N-grams.md",
