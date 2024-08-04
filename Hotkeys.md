@@ -1,4 +1,3 @@
-
 # *Hello there!*
 
 This is your new **Obsidian** vault.
@@ -25,16 +24,17 @@ Prebuilt Vault by **Avephax** - **August 4th, 2024**
 	5. Paste links under the bullet point as sub bullet-points (Enter/Ctrl + B > Ctrl + [ or ]) or at the bottom under a list callout (Alt + C)
 		- [[Hotkeys#^022xq]]
 		- [[Functional Thinking#^11kml]]
-
 - ! **Making a Note** ^022xq
 	- Ctrl + B - **Make** Bullet Point or Checkbox
 	- Ctrl + Alt + B - **Remove or Add** Bullet Points
+	- Ctrl + [ or ] - Indent or Outdent Bulletpoint
+	- Ctrl + Alt + [/] - Indent or Outdent list and sublists
+	- Ctrl + Alt + ↕ - Move list and sublists up or down
 	- Alt + T - **Timestamp** a Note/Card
 	- Ctrl + ↕ = **Move** a bullet point's position
 	- Ctrl + Alt + C = **Turn** Page into Hover Tab (Hover Editor)
 	- Ctrl + P = Command Palette
 		- [[Hotkeys#^an8nq]]
-
 - & **Make and Organize** **links** ^an8nq
 	- Alt + Q - Bookmark Block ID
 	- Ctrl + Q - Bookmark Note
@@ -45,7 +45,7 @@ Prebuilt Vault by **Avephax** - **August 4th, 2024**
 	- Ctrl + Tab = Transform Bullet Point into its own note (Note Refactor)
 	- Ctrl + L - **Carry** Link to another Note (Carry-Forward)
 	- Ctrl + Shift + L - **Link** Info from a Source (Carry-Forward)
-	- Alt + V - Disable Virtual Linker
+	- Ctrl + Alt + V - Disable Virtual Linker
 	- Alt + Shift + V - Enable Virtual Linker
 	- Alt + Shift + E = Turn an Embed Link into an Internal Link (Unembed Link)
 	- Alt + Shift + N = Find Broken Links
@@ -56,7 +56,6 @@ Prebuilt Vault by **Avephax** - **August 4th, 2024**
 	- Ctrl + Alt + O - Copy Obsidian URL
 	- Ctrl + Shift + L = **Link** Media
 		- [[Hotkeys#^w1u5i]]
-
 - @ **Find and go through Notes** ^w1u5i
 	- line:() - **Search** a Hotkey
 	- file:() - Search a file name
@@ -80,17 +79,16 @@ Prebuilt Vault by **Avephax** - **August 4th, 2024**
 	- Ctrl + Alt + S - Copy everything without the Links
 	- Alt + X - Close Current Tab
 		 - [[Hotkeys#^umjo2]]
-
 - & **Media** ^umjo2
 	- Alt + V - Open Video File
+	- Alt + P - Open PDF from Computer or Web Link
+	- Alt + Y - Paste then Highlight a Web Link then Open Video
 	- Alt + B - Timestamp Video or Audio
-	- Ctrl + T - Highlight and Open a Web Link
 	- Ctrl + Click = **Click** on an Image in Hover Editor
 	- Alt + G = Open Local Graph
 	- Alt + E = **Clear** Unused Images
 	- Attach Media - **Drag & Drop** / Copy-Paste
 		- [[Hotkeys#^oyt0v]]
-
 - ! **Encrypt (Lock) Notes:** ^oyt0v
 	- Ctrl + Alt + N - Create Encrypted Note
 	- Ctrl + Alt + K - Lock and Unlock Encrypted Text

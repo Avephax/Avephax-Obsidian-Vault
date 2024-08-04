@@ -351,9 +351,9 @@
   "obsidian-timestamp-notes:trigger-player": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "T"
+      "key": "Y"
     }
   ],
   "obsidian-statusbar-pomo:start-satusbar-pomo": [
@@ -564,7 +564,8 @@
   "virtual-linker:deactivate-virtual-linker": [
     {
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Mod"
       ],
       "key": "V"
     }
@@ -646,6 +647,61 @@
         "Alt"
       ],
       "key": "C"
+    }
+  ],
+  "obsidian-outliner:unfold": [],
+  "obsidian-outliner:fold": [],
+  "obsidian-outliner:indent-list": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "obsidian-outliner:outdent-list": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "obsidian-outliner:system-info": [],
+  "obsidian-outliner:move-list-item-down": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "obsidian-outliner:move-list-item-up": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "pdf-plus:create-dummy": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-timestamp-notes:open-sample-modal-complex": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
     }
   ]
 }

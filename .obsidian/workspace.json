@@ -27,8 +27,8 @@
               "state": {
                 "file": "Hotkeys.canvas",
                 "viewState": {
-                  "x": 695.9227900789739,
-                  "y": 1337.917643059359,
+                  "x": 844.2352769292876,
+                  "y": 1203.3377938803678,
                   "zoom": -1.4307889535798708
                 }
               }
@@ -142,6 +142,45 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "c693a4e47e7e6c89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hotkeys.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "908ae22d679a25f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hotkeys.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d94108e798d66b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hotkeys.md"
+              }
+            }
           }
         ]
       }
@@ -166,20 +205,25 @@
       "dashboard-navigator:Open dashboard navigator": false,
       "broken-links:View broken links": false,
       "audio-recorder:Start/stop recording": false,
-      "map-of-content:Update Map of Content": false
+      "map-of-content:Update Map of Content": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a2d133ce7cad1d9d",
+  "active": "1825e3147548da34",
   "lastOpenFiles": [
-    "Functional Thinking.md",
+    "Tray/First Principles Thinking.pdf",
+    "Untitled.md",
     "Hotkeys.md",
+    "Avephax-Obsidian-Vault.zip",
+    "Functional Thinking.md",
     "N-grams.md",
     "Hotkeys.canvas",
     "Welcome Home.md",
     "Tray/Elemental Magic—Volume II.pdf",
     "Tray/avephax-logo-full-stamp.png",
     "Tray",
-    "Avephax-Obsidian-Vault.zip",
     "Predicate.md",
     "Keywords.md",
     "README.md",
