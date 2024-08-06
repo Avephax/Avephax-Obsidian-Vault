@@ -13,7 +13,8 @@
   "file_descendants_expanded": {
     "Hotkeys.md": true,
     "Functional Thinking.md": true,
-    "N-grams.md": true
+    "N-grams.md": true,
+    "Hotkeys.canvas": true
   },
   "do_show_paths_to_note": true
 }

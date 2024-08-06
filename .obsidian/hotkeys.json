@@ -703,5 +703,13 @@
       ],
       "key": "V"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
   ]
 }

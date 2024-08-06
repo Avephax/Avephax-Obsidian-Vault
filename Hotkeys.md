@@ -2,14 +2,14 @@
 
 This is your new **Obsidian** vault.
 
-The [[Functional Thinking]] framework and N-grams are your guiding principles!
+The [[Functional Thinking]] framework and [[N-grams]] are your guiding principles!
 
 Once you're ready, follow the steps below and start making note(s) of anything in this vault!
 
-Prebuilt Vault by **Avephax** - **August 4th, 2024**
+Prebuilt Vault by **Avephax** - **August 6th, 2024**
 
 
-![[avephax-logo-full-stamp.png|400]]
+[![[avephax-logo-full-stamp.png|400]]](<Hotkeys.canvas>)
 
 ----
 
@@ -61,6 +61,7 @@ Prebuilt Vault by **Avephax** - **August 4th, 2024**
 	- file:() - Search a file name
 	- Ctrl + N - **Make** New Note
 	- Ctrl + Shift + N - **Make** New Canvas
+	- Alt + N - Add Embedded Media then add the "Embed Link" syntax
 	- Ctrl + M - Update Map of Notes
 	- Alt + M - Set current Note as the Central Note (Map of Notes)
 	- Ctrl + Shift + M - Show Map of Notes

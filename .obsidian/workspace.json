@@ -4,18 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "7724e92b4fa56e3f",
+        "id": "07b7816b679b21f6",
         "type": "tabs",
         "children": [
           {
-            "id": "f58c51fec7ffb9ab",
+            "id": "3acca3b86a4679d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hotkeys.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa6d64f992fe0f5c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Hotkeys.canvas",
+                "viewState": {
+                  "x": 639.720319569727,
+                  "y": 1220,
+                  "zoom": -1.3031556787068361
+                }
+              }
+            }
+          },
+          {
+            "id": "f88ddd861468a09d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Thinking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd2ebdbeb7e3c9bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N-grams.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -105,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hotkeys.md"
+              }
             }
           }
         ]
@@ -163,15 +211,19 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "f58c51fec7ffb9ab",
+  "active": "a2d133ce7cad1d9d",
   "lastOpenFiles": [
+    "Syntax/Embed Link.md",
     "Hotkeys.md",
+    "N-grams.md",
+    "Functional Thinking.md",
+    "Hotkeys.canvas",
+    "Syntax",
+    "Untitled/Sometimes/Index.md",
+    "Untitled/Sometimes",
     "Tray/First Principles Thinking.pdf",
     "Untitled.md",
     "Avephax-Obsidian-Vault.zip",
-    "Functional Thinking.md",
-    "N-grams.md",
-    "Hotkeys.canvas",
     "Welcome Home.md",
     "Tray/Elemental Magic—Volume II.pdf",
     "Tray/avephax-logo-full-stamp.png",
@@ -192,7 +244,6 @@
     "System-Of-Maskscot-Distilled-Template.zip",
     "__rzi_10444.26354",
     "Syntax",
-    "Templates/Media Linking.md",
-    "Templates"
+    "Templates/Media Linking.md"
   ]
 }
