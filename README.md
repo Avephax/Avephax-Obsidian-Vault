@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/60c2463b-7110-4ed6-a2e9-957243bb4aaa
 # Functional Thinking System - Obsidian Vault
 
 ## My versatile [Obsidian](https://obsidian.md/) system for using Functional Thinking by linking anything to everything!
