@@ -1,8 +1,10 @@
+
+https://github.com/user-attachments/assets/60c2463b-7110-4ed6-a2e9-957243bb4aaa
 # Functional Thinking System - Obsidian Vault
 
 ## My versatile [Obsidian](https://obsidian.md/) system for using Functional Thinking by linking anything to everything!
 
-![avephax-obsidian-vault-update-august-6th-2024](https://github.com/user-attachments/assets/74c7c33c-6df9-48ac-a197-264d0a0fbed9)
+![avephax-obsidian-vault-update-august-7th-2024](https://github.com/user-attachments/assets/1dae1904-3f20-402f-b26d-8ed96c954232)
 
 ### Video Showcase here: https://www.youtube.com/watch?v=y1dbwSbXggg
 
